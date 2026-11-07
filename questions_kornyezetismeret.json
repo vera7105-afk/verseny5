@@ -1,0 +1,482 @@
+[
+  {
+    "id": 121,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyek a virágos növények fő részei alulról felfelé haladva?",
+    "options": [
+      "Gyökérzet, szár, levél, virág, termés",
+      "Korona, bimbó, ág, fűszál, moha",
+      "Gyökérzet, törzs, toboz, gomba",
+      "Levél, virág, gyökér, kéreg, ág"
+    ],
+    "correct": 0,
+    "explanation": "A virágos növény részei: a gyökérzet (rögzít és felszív), a szár (tart és szállít), a levél (táplálékot készít, párologtat), a virág és a termés."
+  },
+  {
+    "id": 122,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Mi a különbség a lágy szárú és a fás szárú növények között?",
+    "options": [
+      "A lágy szárúak mindig örökzöld fák",
+      "A lágy szárúak szára hajlékony, a fás szárúaké fás",
+      "A fás szárúaknak egyáltalán nincs gyökere",
+      "A lágy szárúak kizárólag vízben élnek"
+    ],
+    "correct": 1,
+    "explanation": "A lágy szárúak szára zöld és hajlékony (pl. búza, tulipán), a fás szárúaké kemény, elfásodott (fák és cserjék)."
+  },
+  {
+    "id": 123,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Mi a különbség a lombhullató és az örökzöld fák között?",
+    "options": [
+      "Az örökzöldeknek egyáltalán nincsenek levelei",
+      "A lombhullatók csak télen virágoznak",
+      "A lombhullatók ősszel lehullatják lombjukat",
+      "A lombhullatóknak mindig tobozuk van"
+    ],
+    "correct": 2,
+    "explanation": "A lombhullató fák ősszel egyszerre hullatják le leveleiket, míg az örökzöldek (pl. fenyők) folyamatosan cserélik tűleveleiket."
+  },
+  {
+    "id": 124,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyik állatcsoportra jellemző, hogy kicsinyeiket emlőmirigyeik tejével táplálják és testüket szőr fedi?",
+    "options": [
+      "Madarak",
+      "Kétéltűek",
+      "Hüllők",
+      "Emlősök"
+    ],
+    "correct": 3,
+    "explanation": "Az emlősök elevenszülők, utódaikat anyatejjel szoptatják, testüket szőr vagy bunda borítja."
+  },
+  {
+    "id": 125,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Hány lábuk van a rovaroknak, és melyek a fő testtájaik?",
+    "options": [
+      "6 lábuk (3 pár); fej, tor, potroh",
+      "8 lábuk (4 pár); fej és utótest",
+      "4 lábuk (2 pár); nyak, törzs, végtagok",
+      "10 lábuk (5 pár); fej, nyak, farok"
+    ],
+    "correct": 0,
+    "explanation": "Minden kifejlett rovarnak 6 ízelt lába (3 pár) van, testük pedig fejre, torra és potrohra tagolódik."
+  },
+  {
+    "id": 126,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyik csoportosítás helyes az állatok táplálkozása szerint?",
+    "options": [
+      "Ragadozó: őz; Növényevő: róka; Mindenevő: kecske",
+      "Ragadozó: róka; Növényevő: őz; Mindenevő: vaddisznó",
+      "Mindhárom csoport kizárólag füvet eszik",
+      "Ragadozó: tehén; Növényevő: farkas; Mindenevő: nyúl"
+    ],
+    "correct": 1,
+    "explanation": "Táplálkozásuk szerint az állatok lehetnek növényevők (őz, nyúl), ragadozók (róka, sas) vagy mindenevők (vaddisznó, medve)."
+  },
+  {
+    "id": 127,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Milyen mérőeszközzel és mértékegységgel mérjük a tömeget, az űrtartalmat és a hőmérsékletet?",
+    "options": [
+      "Vonalzóval (m), órával (perc), iránytűvel (fok)",
+      "Mérleggel (l), mérőhengerrel (kg), hőmérővel (m)",
+      "Mérleggel (kg), mérőedénnyel (l), hőmérővel (°C)",
+      "Stopperrel (mp), mérőszalaggal (cm), szélkakassal"
+    ],
+    "correct": 2,
+    "explanation": "A tömeget mérleggel (kg, dkg, g), az űrtartalmat mérőhengerrel/edénnyel (l, dl, cl, ml), a hőmérsékletet hőmérővel (°C) mérjük."
+  },
+  {
+    "id": 128,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyik a három alapvető halmazállapot, és milyen alakban fordul elő a víz ezekben?",
+    "options": [
+      "Hideg, langyos és forró halmazállapot",
+      "Kemény, puha és rugalmas halmazállapot",
+      "Átlátszó, színes és sötét halmazállapot",
+      "Szilárd (jég), folyékony (víz), légnemű (vízgőz)"
+    ],
+    "correct": 3,
+    "explanation": "Az anyagok három halmazállapota a szilárd (pl. jég), a folyékony (pl. folyékony víz) és a légnemű (pl. láthatatlan vízgőz)."
+  },
+  {
+    "id": 129,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Hogyan nevezzük a halmazállapot-változást, amikor a jég vízzé, illetve a víz jéggé alakul?",
+    "options": [
+      "Jégből víz: olvadás; vízből jég: fagyás (0 °C-on)",
+      "Jégből víz: párolgás; vízből jég: forrás",
+      "Jégből víz: lecsapódás; vízből jég: olvadás",
+      "Mindkettőt forrásnak nevezzük"
+    ],
+    "correct": 0,
+    "explanation": "Szilárdból folyékonyba: olvadás; folyékonyból szilárdba: fagyás. A tiszta víz olvadás- és fagyáspontja 0 °C."
+  },
+  {
+    "id": 130,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Hány fokon forr a víz, és hogyan nevezzük a gőz folyékonnyá válását?",
+    "options": [
+      "50 °C-on forr; olvadásnak nevezzük",
+      "100 °C-on forr; lecsapódásnak nevezzük",
+      "0 °C-on forr; fagyásnak nevezzük",
+      "37 °C-on forr; párolgásnak nevezzük"
+    ],
+    "correct": 1,
+    "explanation": "A párolgás minden hőmérsékleten zajlik, a forrás 100 °C-on; lecsapódáskor a lehűlő vízgőz folyékony vízcseppekké (párává) alakul."
+  },
+  {
+    "id": 131,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Milyen fő lépésekből áll a víz körforgása a természetben?",
+    "options": [
+      "A folyók vize örökre eltűnik a tengerben",
+      "A felhők a földből nőnek ki",
+      "Párolgás → lecsapódás (felhő) → csapadék → összegyűlés",
+      "Csak télen van körforgás, amikor havazik"
+    ],
+    "correct": 2,
+    "explanation": "A Nap hatására a vizek elpárolognak, a magasban lehűlve felhővé csapódnak le, majd csapadékként visszahullanak."
+  },
+  {
+    "id": 132,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyik a három elengedhetetlen feltétele az égésnek?",
+    "options": [
+      "Víz, szél és homok",
+      "Éghetetlen anyag, jég és sötétség",
+      "Csak gyufa és papír",
+      "Éghető anyag, oxigén és gyulladási hőmérséklet"
+    ],
+    "correct": 3,
+    "explanation": "Az égéshez három feltétel kell egyszerre: éghető anyag (pl. fa, papír), oxigén (levegő) és gyulladási hőmérséklet."
+  },
+  {
+    "id": 133,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyik példa mutat HELYVÁLTOZTATÓ, illetve HELYZETVÁLTOZTATÓ mozgást?",
+    "options": [
+      "Helyváltoztató: futó kutya; Helyzetváltoztató: hajladozó fa",
+      "Helyváltoztató: hajladozó fa; Helyzetváltoztató: repülő fecske",
+      "A növények mindig helyváltoztató mozgást végeznek",
+      "Nincs különbség a kétféle mozgás között"
+    ],
+    "correct": 0,
+    "explanation": "A szaladgáló állat helyet változtat, míg a gyökerével rögzített növény a szélben vagy a fény felé fordulva helyzetváltoztató mozgást végez."
+  },
+  {
+    "id": 134,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Milyen következménye van a Föld tengely körüli forgásának és Nap körüli keringésének?",
+    "options": [
+      "A forgás az évszakokat, a keringés a napszakokat okozza",
+      "Forgás (24 óra): napszakok; Keringés (1 év): évszakok",
+      "A Föld nem mozog, a Nap kering körülötte",
+      "Mindkettő csak a szélirányt változtatja meg"
+    ],
+    "correct": 1,
+    "explanation": "A Föld 24 óra alatt megfordul a tengelye körül (nappal és éjszaka), és 1 év alatt megkerüli a Napot (évszakok)."
+  },
+  {
+    "id": 135,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Mely külső feltételek szükségesek a magok csírázásához?",
+    "options": [
+      "Erős napsütés, jég és műtrágya",
+      "Csak sötétség és száraz homok",
+      "Víz (nedvesség), levegő és megfelelő hőmérséklet",
+      "Csak virágcserép és erős szél"
+    ],
+    "correct": 2,
+    "explanation": "A csírázáshoz (ép mag esetén) vízre, levegőre és megfelelő hőmérsékletre van szükség; a fény csak a kibújt növénynek kell."
+  },
+  {
+    "id": 136,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyek a fővilágtájak, és melyik irányba mutat az iránytű mágnestűje?",
+    "options": [
+      "Csak kelet és nyugat; délre mutat",
+      "Balra, jobbra, előre, hátra; keletre mutat",
+      "ÉK, DK, DNY, ÉNY; nyugatra mutat",
+      "Észak, dél, kelet, nyugat; a jelölt vég ÉSZAKRA mutat"
+    ],
+    "correct": 3,
+    "explanation": "A négy fővilágtáj: észak, dél, kelet, nyugat; a négy mellékvilágtáj: ÉK, DK, DNY, ÉNY. Az iránytű mágnestűje észak–déli irányba áll be."
+  },
+  {
+    "id": 137,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Milyen színekkel jelöli a domborzati térkép a síkságot, a dombságot, a hegységet és a vizeket?",
+    "options": [
+      "Síkság: zöld, dombság: világosbarna, hegység: sötétbarna, víz: kék",
+      "Síkság: kék, dombság: zöld, hegység: sárga, víz: barna",
+      "Síkság: barna, dombság: kék, hegység: zöld, víz: piros",
+      "Minden felszínformát szürkével jelölnek a térképen"
+    ],
+    "correct": 0,
+    "explanation": "A domborzati térképen a kék a vizeket, a zöld a síkságot (200 m alatt), a világosbarna a dombságot, a sötétbarna a hegységet jelöli."
+  },
+  {
+    "id": 138,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Mi a felszíni vízfolyások helyes sorrendje a legkisebbtől a legnagyobbig?",
+    "options": [
+      "Folyó → patak → ér → csermely",
+      "Ér → csermely → patak → folyó → folyam",
+      "Tó → tenger → ér → patak → folyó",
+      "Patak → ér → tó → csermely → folyam"
+    ],
+    "correct": 1,
+    "explanation": "A forrásból eredő kis ér csermellyé, majd patakká duzzad, a patakok pedig folyóvá (és folyammá, mint a Duna) egyesülnek."
+  },
+  {
+    "id": 139,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Hány országgal határos Magyarország, és melyek ezek?",
+    "options": [
+      "5: Ausztria, Németország, Lengyelország, Románia, Szerbia",
+      "6: Szlovákia, Csehország, Ukrajna, Románia, Horvátország, Olaszország",
+      "7: Ausztria, Szlovákia, Ukrajna, Románia, Szerbia, Horvátország, Szlovénia",
+      "8: Bulgária és Görögország is határos velünk"
+    ],
+    "correct": 2,
+    "explanation": "Magyarországnak 7 szomszédos országa van: Ausztria, Szlovákia, Ukrajna, Románia, Szerbia, Horvátország és Szlovénia."
+  },
+  {
+    "id": 140,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Hány nagy tájegysége (nagytája) van Magyarországnak?",
+    "options": [
+      "2 nagytáj (Alföld és Dunántúl)",
+      "3 nagytáj (Alpok, Kárpátok, Pireneusok)",
+      "10 nagytáj",
+      "6 nagytáj (pl. Alföld, Kisalföld, Északi-középhegység)"
+    ],
+    "correct": 3,
+    "explanation": "Hazánk 6 nagytája: az Alföld, a Kisalföld, a Nyugat-magyarországi peremvidék, a Dunántúli-dombság, a Dunántúli-középhegység és az Északi-középhegység."
+  },
+  {
+    "id": 141,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyik hazánk két legnagyobb folyója, legnagyobb tava és legmagasabb hegycsúcsa?",
+    "options": [
+      "Duna és Tisza; Balaton; Kékes (1014 m)",
+      "Rába és Dráva; Velencei-tó; Írott-kő",
+      "Duna és Maros; Fertő-tó; Csóványos",
+      "Tisza és Körös; Tisza-tó; Badacsony"
+    ],
+    "correct": 0,
+    "explanation": "Legnagyobb folyóink a Duna és a Tisza, Közép-Európa legnagyobb tava a Balaton, legmagasabb pontunk pedig a Mátrában található Kékes (1014 m)."
+  },
+  {
+    "id": 142,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyik három város egyesítésével jött létre Budapest 1873-ban, és melyik volt az első állandó hídja?",
+    "options": [
+      "Buda, Visegrád és Esztergom; Erzsébet híd",
+      "Pest, Buda és Óbuda; a Széchenyi lánchíd",
+      "Pest, Gödöllő és Vác; Margit híd",
+      "Buda, Székesfehérvár és Óbuda; Szabadság híd"
+    ],
+    "correct": 1,
+    "explanation": "Fővárosunk, Budapest 1873-ban jött létre Pest, Buda és Óbuda egyesítésével; első állandó kőhídja a Széchenyi lánchíd."
+  },
+  {
+    "id": 143,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyik példa TERMÉSZETES, illetve MESTERSÉGES életközösség?",
+    "options": [
+      "Természetes: gyümölcsöskert; Mesterséges: tölgyerdő",
+      "Természetes: szántóföld; Mesterséges: természetes tó",
+      "Természetes: erdő, rét, tó; Mesterséges: kert, park, szántó",
+      "Mindkettőt kizárólag gépekkel tartják fenn"
+    ],
+    "correct": 2,
+    "explanation": "A természetes életközösségek önfenntartóak, míg a mesterséges életközösségek (zöldségeskert, gyümölcsös, park) emberi gondozást igényelnek."
+  },
+  {
+    "id": 144,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Milyen szereplővel kezdődik mindig egy szárazföldi vagy vízi tápláléklánc?",
+    "options": [
+      "Csúcsragadozóval (pl. héja, csuka)",
+      "Mindenevő állattal (pl. vaddisznó)",
+      "Rovarokkal (pl. sáska)",
+      "Zöld növénnyel (termelővel, pl. fű, tölgyfa)"
+    ],
+    "correct": 3,
+    "explanation": "A tápláléklánc első tagja mindig egy zöld növény (termelő), amelyet a növényevő, majd a ragadozó fogyaszt el."
+  },
+  {
+    "id": 145,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyik tápláléklánc helyes egy hazai rét életközösségében?",
+    "options": [
+      "mezei fű → sáska → fürj → róka",
+      "róka → fürj → sáska → mezei fű",
+      "héja → tölgylevél → széncinege → hernyó",
+      "mezei nyúl → mezei fű → róka"
+    ],
+    "correct": 0,
+    "explanation": "A tápláléklánc nyila mindig a tápláléktól a fogyasztó felé mutat: növény → növényevő → ragadozó."
+  },
+  {
+    "id": 146,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyik az ember öt legfontosabb érzékszerve?",
+    "options": [
+      "Szív, tüdő, gyomor, máj, vese",
+      "Szem, fül, orr, nyelv, bőr",
+      "Csontok, izmok, ízületek, fogak, haj",
+      "Kéz, láb, fej, nyak, törzs"
+    ],
+    "correct": 1,
+    "explanation": "Az öt érzékszervünk: a szem (látás), a fül (hallás), az orr (szaglás), a nyelv (ízlelés) és a bőr (tapintás, hő- és fájdalomérzékelés)."
+  },
+  {
+    "id": 147,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Mely szervek alkotják a keringési, illetve a légző szervrendszert?",
+    "options": [
+      "Keringési: gyomor és bél; Légző: csontok és izmok",
+      "Keringési: bőr és szem; Légző: szív és erek",
+      "Keringési: szív és vérerek; Légző: orrüreg, légcső, tüdő",
+      "Keringési: tüdő; Légző: vese és máj"
+    ],
+    "correct": 2,
+    "explanation": "A mozgást a csontváz és az izmok, a vér áramoltatását a szív és az erek, a gázcserét pedig a tüdő és a légutak végzik."
+  },
+  {
+    "id": 148,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Hogyan változik a pulzusszám és a légzésszám intenzív testmozgás hatására?",
+    "options": [
+      "Mindkettő teljesen leáll",
+      "A pulzusszám csökken, a légzésszám nem változik",
+      "Csak télen változik meg",
+      "Mind a pulzusszám, mind a légzésszám megemelkedik"
+    ],
+    "correct": 3,
+    "explanation": "Mozgás közben a dolgozó izmoknak több oxigénre és tápanyagra van szükségük, ezért szaporábban lélegzünk és gyorsabban ver a szívünk."
+  },
+  {
+    "id": 149,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Hány Celsius-fok az egészséges ember normál testhőmérséklete, és mikor beszélünk lázról?",
+    "options": [
+      "Normál: 36–37 °C; 38 °C felett láz",
+      "Normál: 20 °C; 25 °C felett láz",
+      "Normál: 50 °C; 60 °C felett láz",
+      "Normál: 42 °C; 50 °C felett láz"
+    ],
+    "correct": 0,
+    "explanation": "Az egészséges ember testhőmérséklete 36,5 °C körüli; 37–38 °C között hőemelkedésről, 38 °C felett lázról beszélünk."
+  },
+  {
+    "id": 150,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyik példa AKTÍV, illetve PASSZÍV pihenés?",
+    "options": [
+      "Aktív: alvás; Passzív: kerékpározás",
+      "Aktív: kirándulás, sport; Passzív: alvás, olvasás",
+      "Az alvás felesleges a szervezet számára",
+      "Passzív pihenéskor nehéz fizikai munkát végzünk"
+    ],
+    "correct": 1,
+    "explanation": "A szellemi tanulás után a legjobb felüdülés az aktív pihenés (mozgás a szabadban), éjszaka pedig a legfontosabb passzív pihenés az alvás."
+  },
+  {
+    "id": 151,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Mely szokások védik a környezetünket a mindennapi életben?",
+    "options": [
+      "A szemét elégetése az erdőben",
+      "A csapvíz felesleges folyatása",
+      "Szelektív hulladékgyűjtés, víz- és energiatakarékosság",
+      "Az egyszer használatos műanyagok halmozása"
+    ],
+    "correct": 2,
+    "explanation": "A környezettudatos magatartás része a hulladékcsökkentés, az újrahasznosítás, az energiatakarékosság és a természet védelme."
+  },
+  {
+    "id": 152,
+    "subject": "Környezetismeret",
+    "icon": "🌿",
+    "grade": "4. osztály",
+    "q": "Melyik az egységes európai segélyhívó szám (és a mentők, tűzoltók, rendőrség száma)?",
+    "options": [
+      "999 (mentők: 111, tűzoltók: 222, rendőrség: 333)",
+      "888 (mentők: 404, tűzoltók: 505, rendőrség: 707)",
+      "000 (mentők: 100, tűzoltók: 200, rendőrség: 300)",
+      "112 (mentők: 104, tűzoltók: 105, rendőrség: 107)"
+    ],
+    "correct": 3,
+    "explanation": "Baleset vagy vészhelyzet esetén az ingyenesen hívható 112-es segélyhívó számon kérhetünk azonnal segítséget."
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": 183,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Melyek a zenei hang alapvető tulajdonságai?",
+    "options": [
+      "Hosszúság, szélesség, tömeg és térfogat",
+      "Szín, szag, íz és hőmérséklet",
+      "Hangmagasság, hangerő, hangszín és időtartam",
+      "Sebesség, irány, súly és rugalmasság"
+    ],
+    "correct": 2,
+    "explanation": "A zenei hangokat megkülönböztetjük hangmagasságuk (magas/mély), hangerejük (halk/hangos), hangszínük és időtartamuk alapján."
+  },
+  {
+    "id": 184,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Mely hangok alkotják a magyar népdalokra jellemző ötfokú (pentaton) hangkészletet?",
+    "options": [
+      "dó - ré - fá - ti - dó",
+      "fá - szó - lá - ti - dó",
+      "mi - fá - ti - dó - ré",
+      "lá - szó - mi - ré - dó (- alsó lá)"
+    ],
+    "correct": 3,
+    "explanation": "A félhang nélküli ötfokú (pentaton) hangsor hangjai felülről lefelé: lá - szó - mi - ré - dó (- alsó lá)."
+  },
+  {
+    "id": 185,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Hány vonalból és hány vonalközből áll a kottaírásban használt vonalrendszer?",
+    "options": [
+      "5 vonalból és 4 vonalközből",
+      "4 vonalból és 5 vonalközből",
+      "6 vonalból és 6 vonalközből",
+      "3 vonalból és 2 vonalközből"
+    ],
+    "correct": 0,
+    "explanation": "A hangjegyeket az 5 vonalból és 4 vonalközből álló vonalrendszerben, illetve pótvonalakon helyezzük el."
+  },
+  {
+    "id": 186,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Hány negyed (tá) ér egy fél (tá-á) hangjegyet, és hány nyolcad (ti) ér egy negyedet?",
+    "options": [
+      "3 negyed ér egy felet; 4 nyolcad egy negyedet",
+      "2 negyed ér egy felet; 2 nyolcad egy negyedet",
+      "1 negyed ér egy felet; 3 nyolcad egy negyedet",
+      "4 negyed ér egy felet; 1 nyolcad egy negyedet"
+    ],
+    "correct": 1,
+    "explanation": "A fél hangjegy (tá-á) 2 mérőütésig tart (= 2 negyed), egy negyedre (tá) pedig egy nyolcadpár (ti-ti) jut."
+  },
+  {
+    "id": 187,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Mi az ütemvonal és a kettős záróvonal szerepe a kottában?",
+    "options": [
+      "A hangerőt és a tempót mutatják meg",
+      "A megszólaló hangszer nevét jelölik",
+      "Az ütemek határát és a dallam végét jelzik",
+      "A negyed és fél szüneteket helyettesítik"
+    ],
+    "correct": 2,
+    "explanation": "A függőleges ütemvonalak ütemekre osztják a dallamot, a végén pedig a vékony-vastag záróvonal jelzi a mű lezárását."
+  },
+  {
+    "id": 188,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Mely eszközök tartoznak az úgynevezett „testhangszerek” közé?",
+    "options": [
+      "Hegedű, cselló, nagybőgő",
+      "Fuvola, oboa, klarinét",
+      "Trombita, kürt, harsona",
+      "Taps, csettintés, combütögetés, dobbantás"
+    ],
+    "correct": 3,
+    "explanation": "A saját testünkkel megszólaltatott ritmushangszereket (taps, csettintés, combütögetés, dobbantás) testhangszereknek nevezzük."
+  },
+  {
+    "id": 189,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Hogyan énekelnek a szólamok egy KÁNONBAN?",
+    "options": [
+      "Egymás után, késleltetve lépnek be ugyanazzal a dallammal",
+      "Egyetlen énekes énekel kíséret nélkül",
+      "Mindenki egyszerre kezdi és fejezi be a dalt",
+      "Csak hangszerek játszanak énekhang nélkül"
+    ],
+    "correct": 0,
+    "explanation": "Szólóban egyvalaki, duóban ketten énekelnek; a kánonban a csoportok egymás után lépnek be ugyanazzal a dallammal."
+  },
+  {
+    "id": 190,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Kik énekelnek a gyermekkarban, illetve a vegyeskarban?",
+    "options": [
+      "Gyermekkar: férfiak; Vegyeskar: gyermekek",
+      "Gyermekkar: gyermekek; Vegyeskar: női és férfihangok",
+      "Mindkettőben csak hangszerek játszanak",
+      "Gyermekkar: szólóénekes; Vegyeskar: két énekes"
+    ],
+    "correct": 1,
+    "explanation": "Az emberi hangfajták lehetnek gyermek-, női és férfihangok; a vegyeskarban női és férfihangok közösen énekelnek."
+  },
+  {
+    "id": 191,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Mely hangszerek tartoznak a vonós, a fafúvós, illetve a rézfúvós hangszerek közé?",
+    "options": [
+      "Vonós: trombita; Fafúvós: cselló; Rézfúvós: fuvola",
+      "Vonós: dob; Fafúvós: cintányér; Rézfúvós: zongora",
+      "Vonós: hegedű, cselló; Fafúvós: fuvola, oboa; Rézfúvós: trombita, kürt",
+      "Vonós: oboa; Fafúvós: kürt; Rézfúvós: hegedű"
+    ],
+    "correct": 2,
+    "explanation": "A szimfonikus zenekar főbb hangszerei: hegedű, cselló (vonósok), fuvola, oboa, klarinét (fafúvósok), kürt, trombita (rézfúvósok)."
+  },
+  {
+    "id": 192,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Ki szerezte nemzeti imádságunk, a Himnusz zenéjét (és ki írta a szövegét)?",
+    "options": [
+      "Bartók Béla (szöveg: Petőfi Sándor)",
+      "Kodály Zoltán (szöveg: Arany János)",
+      "Bárdos Lajos (szöveg: Vörösmarty Mihály)",
+      "Erkel Ferenc (szöveg: Kölcsey Ferenc)"
+    ],
+    "correct": 3,
+    "explanation": "Kölcsey Ferenc 1823-ban írt Himnusz című költeményét Erkel Ferenc zenésítette meg 1844-ben."
+  },
+  {
+    "id": 193,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Melyik két világhírű magyar zeneszerző és népdalkutató alkotta a Gyermekeknek, illetve a Háry János című műveket?",
+    "options": [
+      "Bartók Béla és Kodály Zoltán",
+      "W. A. Mozart és Antonio Vivaldi",
+      "Csajkovszkij és Szergej Prokofjev",
+      "Johann Strauss és Gioachino Rossini"
+    ],
+    "correct": 0,
+    "explanation": "Bartók Béla (Gyermekeknek, Mikrokozmosz, 44 hegedűduó) és Kodály Zoltán (Háry János, Bicinia Hungarica) a magyar zenekultúra óriásai."
+  },
+  {
+    "id": 194,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Melyik híres Kodály Zoltán-daljátékban szerepel a „Sej, Nagyabonyban”, a „Napóleon csatája” és „A császári udvar bevonulása”?",
+    "options": [
+      "A Diótörőben",
+      "A Háry János című daljátékban",
+      "Az állatok farsangjában",
+      "A Gyermekszimfóniában"
+    ],
+    "correct": 1,
+    "explanation": "Kodály Zoltán Háry János című daljátékának híres részletei A császári udvar bevonulása, a Napóleon csatája és a Sej, Nagyabonyban."
+  },
+  {
+    "id": 195,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Melyik Kodály Zoltán-gyermekkar idézi fel a tavaszi iskolába hívogató népszokást?",
+    "options": [
+      "Karácsonyi bölcsődal",
+      "Játék katonák indulója",
+      "Gergely-járás",
+      "Utazás szánon"
+    ],
+    "correct": 2,
+    "explanation": "Kodály Zoltán Gergely-járás (valamint Katalinka, Pünkösdölő és Villő) című gyermekkarai magyar népszokásokat dolgoznak fel."
+  },
+  {
+    "id": 196,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Ki komponálta a Diótörő című mesebalettet (benne a Játék katonák indulójával, a Kínai és Orosz tánccal)?",
+    "options": [
+      "Antonio Vivaldi",
+      "Camille Saint-Saëns",
+      "Leopold Mozart",
+      "Pjotr Iljics Csajkovszkij"
+    ],
+    "correct": 3,
+    "explanation": "A karácsonyi témájú Diótörő balett zenéjét az orosz zeneszerző, Csajkovszkij komponálta."
+  },
+  {
+    "id": 197,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Ki szerezte Az állatok farsangja című humoros, hangutánzó zenekari sorozatot?",
+    "options": [
+      "Camille Saint-Saëns",
+      "Bárdos Lajos",
+      "Erkel Ferenc",
+      "Ránki György"
+    ],
+    "correct": 0,
+    "explanation": "A francia Camille Saint-Saëns Az állatok farsangja című művében hangszerekkel jeleníti meg az egyes állatokat."
+  },
+  {
+    "id": 198,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Ki szerezte a Péter és a farkas című szimfonikus mesét, amelyben minden szereplőt más hangszer személyesít meg?",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Szergej Prokofjev",
+      "Johann Strauss",
+      "Antonio Vivaldi"
+    ],
+    "correct": 1,
+    "explanation": "Prokofjev Péter és a farkas című művében a hangszerek (fuvola – kismadár, oboa – kacsa, kürtök – farkas, vonósok – Péter) ábrázolják a szereplőket."
+  },
+  {
+    "id": 199,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Ki komponálta A négy évszak című hegedűverseny-sorozatot, és ki az Egy kiállítás képei című művet?",
+    "options": [
+      "Gioachino Rossini és Georges Bizet",
+      "Leonard Bernstein és Claude Debussy",
+      "Antonio Vivaldi és Modeszt Muszorgszkij",
+      "Szőnyi Erzsébet és Szokolay Sándor"
+    ],
+    "correct": 2,
+    "explanation": "A négy évszakot Antonio Vivaldi, az Egy kiállítás képei (Kiscsibék tánca, Baba Yaga kunyhója) című sorozatot pedig Muszorgszkij komponálta."
+  },
+  {
+    "id": 200,
+    "subject": "Ének-zene",
+    "icon": "🎵",
+    "grade": "1–4. osztály",
+    "q": "Melyik magyar zeneszerző írta a Pomádé király új ruhája című zenekari szvitet Andersen meséje nyomán?",
+    "options": [
+      "Erkel Ferenc",
+      "Liszt Ferenc",
+      "Kodály Zoltán",
+      "Ránki György"
+    ],
+    "correct": 3,
+    "explanation": "Ránki György Pomádé király új ruhája című szvitjének híres tétele a „Munkában a szemfényvesztők, készül a csodaruha”."
+  }
+]

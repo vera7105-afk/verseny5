@@ -1,0 +1,879 @@
+[
+  {
+    "id": 61,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyek a nyelvi szintek a legkisebbtől a legnagyobbig haladva?",
+    "options": [
+      "Szó → hang → mondat → szótag → szöveg",
+      "Mondat → szó → szótag → hang → szöveg",
+      "Szöveg → mondat → szótag → szó → hang"
+    ],
+    "correct": 0,
+  },
+  {
+    "id": 62,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mi a tüdő és a légcső szerepe a beszédhangok képzésében?",
+    "options": [
+      "A hangképzéshez szükséges levegő biztosítása",
+      "Az ajkak kerekítése és résképzése",
+      "A szavak betűrendbe sorolása"
+    ],
+    "correct": 1,
+  },
+  {
+    "id": 63,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mi a garat szerepe a beszédhangok képzése során?",
+    "options": [
+      "A levegő beszívása a tüdő aljába",
+      "A hang felerősítése és továbbítása",
+      "A fogak és az ajkak mozgatása"
+    ],
+    "correct": 2,
+  },
+  {
+    "id": 64,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan keletkeznek a SZÁJHANGOK az ínycsap (ínyvitorla) működése alapján?",
+    "options": [
+      "A hangszalagok teljesen elzárják a levegőt",
+      "A levegő visszafelé áramlik a tüdőbe",
+      "Az ínycsap elzárja az orrüreget, a levegő a szájon át távozik"
+    ],
+    "correct": 3,
+  },
+  {
+    "id": 65,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mi a beszédhang (hang) pontos meghatározása?",
+    "options": [
+      "Hallható és kiejtett legkisebb nyelvi egység",
+      "A papírra leírt látható grafikai jel",
+      "A mondat végére tett írásjel",
+      "A szavak jelentését módosító toldalék"
+    ],
+    "correct": 0,
+    "explanation": "A beszédhang a beszélőszerveinkkel képzett, füllel hallható és szájjal kiejtett legkisebb nyelvi egység."
+  },
+  {
+    "id": 66,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mi a különbség a „betű” és az „írásjegy” fogalma között?",
+    "options": [
+      "A betű tágabb fogalom, mint az írásjegy",
+      "Az írásjegy tágabb (betű, írásjel, ékezet, számjegy)",
+      "Az írásjegy csak a magánhangzókat jelöli",
+      "Nincs köztük semmilyen különbség"
+    ],
+    "correct": 1,
+    "explanation": "A betű a beszédhang írásbeli jele; az írásjegy tágabb fogalom, amelybe a betűk, írásjelek, ékezetek és számjegyek is beletartoznak."
+  },
+  {
+    "id": 67,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mi a beszélőszervek pontos sorrendje a levegő útja szerint (alulról felfelé)?",
+    "options": [
+      "Szájüreg → Garat → Gégefő → Légcső → Tüdő",
+      "Tüdő → Garat → Légcső → Orrüreg → Gégefő",
+      "Tüdő → Légcső → Gégefő → Garat → Ínycsap → Száj-/Orrüreg",
+      "Gégefő → Tüdő → Légcső → Szájüreg → Garat"
+    ],
+    "correct": 2,
+    "explanation": "A levegő útja alulról felfelé: 1. Tüdő, 2. Légcső, 3. Gégefő a hangszalagokkal, 4. Garat, 5. Ínycsap, 6. Szájüreg, 7. Orrüreg."
+  },
+  {
+    "id": 68,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hány hangszalag található a gégefőben, és mi a szerepük?",
+    "options": [
+      "4 hangszalag; a levegő lehűtése",
+      "1 hangszalag; a nyelv mozgatása",
+      "3 hangszalag; az orrhangok képzése",
+      "2 hangszalag; a hang zöngésségének meghatározása"
+    ],
+    "correct": 3,
+    "explanation": "A gégefőben 2 hangszalag van: ha zárva vannak és rezegnek, zöngés hang keletkezik; ha nyitva vannak és nem rezegnek, zöngétlen."
+  },
+  {
+    "id": 69,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan állnak a hangszalagok ZÖNGÉS, illetve ZÖNGÉTLEN hangok képzésekor?",
+    "options": [
+      "Zöngés: zárva és rezegnek; Zöngétlen: nyitva, nem rezegnek",
+      "Zöngés: nyitva vannak; Zöngétlen: zárva vannak",
+      "Mindkét esetben nyitva vannak és rezegnek",
+      "A hangszalagok csak a szünetekben mozognak"
+    ],
+    "correct": 0,
+    "explanation": "Zöngés hangoknál a hangszalagok zárva vannak és a levegő megrezegteti őket; zöngétleneknél nyitva vannak és nem rezegnek."
+  },
+  {
+    "id": 70,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyik beszélőszerv működik szelepként, és melyek a magyar orrhangok?",
+    "options": [
+      "A nyelv; a p, t, k hangok",
+      "Az ínycsap (ínyvitorla); az m, n, ny hangok",
+      "A fogsor; az sz, z, c hangok",
+      "A légcső; az a, e, i hangok"
+    ],
+    "correct": 1,
+    "explanation": "Ha az ínycsap leereszkedik, a levegő az orrüregen át is távozik: így keletkeznek az m, n, ny orrhangok."
+  },
+  {
+    "id": 71,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyek a szájüreg AKTÍV, illetve PASSZÍV beszélőszervei?",
+    "options": [
+      "Aktív: fogak, szájpadlás; Passzív: nyelv, ajkak",
+      "Aktív: orrüreg, garat; Passzív: tüdő, légcső",
+      "Aktív: nyelv, ajkak; Passzív: szájpadlás, fogak",
+      "A szájüregben minden beszélőszerv passzív"
+    ],
+    "correct": 2,
+    "explanation": "A nyelv és az ajkak aktív (mozgó) beszélőszervek, míg a szájpadlás és a fogak passzívak."
+  },
+  {
+    "id": 72,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mely három szempont szerint csoportosítjuk a magánhangzókat?",
+    "options": [
+      "Egyjegyű, kétjegyű és háromjegyű betűk szerint",
+      "Zöngésség, jegyszám és képzési mód szerint",
+      "Szófaj, mondatfajta és toldalék szerint",
+      "Időtartam, hangrend és az ajkak állása szerint"
+    ],
+    "correct": 3,
+    "explanation": "A magánhangzókat 1. időtartam (rövid/hosszú), 2. hangrend (mély/magas) és 3. az ajkak állása (ajakkerekítéses/ajakréses) szerint csoportosítjuk."
+  },
+  {
+    "id": 73,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyek a MÉLY, illetve a MAGAS magánhangzók emlékeztető szavai?",
+    "options": [
+      "Mély: autó, háború; Magas: teniszütő",
+      "Mély: teniszütő; Magas: autó, háború",
+      "Mély: kerékpár; Magas: vitorlás",
+      "Mély: szivárvány; Magas: fenyőerdő"
+    ],
+    "correct": 0,
+    "explanation": "Mély magánhangzók: a, á, o, ó, u, ú (autó, háború); magas magánhangzók: e, é, i, í, ö, ő, ü, ű (teniszütő)."
+  },
+  {
+    "id": 74,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mely magánhangzók tartoznak az AJAKRÉSES magánhangzók csoportjába?",
+    "options": [
+      "a, o, ó, u, ú",
+      "á, e, é, i, í",
+      "ö, ő, ü, ű",
+      "a, á, o, ó, u, ú"
+    ],
+    "correct": 1,
+    "explanation": "Ajakréses magánhangzók kiejtésekor az ajkak vízszintes rést képeznek: á, e, é, i, í."
+  },
+  {
+    "id": 75,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mely magánhangzók tartoznak az AJAKKEREKÍTÉSES csoportba?",
+    "options": [
+      "á, e, é, i, í",
+      "Csak a rövid magánhangzók",
+      "a, o, ó, ö, ő, u, ú, ü, ű",
+      "Csak a hosszú magánhangzók"
+    ],
+    "correct": 2,
+    "explanation": "Ajakkerekítéses magánhangzók: a, o, ó, ö, ő, u, ú, ü, ű (figyelem: a rövid „a” ajakkerekítéses, a hosszú „á” ajakréses!)."
+  },
+  {
+    "id": 76,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Milyen hangrendű a „szekrény”, az „asztal” és a „kávé” szó?",
+    "options": [
+      "szekrény: mély, asztal: magas, kávé: vegyes",
+      "Mindhárom vegyes hangrendű",
+      "szekrény: vegyes, asztal: mély, kávé: magas",
+      "szekrény: magas, asztal: mély, kávé: vegyes"
+    ],
+    "correct": 3,
+    "explanation": "A szekrény csak magas (e, é), az asztal csak mély (a), a kávé pedig mély és magas (á, é) magánhangzót is tartalmaz."
+  },
+  {
+    "id": 77,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mely szótípusokra NEM érvényes a hangrendi törvény?",
+    "options": [
+      "Összetett szavakra és idegen szavakra",
+      "Az egy szótagú főnevekre",
+      "A rövid magánhangzós igékre",
+      "A magánhangzóval kezdődő szavakra"
+    ],
+    "correct": 0,
+    "explanation": "A hangrendi törvény két kritikus kivétele: 1. az összetett szavak (Budapest), 2. az idegen szavak és jövevényszavak (sofőr, kosztüm)."
+  },
+  {
+    "id": 78,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mi dönti el a toldalék hangrendjét az összetett szavaknál (pl. Budapest-en, golyóstoll-al)?",
+    "options": [
+      "Az első összetételi tag hangrendje",
+      "A legutolsó összetételi tag hangrendje",
+      "A szóban lévő mássalhangzók száma",
+      "A kezdőbetű kis- vagy nagybetűs alakja"
+    ],
+    "correct": 1,
+    "explanation": "Összetett szavak toldalékolásakor mindig a legutolsó összetételi tag hangrendje dönt (pest → Budapesten, toll → golyóstollal)."
+  },
+  {
+    "id": 79,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mi határozza meg a toldalékot az olyan vegyes hangrendű idegen szavaknál, mint a „sofőr”?",
+    "options": [
+      "Az első szótagban álló magánhangzó",
+      "A szótagok száma a szóban",
+      "Az utolsó kiejtett magánhangzó (sofőrhöz)",
+      "Mindig mély toldalékot kapnak"
+    ],
+    "correct": 2,
+    "explanation": "Idegen szavaknál az utolsó kiejtett magánhangzó határozza meg a toldalékot: sofőr → sofőrhöz, sofőrrel."
+  },
+  {
+    "id": 80,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Milyen toldalék jár a „virág”, „kávé”, „papír” vegyes hangrendű szavakhoz?",
+    "options": [
+      "virágben, kávében, papírben",
+      "Nem kaphatnak toldalékot",
+      "Csak magas hangrendű toldalék",
+      "Mély toldalék: virágban, kávéban, papírban"
+    ],
+    "correct": 3,
+    "explanation": "A vegyes hangrendű szavakhoz (még ha az utolsó szótagban é vagy í áll is) általában mély toldalék jár: virágban, kávéban, papírban."
+  },
+  {
+    "id": 81,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hány betűből áll a magyar ábécé?",
+    "options": [
+      "44 betűből",
+      "30 betűből",
+      "38 betűből",
+      "50 betűből"
+    ],
+    "correct": 0,
+    "explanation": "A magyar ábécé 44 betűből áll (40 magyar betű + 4 idegen betű: q, w, x, y)."
+  },
+  {
+    "id": 82,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Miért előzi meg a „cukor” szó a „csibe” szót a betűrendben?",
+    "options": [
+      "Mert az u előbb van az ábécében, mint az i",
+      "Mert a kétjegyű „cs” önálló betű a „c” után",
+      "Mert a cukor mély hangrendű szó",
+      "Mert a rövidebb szó mindig elöl áll"
+    ],
+    "correct": 1,
+    "explanation": "Az összetett betűk (cs, gy, sz stb.) a betűrendben önálló betűnek számítanak, nem bonthatók szét elemeikre."
+  },
+  {
+    "id": 83,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyik a helyes betűrendi sorrend az sz-szel kezdődő szavaknál?",
+    "options": [
+      "szappan, szalon, szag, szabad",
+      "szag, szabad, szappan, szalon",
+      "szabad, szag, szalon, szappan",
+      "szalon, szabad, szag, szappan"
+    ],
+    "correct": 2,
+    "explanation": "Az első két betű (sz + a) megegyezik, ezért a harmadik betű dönt: b → g → l → p (szabad, szag, szalon, szappan)."
+  },
+  {
+    "id": 84,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mi a szabály, ha két szó betűalakja teljesen azonos, és csak a kezdőbetű tér el (szeder / Szeder)?",
+    "options": [
+      "A nagybetűs szó áll elöl",
+      "Tilos őket egymás mellé írni",
+      "A hosszabb mondatban lévő áll elöl",
+      "A kisbetűs szó áll elöl: szeder → Szeder"
+    ],
+    "correct": 3,
+    "explanation": "A kis- és nagybetűk egyenértékűek, de ha két szó teljesen megegyezik, a kisbetűs szó megelőzi a nagybetűst."
+  },
+  {
+    "id": 85,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyik a helyes betűrendi sorrend a „korom, kóró, korona” szavaknál?",
+    "options": [
+      "korom → kóró → korona",
+      "kóró → korom → korona",
+      "korom → korona → kóró",
+      "korona → korom → kóró"
+    ],
+    "correct": 0,
+    "explanation": "Az o és ó egyenértékű, így az első 4 betű (k-o-r-o/ó) azonos értékű, és az 5. betű dönt: korom → kóró → korona."
+  },
+  {
+    "id": 86,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyik szó áll elöl betűrendben, ha csak a magánhangzó hosszúsága tér el (kor / kór, vadas / vadász)?",
+    "options": [
+      "A hosszú magánhangzós: kór, vadász",
+      "A rövid magánhangzós: kor → kór, vadas → vadász",
+      "Csak az egy szótagú szavaknál a hosszú",
+      "A tulajdonneveknél mindig a hosszú"
+    ],
+    "correct": 1,
+    "explanation": "Ha két szó betűalakja teljesen azonos és csak az ékezet tér el, a rövid magánhangzós megelőzi a hosszút: kor → kór, vadas → vadász."
+  },
+  {
+    "id": 87,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hány kétjegyű és hány háromjegyű mássalhangzót jelölő betű van a magyar ábécében?",
+    "options": [
+      "6 kétjegyű és 2 háromjegyű",
+      "10 kétjegyű és 3 háromjegyű",
+      "8 kétjegyű és 1 háromjegyű (dzs)",
+      "4 kétjegyű és 1 háromjegyű"
+    ],
+    "correct": 2,
+    "explanation": "A magyar ábécében 8 kétjegyű mássalhangzó (cs, dz, gy, ly, ny, sz, ty, zs) és 1 háromjegyű (dzs) található."
+  },
+  {
+    "id": 88,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan írjuk a hosszú kétjegyű mássalhangzót összetett szavak határán (pl. jegy + gyűrű)?",
+    "options": [
+      "jeggyűrű (egyszerűsítve)",
+      "jegy-gyűrű (kötőjellel)",
+      "jegyűrű (egy betűvel)",
+      "jegygyűrű (teljesen kiírva)"
+    ],
+    "correct": 3,
+    "explanation": "Összetett szavak határán nem egyszerűsítjük a kétjegyű betűket, hanem teljesen kiírjuk: jegygyűrű, kulcscsomó."
+  },
+  {
+    "id": 89,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyik emlékeztető mondat tartalmazza pontosan a 10 zöngétlen mássalhangzót?",
+    "options": [
+      "„Tyűha, pici, úszó kacsa, futás!”",
+      "„Gólya, gólya, gilice, mitől véres?”",
+      "„Bátor vitéz győz a csatában!”",
+      "„Sárga rózsa nyílik a kertben!”"
+    ],
+    "correct": 0,
+    "explanation": "A „Tyűha, pici, úszó kacsa, futás!” mondat mássalhangzói pontosan lefedik a zöngétleneket: ty, h, p, c, sz, k, cs, f, t, s."
+  },
+  {
+    "id": 90,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyik sor tartalmaz KIZÁRÓLAG zöngés mássalhangzókat?",
+    "options": [
+      "p, t, k, f, sz, s",
+      "b, d, g, v, z, zs, gy, j, l, m, n, ny, r",
+      "c, cs, ty, h, p, t",
+      "k, s, sz, f, c, p"
+    ],
+    "correct": 1,
+    "explanation": "A zöngés mássalhangzók: b, d, g, z, zs, dz, dzs, v, j, l, m, n, ny, r, gy."
+  },
+  {
+    "id": 91,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyik két magánhangzópár tér el egymástól nemcsak időtartamban, hanem hangszínben is?",
+    "options": [
+      "Az o–ó és az ö–ő magánhangzópár",
+      "Az a–á és az e–é magánhangzópár",
+      "Az u–ú és az ü–ű magánhangzópár"
+    ],
+    "correct": 2,
+  },
+  {
+    "id": 92,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hány magánhangzó van a magyar nyelvben, és hogyan oszlanak meg időtartam szerint?",
+    "options": [
+      "12 magánhangzó (6 rövid és 6 hosszú)",
+      "16 magánhangzó (8 rövid és 8 hosszú)",
+      "14 magánhangzó (7 rövid és 7 hosszú)"
+    ],
+    "correct": 3,
+  },
+  {
+    "id": 93,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan írjuk a hosszú két- és háromjegyű mássalhangzókat nem összetett szavakban (pl. asszony, eddzük)?",
+    "options": [
+      "Mindegyik betűjegyet kétszer írjuk le (szsz, dzsdzs)",
+      "Csak az utolsó betűjegyet kettőzzük meg (szz, dzzs)",
+      "Kötőjellel választjuk el a betűjegyeket (sz-sz)"
+    ],
+    "correct": 0,
+  },
+  {
+    "id": 94,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyek a ZÖNGÉS – ZÖNGÉTLEN mássalhangzópárok az alábbiak közül?",
+    "options": [
+      "b – p, d – t, g – k, v – f, z – sz, zs – s",
+      "p – t, k – f, sz – s, c – cs",
+      "b – d, g – v, z – zs, gy – dz"
+    ],
+    "correct": 1,
+  },
+  {
+    "id": 95,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyik zöngés mássalhangzóknak NINCS zöngétlen párjuk a magyarban?",
+    "options": [
+      "A p, t, k, f, sz hangoknak",
+      "Az m, n, ny, l, r, j hangoknak",
+      "A zs, dz, dzs, gy hangoknak"
+    ],
+    "correct": 2,
+  },
+  {
+    "id": 96,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hány szótagból áll egy szó, és melyik hang alkotja a szótag magját?",
+    "options": [
+      "Mindig két szótagból; az első betű",
+      "Ahány betűből áll a szó; az utolsó betű",
+      "Ahány magánhangzó van benne; a magánhangzó"
+    ],
+    "correct": 3,
+  },
+  {
+    "id": 97,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan választjuk el helyesen a hosszú egyjegyű mássalhangzót tartalmazó „kanna, cseppent, hallgat” szavakat?",
+    "options": [
+      "ka-nna, cse-ppent, ha-llgat",
+      "kann-a, cseppe-nt, hallg-at",
+      "Nem szabad elválasztani őket"
+    ],
+    "correct": 0,
+  },
+  {
+    "id": 98,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mi az elválasztás alapegysége, és milyen szavakat választhatunk el?",
+    "options": [
+      "A betű; az egy szótagú szavakat is",
+      "A szótag; csak több szótagú szavakat",
+      "A mondat; csak az összetett szavakat",
+      "Az írásjel; csak a főneveket"
+    ],
+    "correct": 1,
+    "explanation": "Az elválasztás alapegysége a szótag, és csak több szótagú (legalább két magánhangzós) szavakat választunk el."
+  },
+  {
+    "id": 99,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyik elválasztás helyes és esztétikus az „ideális” és az „emóció” szavaknál?",
+    "options": [
+      "i-deális és e-móció",
+      "ideál-is és emóc-ió",
+      "ide-ális / ideá-lis (az e-móció kerülendő)",
+      "Egyiket sem szabad elválasztani"
+    ],
+    "correct": 2,
+    "explanation": "Esztétikai okból önálló magánhangzó-szótagot (a-, e-) nem hagyunk magában sor végén vagy elején; az ide-ális / ideá-lis viszont helyes."
+  },
+  {
+    "id": 100,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan választjuk el helyesen a „batyu, rózsa, Gyula, Mecsek” szavakat?",
+    "options": [
+      "bat-yu, róz-sa, Gyul-a, Mec-sek",
+      "ba-ty-u, ró-zs-a, Gy-u-la, Me-cs-ek",
+      "baty-u, rózs-a, Gyu-la, Mecs-ek",
+      "ba-tyu, ró-zsa, Gyu-la, Me-csek"
+    ],
+    "correct": 3,
+    "explanation": "Két magánhangzó között álló egyetlen rövid mássalhangzót (akár kétjegyű betű jelöli) átviszünk a következő sorba."
+  },
+  {
+    "id": 101,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan választjuk el helyesen a „tarisznya, ásvány, Bonyhád” szavakat?",
+    "options": [
+      "tarisz-nya, ás-vány, Bony-hád",
+      "tari-sznya, á-svány, Bo-nyhád",
+      "taris-znya, ásv-ány, Bon-yhád",
+      "tariszny-a, ásván-y, Bonyh-ád"
+    ],
+    "correct": 0,
+    "explanation": "Két magánhangzó közötti két különböző mássalhangzó közül az első marad a sor végén, a második átkerül az új sorba."
+  },
+  {
+    "id": 102,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan választjuk el az egyszerűsített hosszú kétjegyű mássalhangzókat: „mennyi, össze, poggyász, szittya”?",
+    "options": [
+      "men-nyi, ös-sze, pog-gyász, szit-tya",
+      "meny-nyi, ösz-sze, pogy-gyász, szity-tya",
+      "me-nnyi, ö-ssze, po-ggyász, szi-ttya",
+      "menny-i, össz-e, poggy-ász, szitty-a"
+    ],
+    "correct": 1,
+    "explanation": "Elválasztáskor mindkét sorban ki kell írni a teljes kétjegyű betűt: meny-nyi, ösz-sze, pogy-gyász, szity-tya."
+  },
+  {
+    "id": 103,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan választjuk el a „Hosszú, Illyés, Bottyán” családneveket?",
+    "options": [
+      "Hos-szú, Il-lyés, Bot-tyán",
+      "Ho-sszú, I-llyés, Bo-ttyán",
+      "Hosz-szú, Ily-lyés, Boty-tyán",
+      "Tulajdonneveket nem szabad elválasztani"
+    ],
+    "correct": 2,
+    "explanation": "A tulajdonnevekben is kiírjuk mindkét sorban a teljes kétjegyű betűt elválasztáskor: Hosz-szú, Ily-lyés, Boty-tyán."
+  },
+  {
+    "id": 104,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan választjuk el a három mássalhangzót tartalmazó „centrum, ostrom, templom, Veszprém” szavakat?",
+    "options": [
+      "ce-ntrum, o-strom, te-mplom, Ve-szprém",
+      "cen-trum, os-trom, tem-plom, Vesz-prém",
+      "Tilos elválasztani őket",
+      "cent-rum, ost-rom, temp-lom, Veszp-rém"
+    ],
+    "correct": 3,
+    "explanation": "Kettőnél több mássalhangzó esetén csak az utolsó kerül a következő sor elejére: cent-rum, ost-rom, temp-lom, Veszp-rém."
+  },
+  {
+    "id": 105,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan választjuk el az idegen „ch” és „x” betűt tartalmazó szavakat: „archívum, orchidea, Richárd, Mexikó”?",
+    "options": [
+      "ar-chívum, or-chidea, Ri-chárd, Me-xikó",
+      "arc-hívum, orc-hidea, Ric-hárd, Mex-ikó",
+      "arch-ívum, orch-idea, Rich-árd, Mexi-kó",
+      "a-rchívum, o-rchidea, R-ichárd, M-exikó"
+    ],
+    "correct": 0,
+    "explanation": "A ch és az x elválasztáskor egyetlen rövid mássalhangzónak számít, és átkerül a következő sorba."
+  },
+  {
+    "id": 106,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan választjuk el a toldalékos „peches, pechhel, Beatrixszal” és a „Pinocchio” szavakat?",
+    "options": [
+      "pec-hes, pec-hhel, Beatri-xszal, Pino-cchio",
+      "pe-ches, pech-hel, Beatrix-szal, Pinoc-chio",
+      "pech-es, pe-chhel, Beat-rixszal, Pinocc-hio",
+      "Nem választhatók el a sor végén"
+    ],
+    "correct": 1,
+  },
+  {
+    "id": 107,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mely mozaikszók (betűszók) NEM választhatók el a sor végén?",
+    "options": [
+      "NA-TO, OR-FI",
+      "ELTE-re, ENSZ-ért",
+      "BVSC, MLSZ, NOB, SZTK, ORFK",
+      "Ma-lév, Ma-hart"
+    ],
+    "correct": 2,
+    "explanation": "A mássalhangzós vagy egyetlen magánhangzót tartalmazó betűszók (BVSC, MLSZ, NOB, SZTK, ORFK) nem választhatók el."
+  },
+  {
+    "id": 108,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan választjuk el a toldalékos betűszókat (ELTE-re, USA-beli) és a szóösszevonásokat (Malév, Mahart)?",
+    "options": [
+      "Tilos őket elválasztani",
+      "EL-TEre, U-SAbeli, Mal-év, Mah-art",
+      "Csak az első betű után választhatók el",
+      "ELTE-re, USA-beli és Ma-lév, Ma-hart"
+    ],
+    "correct": 3,
+    "explanation": "Toldalékos betűszóknál a kötőjellel kapcsolt magánhangzós toldalékot visszük át (ELTE-re), a szóösszevonásokat pedig szótagoljuk (Ma-lév)."
+  },
+  {
+    "id": 109,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan választjuk el az összetett szavakat: „délután, tölgyerdő, viszonteladó”?",
+    "options": [
+      "dél-után, tölgy-erdő, viszont-eladó",
+      "dé-lután, töl-gyerdő, viszon-teladó",
+      "délu-tán, tölgyer-dő, vi-szonteladó",
+      "Összetett szavakat nem szabad elválasztani"
+    ],
+    "correct": 0,
+    "explanation": "Az összetett szavakat az összetételi tagok határán választjuk el, még ha az nem is esik egybe a szótaghatárral."
+  },
+  {
+    "id": 110,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan viselkedik a „leg-” felsőfokjel elválasztáskor (pl. legalább, legerősebb)?",
+    "options": [
+      "Sima szótagként: le-galább, le-gerősebb",
+      "Összetételi tagként: leg-alább, leg-erősebb",
+      "Nem választható el a szótól",
+      "Mindig a következő sorba kerül"
+    ],
+    "correct": 1,
+    "explanation": "A „leg-” felsőfokjel elválasztáskor úgy viselkedik, mintha önálló összetételi tag lenne: leg-alább, leg-alul, leg-erősebb."
+  },
+  {
+    "id": 111,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mit jelent a „me-gint” és mit a „meg-int” elválasztású szó?",
+    "options": [
+      "Mindkettő hibás elválasztás",
+      "Nincs köztük jelentéskülönbség",
+      "me-gint = újra; meg-int = figyelmeztet",
+      "me-gint = figyelmeztet; meg-int = újra"
+    ],
+    "correct": 2,
+    "explanation": "Az azonos alakú szavak (homonimák) elválasztása a jelentésüktől függ: me-gint (= újra), meg-int (= figyelmeztet); gé-pelem (ige), gép-elem (főnév)."
+  },
+  {
+    "id": 112,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyik két elválasztás helyes egyaránt a „Nyíregyháza” és az „alezredes” szavaknál?",
+    "options": [
+      "Ny-íregyháza és a-lezredes",
+      "Nyíre-gyháza és alezr-edes",
+      "Csak egyetlen helyes elválasztásuk van",
+      "Nyír-egyháza / Nyíregy-háza; alez-redes / ale-zredes"
+    ],
+    "correct": 3,
+    "explanation": "A megengedő szabály szerint többszörös és homályos összetételeknél a szóhatáron és a sima szótagolás szerint is elválaszthatunk."
+  },
+  {
+    "id": 113,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyek a mondatfajták a beszélő szándéka szerint?",
+    "options": [
+      "Kijelentő, kérdő, felkiáltó, óhajtó, felszólító",
+      "Mély, magas és vegyes mondat",
+      "Igei, főnévi és melléknévi mondat",
+      "Rövid és hosszú mondat"
+    ],
+    "correct": 0,
+    "explanation": "A beszélő szándéka szerint öt mondatfajtát különböztetünk meg: kijelentő (.), kérdő (?), felkiáltó (!), óhajtó (!) és felszólító (!)."
+  },
+  {
+    "id": 114,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Milyen mondatvégi írásjelet teszünk a felkiáltó, az óhajtó és a felszólító mondat végére?",
+    "options": [
+      "Kérdőjelet (?)",
+      "Felkiáltójelet (!)",
+      "Pontot (.)",
+      "Kettőspontot (:)"
+    ],
+    "correct": 1,
+    "explanation": "A felkiáltó, az óhajtó és a felszólító mondat végére egyaránt felkiáltójelet (!) teszünk."
+  },
+  {
+    "id": 115,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyik szócsoportban írunk „ly”-t a j hang jelölésére?",
+    "options": [
+      "hajó, játék, tej, vaj",
+      "felejt, sajt, ujj, héja",
+      "gólya, bagoly, király, folyosó",
+      "javít, jegenye, jég, jó"
+    ],
+    "correct": 2,
+    "explanation": "A hagyomány elve alapján ly-nal írjuk a gólya, bagoly, király, folyosó, osztály, hely szavakat."
+  },
+  {
+    "id": 116,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mit fejez ki az IGE a mondatban, és melyek a három igeidő?",
+    "options": [
+      "Tulajdonságot; alapfok, középfok, felsőfok",
+      "Mennyiséget; tőszámnév és sorszámnév",
+      "Élőlények nevét; köznév és tulajdonnév",
+      "Cselekvést, történést, létezést; jelen, múlt, jövő"
+    ],
+    "correct": 3,
+    "explanation": "Az ige cselekvést, történést vagy létezést fejez ki; három igeideje a jelen, a múlt és a jövő idő."
+  },
+  {
+    "id": 117,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mi a különbség a köznév és a tulajdonnév helyesírása között?",
+    "options": [
+      "Köznév: kis kezdőbetű; Tulajdonnév: nagy kezdőbetű",
+      "Mindkettőt nagy kezdőbetűvel írjuk",
+      "A tulajdonnevet mindig kis kezdőbetűvel írjuk",
+      "Csak a mondat végén írjuk nagybetűvel"
+    ],
+    "correct": 0,
+    "explanation": "A főnevek két fő csoportja a kisbetűs köznév (pl. folyó, város) és a nagy kezdőbetűs tulajdonnév (pl. Duna, Budapest)."
+  },
+  {
+    "id": 118,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Hogyan fokozzuk helyesen a „jó” és a „szép” mellékneveket (alapfok, középfok, felsőfok)?",
+    "options": [
+      "jó – jóbb – legjóbb; szép – szépebb – legszépebb",
+      "jó – jobb – legjobb; szép – szebb – legszebb",
+      "jó – jobban – legjobban; szép – szebben – legszebben",
+      "A mellékneveket nem lehet fokozni"
+    ],
+    "correct": 1,
+    "explanation": "A melléknevek három foka: alapfok (jó, szép), középfok (jobb, szebb) és felsőfok (legjobb, legszebb)."
+  },
+  {
+    "id": 119,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Mely szavak tartoznak a határozott és a határozatlan NÉVELŐK közé?",
+    "options": [
+      "én, te, ő, mi, ti, ők",
+      "egy, kettő, három, sok",
+      "Határozott: a, az; Határozatlan: egy",
+      "itt, ott, ekkor, így"
+    ],
+    "correct": 2,
+    "explanation": "A határozott névelők az „a, az”, a határozatlan névelő pedig az „egy”."
+  },
+  {
+    "id": 120,
+    "subject": "Magyar nyelv",
+    "icon": "✍️",
+    "grade": "5. osztály",
+    "q": "Melyik szópár áll ROKON ÉRTELMŰ, illetve ELLENTÉTES JELENTÉSŰ szavakból?",
+    "options": [
+      "Rokon: kicsi – nagy; Ellentétes: szalad – fut",
+      "Mindkettő azonos alakú szópár",
+      "Rokon: vár – vár; Ellentétes: nevet – kacag",
+      "Rokon: nevet – kacag; Ellentétes: bátor – gyáva"
+    ],
+    "correct": 3,
+    "explanation": "A nevet – kacag rokon értelmű (szinonima), a bátor – gyáva pedig ellentétes jelentésű szópár."
+  }
+]

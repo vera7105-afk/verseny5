@@ -1,0 +1,3002 @@
+﻿[
+    {
+        "id":  1,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik a három alapvető irodalmi műnem?",
+        "options":  [
+                        "Líra, epika, dráma",
+                        "Vers, próza, mese",
+                        "Népmese, műmese, dal",
+                        "Rím, ritmus, strófa"
+                    ],
+        "correct":  0,
+        "explanation":  "Az irodalom három alapvető műneme az epika, a líra és a dráma."
+    },
+    {
+        "id":  2,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Mi áll a lírai alkotások középpontjában?",
+        "options":  [
+                        "Hosszú kalandos cselekménysor",
+                        "Érzelmek, gondolatok, hangulatok",
+                        "Színpadi párbeszéd és konfliktus",
+                        "Tudományos kísérletek leírása"
+                    ],
+        "correct":  1,
+        "explanation":  "A lírában az érzelmek, gondolatok, hangulatok és személyes élmények közvetlen kifejezése áll a középpontban."
+    },
+    {
+        "id":  3,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Milyen lehet egy irodalmi alkotás a FORMÁJA szerint?",
+        "options":  [
+                        "Népi vagy műköltészeti",
+                        "Igaz vagy kitalált",
+                        "Vers vagy próza",
+                        "Líra vagy dráma"
+                    ],
+        "correct":  2,
+        "explanation":  "Formája szerint az irodalmi alkotás lehet vers (kötött ritmusú) vagy próza (kötetlen ritmusú)."
+    },
+    {
+        "id":  4,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Milyen lehet egy irodalmi alkotás az EREDETE szerint?",
+        "options":  [
+                        "Rövid vagy hosszú terjedelmű",
+                        "Versszak vagy fejezet",
+                        "Páros vagy keresztrímes",
+                        "Népköltészeti vagy műköltészeti"
+                    ],
+        "correct":  3,
+        "explanation":  "Eredete szerint megkülönböztetünk népköltészeti (közösségi) és műköltészeti (ismert szerzőjű) alkotást."
+    },
+    {
+        "id":  5,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik állítás igaz a prózai szövegre?",
+        "options":  [
+                        "Kötetlen ritmusú, bekezdésekre tagolódik",
+                        "Verssorokba és strófákba rendeződik",
+                        "Mindig rímekkel zárulnak a sorai",
+                        "Kizárólag énekelve adható elő"
+                    ],
+        "correct":  0,
+        "explanation":  "A próza kötetlen ritmusú szöveg, folyamatos íráskép jellemzi, bekezdésekre és fejezetekre tagolódik."
+    },
+    {
+        "id":  6,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Hogyan nevezzük a versszakot idegen eredetű szóval?",
+        "options":  [
+                        "Rímképlet",
+                        "Strófa",
+                        "Epika",
+                        "Variáns"
+                    ],
+        "correct":  1,
+        "explanation":  "A versszak idegen eredetű szakszóval strófa, amely verssorokból épül fel."
+    },
+    {
+        "id":  7,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik jellemző a népköltészeti alkotásokra?",
+        "options":  [
+                        "Szerzője ismert, szövege rögzített",
+                        "Csak nyomtatott könyvben terjedt",
+                        "Szájhagyomány útján, több változatban él",
+                        "Kizárólag egyetlen változatban létezik"
+                    ],
+        "correct":  2,
+        "explanation":  "A népköltészet szájhagyomány útján terjedő közösségi alkotás, szerzője ismeretlen, szövege több változatban (variánsban) él."
+    },
+    {
+        "id":  8,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Ki a „lírai én” (lírai alany) egy költeményben?",
+        "options":  [
+                        "A könyvet kinyomtató nyomdász",
+                        "A verset felolvasó színész",
+                        "A mesében szereplő gonosz mostoha",
+                        "A versbeli beszélő (belső hang)"
+                    ],
+        "correct":  3,
+        "explanation":  "A lírai én a versbeli beszélő, aki nem feltétlenül azonos magával az életrajzi költővel."
+    },
+    {
+        "id":  9,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Mit nevezünk rímnek a versekben?",
+        "options":  [
+                        "A sorvégek hangtani összecsengését",
+                        "A fejezetek címét a regényben",
+                        "A mese kezdő- és záróformuláját",
+                        "A versszakok számát a műben"
+                    ],
+        "correct":  0,
+        "explanation":  "A rím a verssorok végének szabályos hangtani összecsengése."
+    },
+    {
+        "id":  10,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Mi a páros rím rímképlete?",
+        "options":  [
+                        "a b a b",
+                        "a a b b",
+                        "a b b a",
+                        "x a x a"
+                    ],
+        "correct":  1,
+        "explanation":  "A páros rímben az egymást követő sorok párosával rímelnek: a a b b."
+    },
+    {
+        "id":  11,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik rímfajta képlete az „a b a b”?",
+        "options":  [
+                        "Bokorrím",
+                        "Páros rím",
+                        "Keresztrím",
+                        "Ölelkező rím"
+                    ],
+        "correct":  2,
+        "explanation":  "A keresztrímben az 1. sor a 3.-kal, a 2. sor a 4.-kel rímel (a b a b)."
+    },
+    {
+        "id":  12,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Hogyan nevezzük az „a a a a” és az „a b b a” rímképletet?",
+        "options":  [
+                        "Páros rím és félrím",
+                        "Keresztrím és páros rím",
+                        "Félrím és bokorrím",
+                        "Bokorrím és ölelkező rím"
+                    ],
+        "correct":  3,
+        "explanation":  "Az a a a a bokorrím (minden sor azonosan rímel), az a b b a pedig ölelkező rím."
+    },
+    {
+        "id":  13,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik rímfajta képlete az „x a x a”, ahol csak a páros sorok rímelnek?",
+        "options":  [
+                        "Félrím",
+                        "Bokorrím",
+                        "Páros rím",
+                        "Ölelkező rím"
+                    ],
+        "correct":  0,
+        "explanation":  "A félrímnél (x a x a) a sorvégeknek csak egy része, leggyakrabban a 2. és 4. sor rímel."
+    },
+    {
+        "id":  14,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Mit jelent a keretes szerkezet egy irodalmi műben?",
+        "options":  [
+                        "A verset díszes képkeretbe rajzolják",
+                        "A kezdő- és zárókép tudatos ismétlődését",
+                        "Minden versszak pontosan két soros",
+                        "A költeményben nincsenek rímek"
+                    ],
+        "correct":  1,
+        "explanation":  "Keretes szerkezet esetén a mű kezdőképe és záróképe (vagy kezdő és záró sorai) összecsengenek, ismétlődnek."
+    },
+    {
+        "id":  15,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik lírai műfaj fejez ki egyszerű érzelmeket könnyen énekelhető, dallamos formában?",
+        "options":  [
+                        "A láncmese",
+                        "Az elbeszélés",
+                        "A dal",
+                        "A regény"
+                    ],
+        "correct":  2,
+        "explanation":  "A dal egyszerű érzelmeket, alapvető hangulatokat közvetlenül kifejező, dallamos, kötött ritmusú lírai műfaj."
+    },
+    {
+        "id":  16,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik műfaj ábrázolja a mindennapi élet egy-egy tipikus helyzetét lírai és epikai elemekkel?",
+        "options":  [
+                        "Láncmese",
+                        "Tündérmese",
+                        "Állatmese",
+                        "Életkép"
+                    ],
+        "correct":  3,
+        "explanation":  "Az életkép a mindennapi élet jellemző alakját vagy tipikus helyzetét (pl. falusi este, családi együttlét) mutatja be."
+    },
+    {
+        "id":  17,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Ki írta A századik könyv című elbeszélést az olvasás szeretetéről?",
+        "options":  [
+                        "Móra Ferenc",
+                        "Weöres Sándor",
+                        "Kányádi Sándor",
+                        "Arany János"
+                    ],
+        "correct":  0,
+        "explanation":  "A könyvek bűvöletében című bevezető fejezet elbeszélését, A századik könyvet Móra Ferenc írta."
+    },
+    {
+        "id":  18,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Ki a szerzője az Előszó helyett: szigorúan véve című, könyvekről szóló részletnek?",
+        "options":  [
+                        "Petőfi Sándor",
+                        "Michael Ende",
+                        "Arany János",
+                        "Benedek Elek"
+                    ],
+        "correct":  1,
+        "explanation":  "Az Előszó helyett: szigorúan véve című bevezető szöveg szerzője a német író, Michael Ende."
+    },
+    {
+        "id":  19,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Ki írta az „Ó ha cinke volnék” kezdetű dalt, és melyik ciklus része?",
+        "options":  [
+                        "Arany János; Családi kör",
+                        "Petőfi Sándor; Felhők",
+                        "Weöres Sándor; Rongyszőnyeg",
+                        "Kányádi Sándor; Nagyanyó-kenyér"
+                    ],
+        "correct":  2,
+        "explanation":  "Az Ó ha cinke volnék Weöres Sándor verse, amely a Rongyszőnyeg című ciklusból származik."
+    },
+    {
+        "id":  20,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Milyen műfajú Weöres Sándor Ó ha cinke volnék című költeménye?",
+        "options":  [
+                        "Tündérmese",
+                        "Hazafias óda",
+                        "Prózai elbeszélés",
+                        "Dal"
+                    ],
+        "correct":  3,
+        "explanation":  "Weöres Sándor Ó ha cinke volnék című verse dallamos, kötött ritmusú lírai dal."
+    },
+    {
+        "id":  21,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Ki írta a Nagyanyó-kenyér című lírai emlékezést / életképet?",
+        "options":  [
+                        "Kányádi Sándor",
+                        "Móra Ferenc",
+                        "Weöres Sándor",
+                        "Petőfi Sándor"
+                    ],
+        "correct":  0,
+        "explanation":  "A Nagyanyó-kenyér című meghitt hangulatú verset Kányádi Sándor írta."
+    },
+    {
+        "id":  22,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik napszakban játszódik Arany János Családi kör című életképe?",
+        "options":  [
+                        "Kora hajnalban, napkeltekor",
+                        "Este, a hazatérés és elcsendesedés idején",
+                        "Délben, a tűző nyári napon",
+                        "Szilveszter éjszakáján"
+                    ],
+        "correct":  1,
+        "explanation":  "A Családi kör („Este van, este van: kiki nyugalomba...”) a falusi este békés családi együttlétét mutatja be."
+    },
+    {
+        "id":  23,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Milyen szerkezeti sajátosság jellemzi Arany János Családi kör című versét?",
+        "options":  [
+                        "Láncszerű mesei felépítés",
+                        "Színpadi drámai párbeszéd",
+                        "Keretes szerkezet",
+                        "Próza és vers váltakozása"
+                    ],
+        "correct":  2,
+        "explanation":  "A Családi kör keretes szerkezetű életkép: a természet és a ház elcsendesedése keretezi a családi idillt."
+    },
+    {
+        "id":  24,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Ki érkezik vendégségbe a családhoz Arany János Családi kör című versében?",
+        "options":  [
+                        "A falusi bíró",
+                        "Egy vándorló diák",
+                        "A szomszéd molnár",
+                        "Egy béna harcos (vándor katona)"
+                    ],
+        "correct":  3,
+        "explanation":  "A család szeretettel látja vendégül a betérő „béna harcost”, akinek háborús történeteit feszülten hallgatják."
+    },
+    {
+        "id":  25,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Milyen rímfajta jellemző Arany János Családi kör című versére?",
+        "options":  [
+                        "Páros rím (a a b b)",
+                        "Bokorrím (a a a a)",
+                        "Félrím (x a x a)",
+                        "Rímtelen szabadvers"
+                    ],
+        "correct":  0,
+        "explanation":  "A Családi kör versszakaiban a sorok párosával rímelnek (páros rím: a a b b)."
+    },
+    {
+        "id":  26,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Mi történik a hazatérő fiúval Petőfi Füstbement terv című versének végén?",
+        "options":  [
+                        "Eltéved a sűrű erdőben",
+                        "Szótlanul borul édesanyja karjába",
+                        "Hosszú köszöntő beszédet mond",
+                        "Nem találja otthon a szüleit"
+                    ],
+        "correct":  1,
+        "explanation":  "A Füstbement tervben a beszélő egész úton a köszöntő szavakat tervezi, de a viszontlátás örömében szólni sem tud, csak átöleli édesanyját."
+    },
+    {
+        "id":  27,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik Petőfi-vers mutatja be az édesapával és édesanyával töltött meghitt otthoni estét?",
+        "options":  [
+                        "Magyar vagyok",
+                        "Családi kör",
+                        "Egy estém otthon",
+                        "Ó ha cinke volnék"
+                    ],
+        "correct":  2,
+        "explanation":  "Petőfi Sándor Egy estém otthon című életképe a szülői házban töltött este érzelmeit örökíti meg."
+    },
+    {
+        "id":  28,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Miért aggódik az édesapa fia jövőjéért Petőfi Egy estém otthon című versében?",
+        "options":  [
+                        "Mert a fiú tengerész akar lenni",
+                        "Mert a fiú nem szeret olvasni",
+                        "Mert a fiú külföldre akar költözni",
+                        "Bizonytalannak tartja a költői pályát"
+                    ],
+        "correct":  3,
+        "explanation":  "Az apa gyakorlatias szemmel félti fiát a költészet és a színészet bizonytalanságától, míg az édesanya szeretettel kérdezgeti őt."
+    },
+    {
+        "id":  29,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Milyen műfajú Petőfi Sándor Magyar vagyok című költeménye?",
+        "options":  [
+                        "Lírai vallomás / hazafias dal",
+                        "Láncmese",
+                        "Prózai életkép",
+                        "Állatmese"
+                    ],
+        "correct":  0,
+        "explanation":  "A Magyar vagyok Petőfi Sándor személyes hangú lírai vallomása és hazafias költeménye a nemzeti hovatartozásról."
+    },
+    {
+        "id":  30,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Milyen érzelmet fejez ki a beszélő Petőfi Magyar vagyok című versében?",
+        "options":  [
+                        "Vágyakozást egy távoli szigetre",
+                        "Büszke hazaszeretetet és hűséget",
+                        "Bánatot az ősz elmúlása miatt",
+                        "Vidám tavaszi falusi mulatságot"
+                    ],
+        "correct":  1,
+        "explanation":  "A versben a lírai én büszkén vállalja magyarságát a dicsőségben és a nehéz sorsban egyaránt."
+    },
+    {
+        "id":  31,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Mi a mese pontos irodalmi fogalma?",
+        "options":  [
+                        "Történelmi dokumentumokon alapuló leírás",
+                        "Versszakokba szedett hazafias ének",
+                        "Csodás elemekkel átszőtt, kitalált történet",
+                        "Színpadon előadott tragikus színmű"
+                    ],
+        "correct":  2,
+        "explanation":  "A mese csodás, hihetetlen, valószerűtlen elemekkel átszőtt, kitalált történet, amely az epika műneméhez tartozik."
+    },
+    {
+        "id":  32,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik műnemhez tartoznak a mesék?",
+        "options":  [
+                        "A lírához",
+                        "A drámához",
+                        "A publicisztikához",
+                        "Az epikához"
+                    ],
+        "correct":  3,
+        "explanation":  "A mesék eseménysort, történetet mondanak el szereplőkkel, ezért az epika műnemébe tartoznak."
+    },
+    {
+        "id":  33,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Miben különbözik a műmese a népmesétől?",
+        "options":  [
+                        "Szerzője ismert, szövege rögzített",
+                        "Soha nincs ismert szerzője",
+                        "Kizárólag szájhagyomány útján terjed",
+                        "Nem szerepelhetnek benne próbatételek"
+                    ],
+        "correct":  0,
+        "explanation":  "A műmese szerzője ismert író, írott formában keletkezik, és szövege egyetlen rögzített változatban létezik."
+    },
+    {
+        "id":  34,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyek a magyar népmesék legjellemzőbb mesei (bűvös) számai?",
+        "options":  [
+                        "2, 4, 8, 16",
+                        "3, 7, 12, 77",
+                        "5, 10, 25, 100",
+                        "1, 6, 9, 14"
+                    ],
+        "correct":  1,
+        "explanation":  "A mesékben leggyakrabban előforduló mesei számok: 3, 7, 12 és 77."
+    },
+    {
+        "id":  35,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik kifejezés jellegzetes mesei kezdőformula?",
+        "options":  [
+                        "„Itt a vége, fuss el véle!”",
+                        "„Ma még véle, holnap néked!”",
+                        "„Egyszer volt, hol nem volt...”",
+                        "„Aki nem hiszi, járjon utána!”"
+                    ],
+        "correct":  2,
+        "explanation":  "Az „Egyszer volt, hol nem volt...” a népmesék hagyományos kezdőformulája, amely bevezet a mese világába."
+    },
+    {
+        "id":  36,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik kifejezés jellegzetes mesei záróformula?",
+        "options":  [
+                        "„Egyszer volt, hol nem volt...”",
+                        "„Szerencséd, hogy öreganyádnak szólítottál!”",
+                        "„Ment, mendegélt a királyfi...”",
+                        "„Itt a vége, fuss el véle!”"
+                    ],
+        "correct":  3,
+        "explanation":  "A mesei záróformulák (pl. „Itt a vége, fuss el véle!”) lezárják a mesét és visszavezetik a hallgatót a valóságba."
+    },
+    {
+        "id":  37,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Hogyan érvényesül az igazságszolgáltatás a népmesék végén?",
+        "options":  [
+                        "A jó elnyeri jutalmát, a gonosz megbűnhődik",
+                        "A gonosz szereplők mindig győznek",
+                        "A főhős mindig üres kézzel tér haza",
+                        "Soha nem derül ki az igazság"
+                    ],
+        "correct":  0,
+        "explanation":  "A népmesék végén mindig helyreáll a világ rendje: a jó elnyeri jutalmát, a gonosz pedig méltó büntetését."
+    },
+    {
+        "id":  38,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik mesefajta jellemzője, hogy csodás lények és varázstárgyak szerepelnek benne?",
+        "options":  [
+                        "Valósmese (reális mese)",
+                        "Tündérmese (varázsmese)",
+                        "Állatmese",
+                        "Láncmese"
+                    ],
+        "correct":  1,
+        "explanation":  "A tündérmesében (varázsmesében) csodás lények és varázstárgyak segítik a hőst a győzelemhez."
+    },
+    {
+        "id":  39,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik mesefajtában győz a hős csodás elemek nélkül, a saját eszével és talpraesettségével?",
+        "options":  [
+                        "Láncmese",
+                        "Tündérmese",
+                        "Valósmese (reális mese)",
+                        "Állatmese"
+                    ],
+        "correct":  2,
+        "explanation":  "A valósmesében (reális mesében) valós szereplők és helyszínek vannak, a hős pedig a saját eszével győz."
+    },
+    {
+        "id":  40,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik mesetípusban szerepelnek emberi tulajdonságokkal felruházott állatok tanulsággal?",
+        "options":  [
+                        "Tündérmese",
+                        "Láncmese",
+                        "Valósmese",
+                        "Állatmese"
+                    ],
+        "correct":  3,
+        "explanation":  "Az állatmesében emberi tulajdonságokkal felruházott állatok szerepelnek, és a történet tanulsággal zárul."
+    },
+    {
+        "id":  41,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik mesetípus épül egymásból következő, láncszerűen ismétlődő eseményekre?",
+        "options":  [
+                        "A láncmese",
+                        "Az állatmese",
+                        "A tündérmese",
+                        "A valósmese"
+                    ],
+        "correct":  0,
+        "explanation":  "A láncmese egymásból következő, láncszerűen ismétlődő eseményekből áll."
+    },
+    {
+        "id":  42,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Milyen mesetípusba tartozik a Tündérszép Ilona és Árgyélus című magyar népmese?",
+        "options":  [
+                        "Valósmese",
+                        "Tündérmese (varázsmese)",
+                        "Állatmese",
+                        "Láncmese"
+                    ],
+        "correct":  1,
+        "explanation":  "A Tündérszép Ilona és Árgyélus csodás lényeket, varázstárgyakat és próbatételeket felvonultató tündérmese."
+    },
+    {
+        "id":  43,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Milyen különleges fa állt a király kertjében a Tündérszép Ilona és Árgyélus mesében?",
+        "options":  [
+                        "Egy ezüstlevelű fűzfa",
+                        "Egy gyémántvirágú rózsabokor",
+                        "Egy aranyalmafa",
+                        "Egy beszélő tölgyfa"
+                    ],
+        "correct":  2,
+        "explanation":  "A király kertjében álló aranyalmafa termését minden éjjel ellopták, mire megérett."
+    },
+    {
+        "id":  44,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Kinek sikerült ébren maradnia és meglesnie az aranyalmák tolvajait?",
+        "options":  [
+                        "A legidősebb királyfinak",
+                        "A középső királyfinak",
+                        "A király udvari vadászának",
+                        "A legkisebb királyfinak, Árgyélusnak"
+                    ],
+        "correct":  3,
+        "explanation":  "A két báty elaludt az őrködés közben, egyedül a legkisebb királyfi, Árgyélus maradt ébren."
+    },
+    {
+        "id":  45,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Milyen alakban repült a fára Tündérszép Ilona és társai az aranyalmákért?",
+        "options":  [
+                        "Holló (vagy hattyú) madáralakban",
+                        "Aranyhal alakjában",
+                        "Szárnyas paripa hátán",
+                        "Kisegér alakjában"
+                    ],
+        "correct":  0,
+        "explanation":  "A tündérlányok madáralakban szálltak az aranyalmafára, majd tündérlánnyá változtak."
+    },
+    {
+        "id":  46,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Miért veszítette el Árgyélus királyfi Tündérszép Ilonát az első találkozásuk után?",
+        "options":  [
+                        "Mert Tündérszép Ilona nem szerette őt",
+                        "A vén banya levágta Ilona aranyhaját",
+                        "Mert Árgyélus elutazott vadászni",
+                        "Mert a bátyjai elrabolták a lányt"
+                    ],
+        "correct":  1,
+        "explanation":  "Árgyélus a karjára csavarta Ilona aranyhaját, de a gonosz vénasszony éjjel elvágta a hajfürtöt, így Ilonának el kellett repülnie."
+    },
+    {
+        "id":  47,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Kiktől kért útbaigazítást Árgyélus vándorlása során, hogy megtalálja Tündérszép Ilonát?",
+        "options":  [
+                        "Három öreg molnártól",
+                        "A tengeri halaktól",
+                        "A Naptól, a Holdtól és a Széltől",
+                        "A király tanácsadóitól"
+                    ],
+        "correct":  2,
+        "explanation":  "Árgyélus a Napnál, a Holdnál és a mindenütt megforduló Szélnél érdeklődött Tündérszép Ilona lakóhelye felől."
+    },
+    {
+        "id":  48,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Milyen varázstárgyakat szerzett meg Árgyélus a három veszekedő ördögfiókától?",
+        "options":  [
+                        "Varázspálcát, gyűrűt és koronát",
+                        "Aranykardot, pajzsot és sisakot",
+                        "Furulyát, tarisznyát és kulacsot",
+                        "Köpönyeget, bocskort és ostort"
+                    ],
+        "correct":  3,
+        "explanation":  "Árgyélus csellel megszerezte az ördögfiókák örökségét: a láthatatlanná tevő köpönyeget, a repítő bocskort és a csodás ostort."
+    },
+    {
+        "id":  49,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Milyen mesetípusba tartozik Az okos lány című magyar népmese?",
+        "options":  [
+                        "Valósmese (reális mese)",
+                        "Tündérmese",
+                        "Állatmese",
+                        "Láncmese"
+                    ],
+        "correct":  0,
+        "explanation":  "Az okos lány valósmese (reális mese), mert a főhős varázslat nélkül, saját eszével és leleményességével győz."
+    },
+    {
+        "id":  50,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik uralkodó teszi próbára a molnár lányát Az okos lány című mesében?",
+        "options":  [
+                        "Szent István király",
+                        "Mátyás király",
+                        "Szent László király",
+                        "Árgyélus királyfi"
+                    ],
+        "correct":  1,
+        "explanation":  "Az okos lány című népmesében az igazságos Mátyás király állítja furfangos próbák elé a molnár lányát."
+    },
+    {
+        "id":  51,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Hogyan teljesítette az okos lány azt a parancsot, hogy „hozzon is ajándékot, meg ne is”?",
+        "options":  [
+                        "Üres kosarat vitt a királynak",
+                        "Jégcsapot vitt, ami elolvadt",
+                        "Két szita közé zárt élő galambot vitt",
+                        "Virágot vitt, majd visszakérte"
+                    ],
+        "correct":  2,
+        "explanation":  "A lány két szita közé egy élő galambot tett: amikor Mátyás király átvette, a madár elrepült – így hozott is, meg nem is."
+    },
+    {
+        "id":  52,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Hogyan teljesítette a lány azt a kérést, hogy „jöjjön is, meg ne is”?",
+        "options":  [
+                        "Hátrafelé sétált a palotába",
+                        "Becsukott szemmel ment be",
+                        "Csak az ablakon nézett be",
+                        "Kecskeszánon (kecskeháton) érkezett"
+                    ],
+        "correct":  3,
+        "explanation":  "A lány kecskeháton/kecskeszánon ment: így a lába érte is a földet, meg nem is."
+    },
+    {
+        "id":  53,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Mit küldött vissza az okos lány, amikor a király lenmagból akart aranyfonalat fonatni vele?",
+        "options":  [
+                        "Kenderkócot, hogy csináltasson belőle aranykorsót",
+                        "Egy zsák aranypénzt és ezüstöt",
+                        "Egy hímzett selyemkendőt",
+                        "Egy kosár frissen sült pogácsát"
+                    ],
+        "correct":  0,
+        "explanation":  "A lány szellemesen visszavágott: kenderkócot küldött, hogy a király készíttessen belőle aranykorsót."
+    },
+    {
+        "id":  54,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Mit üzent az okos lány, amikor a király a lyukas korsót akarta vele befoltoztatni?",
+        "options":  [
+                        "Hogy nincs otthon varrótűje",
+                        "Előbb a király fordítsa ki a korsót",
+                        "Hogy csak selymet tud fonni",
+                        "Hogy eltört a korsó füle"
+                    ],
+        "correct":  1,
+        "explanation":  "A lány azt üzente: szívesen befoltozza, ha előbb a király kifordítja a korsót a visszájára, ahogy a csizmát szokták."
+    },
+    {
+        "id":  55,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Mi lett a jutalma a molnár lányának Az okos lány című mesében?",
+        "options":  [
+                        "Kapott egy zsák ezüstpénzt és hazament",
+                        "A király főszakácsa lett",
+                        "Mátyás király feleségül vette",
+                        "Kapott egy szép lovat és szekeret"
+                    ],
+        "correct":  2,
+        "explanation":  "Mátyás királynak annyira megtetszett a lány okossága és talpraesettsége, hogy feleségül vette."
+    },
+    {
+        "id":  56,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Ki volt az apja az okos lánynak Az okos lány című mesében?",
+        "options":  [
+                        "Ács",
+                        "Kovács",
+                        "Favágó",
+                        "Molnár"
+                    ],
+        "correct":  3,
+        "explanation":  "Az okos lány édesapja egy szegény molnár volt."
+    },
+    {
+        "id":  57,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik mondat jellegzetes állandó mesei kifejezés (fordulat)?",
+        "options":  [
+                        "„Szerencséd, hogy öreganyádnak szólítottál!”",
+                        "„A víz száz Celsius-fokon forr fel.”",
+                        "„Tisztelt Szerkesztőség!”",
+                        "„Először végezzük el a szorzást!”"
+                    ],
+        "correct":  0,
+        "explanation":  "A „Szerencséd, hogy öreganyádnak szólítottál!”, a „Ment-mendegélt...” és a „Hét nap és hét éjszaka...” visszatérő mesei fordulatok."
+    },
+    {
+        "id":  58,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Hány próbatételt kell általában kiállnia a népmesék főhősének?",
+        "options":  [
+                        "Csak egyetlen próbát",
+                        "Általában három próbatételt",
+                        "Mindig pontosan tíz próbát",
+                        "A népmesékben nincsenek próbák"
+                    ],
+        "correct":  1,
+        "explanation":  "A népmesék szerkezeti sajátossága, hogy a főhősnek általában három próbatételt kell kiállnia."
+    },
+    {
+        "id":  59,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Hogyan keletkezik a versritmus a költeményekben?",
+        "options":  [
+                        "A fejezetek sorszámozásából",
+                        "A szereplők nevének felsorolásából",
+                        "A hangsúlyos és hangsúlytalan szótagok szabályos váltakozásából",
+                        "A mondatvégi felkiáltójelekből"
+                    ],
+        "correct":  2,
+        "explanation":  "A versritmus a beszédhangok, szótagok, hangsúlyok vagy gondolatok szabályos ismétlődéséből fakadó lüktetés."
+    },
+    {
+        "id":  60,
+        "subject":  "Irodalom",
+        "icon":  "📖",
+        "grade":  "5. osztály",
+        "q":  "Melyik két mű tartozik az „Életkép” műfajába az 1. fejezetben tanult versek közül?",
+        "options":  [
+                        "Az okos lány és Tündérszép Ilona",
+                        "A századik könyv és Magyar vagyok",
+                        "Ó ha cinke volnék és Magyar vagyok",
+                        "Családi kör és Egy estém otthon"
+                    ],
+        "correct":  3,
+        "explanation":  "Arany János Családi kör és Petőfi Sándor Egy estém otthon című verse egyaránt a családi együttlétet ábrázoló életkép."
+    },
+    {
+        "id":  61,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyek a nyelvi szintek a legkisebbtől a legnagyobbig haladva?",
+        "options":  [
+                        "Hang → szótag → szó → mondat → szöveg",
+                        "Szó → hang → mondat → szótag → szöveg",
+                        "Mondat → szó → szótag → hang → szöveg",
+                        "Szöveg → mondat → szótag → szó → hang"
+                    ],
+        "correct":  0,
+        "explanation":  "A nyelvi szintek építőkockaként követik egymást a legkisebbtől a legnagyobbig: beszédhang, szótag, szó, mondat és szöveg."
+    },
+    {
+        "id":  62,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mi a tüdő és a légcső szerepe a beszédhangok képzésében?",
+        "options":  [
+                        "A hangok leírása a papírra",
+                        "A hangképzéshez szükséges levegő biztosítása",
+                        "Az ajkak kerekítése és résképzése",
+                        "A szavak betűrendbe sorolása"
+                    ],
+        "correct":  1,
+        "explanation":  "A tüdő biztosítja a hangképzéshez szükséges kiáramló levegőt, amely a légcsövön keresztül jut el a gégefőbe."
+    },
+    {
+        "id":  63,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mi a garat szerepe a beszédhangok képzése során?",
+        "options":  [
+                        "A magánhangzók ékezeteinek jelölése",
+                        "A levegő beszívása a tüdő aljába",
+                        "A hang felerősítése és továbbítása",
+                        "A fogak és az ajkak mozgatása"
+                    ],
+        "correct":  2,
+        "explanation":  "A gégefő felett elhelyezkedő garat felerősíti a hangot, és továbbítja a levegőt a száj- vagy az orrüreg felé."
+    },
+    {
+        "id":  64,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan keletkeznek a SZÁJHANGOK az ínycsap (ínyvitorla) működése alapján?",
+        "options":  [
+                        "Az ínycsap leereszkedik, a levegő az orron távozik",
+                        "A hangszalagok teljesen elzárják a levegőt",
+                        "A levegő visszafelé áramlik a tüdőbe",
+                        "Az ínycsap elzárja az orrüreget, a levegő a szájon át távozik"
+                    ],
+        "correct":  3,
+        "explanation":  "A magyar hangok többsége szájhang: ilyenkor az ínycsap felemelkedve elzárja az orrüreg útját, így a levegő csak a szájon át távozik."
+    },
+    {
+        "id":  65,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mi a beszédhang (hang) pontos meghatározása?",
+        "options":  [
+                        "Hallható és kiejtett legkisebb nyelvi egység",
+                        "A papírra leírt látható grafikai jel",
+                        "A mondat végére tett írásjel",
+                        "A szavak jelentését módosító toldalék"
+                    ],
+        "correct":  0,
+        "explanation":  "A beszédhang a beszélőszerveinkkel képzett, füllel hallható és szájjal kiejtett legkisebb nyelvi egység."
+    },
+    {
+        "id":  66,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mi a különbség a „betű” és az „írásjegy” fogalma között?",
+        "options":  [
+                        "A betű tágabb fogalom, mint az írásjegy",
+                        "Az írásjegy tágabb (betű, írásjel, ékezet, számjegy)",
+                        "Az írásjegy csak a magánhangzókat jelöli",
+                        "Nincs köztük semmilyen különbség"
+                    ],
+        "correct":  1,
+        "explanation":  "A betű a beszédhang írásbeli jele; az írásjegy tágabb fogalom, amelybe a betűk, írásjelek, ékezetek és számjegyek is beletartoznak."
+    },
+    {
+        "id":  67,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mi a beszélőszervek pontos sorrendje a levegő útja szerint (alulról felfelé)?",
+        "options":  [
+                        "Szájüreg → Garat → Gégefő → Légcső → Tüdő",
+                        "Tüdő → Garat → Légcső → Orrüreg → Gégefő",
+                        "Tüdő → Légcső → Gégefő → Garat → Ínycsap → Száj-/Orrüreg",
+                        "Gégefő → Tüdő → Légcső → Szájüreg → Garat"
+                    ],
+        "correct":  2,
+        "explanation":  "A levegő útja alulról felfelé: 1. Tüdő, 2. Légcső, 3. Gégefő a hangszalagokkal, 4. Garat, 5. Ínycsap, 6. Szájüreg, 7. Orrüreg."
+    },
+    {
+        "id":  68,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hány hangszalag található a gégefőben, és mi a szerepük?",
+        "options":  [
+                        "4 hangszalag; a levegő lehűtése",
+                        "1 hangszalag; a nyelv mozgatása",
+                        "3 hangszalag; az orrhangok képzése",
+                        "2 hangszalag; a hang zöngésségének meghatározása"
+                    ],
+        "correct":  3,
+        "explanation":  "A gégefőben 2 hangszalag van: ha zárva vannak és rezegnek, zöngés hang keletkezik; ha nyitva vannak és nem rezegnek, zöngétlen."
+    },
+    {
+        "id":  69,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan állnak a hangszalagok ZÖNGÉS, illetve ZÖNGÉTLEN hangok képzésekor?",
+        "options":  [
+                        "Zöngés: zárva és rezegnek; Zöngétlen: nyitva, nem rezegnek",
+                        "Zöngés: nyitva vannak; Zöngétlen: zárva vannak",
+                        "Mindkét esetben nyitva vannak és rezegnek",
+                        "A hangszalagok csak a szünetekben mozognak"
+                    ],
+        "correct":  0,
+        "explanation":  "Zöngés hangoknál a hangszalagok zárva vannak és a levegő megrezegteti őket; zöngétleneknél nyitva vannak és nem rezegnek."
+    },
+    {
+        "id":  70,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyik beszélőszerv működik szelepként, és melyek a magyar orrhangok?",
+        "options":  [
+                        "A nyelv; a p, t, k hangok",
+                        "Az ínycsap (ínyvitorla); az m, n, ny hangok",
+                        "A fogsor; az sz, z, c hangok",
+                        "A légcső; az a, e, i hangok"
+                    ],
+        "correct":  1,
+        "explanation":  "Ha az ínycsap leereszkedik, a levegő az orrüregen át is távozik: így keletkeznek az m, n, ny orrhangok."
+    },
+    {
+        "id":  71,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyek a szájüreg AKTÍV, illetve PASSZÍV beszélőszervei?",
+        "options":  [
+                        "Aktív: fogak, szájpadlás; Passzív: nyelv, ajkak",
+                        "Aktív: orrüreg, garat; Passzív: tüdő, légcső",
+                        "Aktív: nyelv, ajkak; Passzív: szájpadlás, fogak",
+                        "A szájüregben minden beszélőszerv passzív"
+                    ],
+        "correct":  2,
+        "explanation":  "A nyelv és az ajkak aktív (mozgó) beszélőszervek, míg a szájpadlás és a fogak passzívak."
+    },
+    {
+        "id":  72,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mely három szempont szerint csoportosítjuk a magánhangzókat?",
+        "options":  [
+                        "Egyjegyű, kétjegyű és háromjegyű betűk szerint",
+                        "Zöngésség, jegyszám és képzési mód szerint",
+                        "Szófaj, mondatfajta és toldalék szerint",
+                        "Időtartam, hangrend és az ajkak állása szerint"
+                    ],
+        "correct":  3,
+        "explanation":  "A magánhangzókat 1. időtartam (rövid/hosszú), 2. hangrend (mély/magas) és 3. az ajkak állása (ajakkerekítéses/ajakréses) szerint csoportosítjuk."
+    },
+    {
+        "id":  73,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyek a MÉLY, illetve a MAGAS magánhangzók emlékeztető szavai?",
+        "options":  [
+                        "Mély: autó, háború; Magas: teniszütő",
+                        "Mély: teniszütő; Magas: autó, háború",
+                        "Mély: kerékpár; Magas: vitorlás",
+                        "Mély: szivárvány; Magas: fenyőerdő"
+                    ],
+        "correct":  0,
+        "explanation":  "Mély magánhangzók: a, á, o, ó, u, ú (autó, háború); magas magánhangzók: e, é, i, í, ö, ő, ü, ű (teniszütő)."
+    },
+    {
+        "id":  74,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mely magánhangzók tartoznak az AJAKRÉSES magánhangzók csoportjába?",
+        "options":  [
+                        "a, o, ó, u, ú",
+                        "á, e, é, i, í",
+                        "ö, ő, ü, ű",
+                        "a, á, o, ó, u, ú"
+                    ],
+        "correct":  1,
+        "explanation":  "Ajakréses magánhangzók kiejtésekor az ajkak vízszintes rést képeznek: á, e, é, i, í."
+    },
+    {
+        "id":  75,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mely magánhangzók tartoznak az AJAKKEREKÍTÉSES csoportba?",
+        "options":  [
+                        "á, e, é, i, í",
+                        "Csak a rövid magánhangzók",
+                        "a, o, ó, ö, ő, u, ú, ü, ű",
+                        "Csak a hosszú magánhangzók"
+                    ],
+        "correct":  2,
+        "explanation":  "Ajakkerekítéses magánhangzók: a, o, ó, ö, ő, u, ú, ü, ű (figyelem: a rövid „a” ajakkerekítéses, a hosszú „á” ajakréses!)."
+    },
+    {
+        "id":  76,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Milyen hangrendű a „szekrény”, az „asztal” és a „kávé” szó?",
+        "options":  [
+                        "szekrény: mély, asztal: magas, kávé: vegyes",
+                        "Mindhárom vegyes hangrendű",
+                        "szekrény: vegyes, asztal: mély, kávé: magas",
+                        "szekrény: magas, asztal: mély, kávé: vegyes"
+                    ],
+        "correct":  3,
+        "explanation":  "A szekrény csak magas (e, é), az asztal csak mély (a), a kávé pedig mély és magas (á, é) magánhangzót is tartalmaz."
+    },
+    {
+        "id":  77,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mely szótípusokra NEM érvényes a hangrendi törvény?",
+        "options":  [
+                        "Összetett szavakra és idegen szavakra",
+                        "Az egy szótagú főnevekre",
+                        "A rövid magánhangzós igékre",
+                        "A magánhangzóval kezdődő szavakra"
+                    ],
+        "correct":  0,
+        "explanation":  "A hangrendi törvény két kritikus kivétele: 1. az összetett szavak (Budapest), 2. az idegen szavak és jövevényszavak (sofőr, kosztüm)."
+    },
+    {
+        "id":  78,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mi dönti el a toldalék hangrendjét az összetett szavaknál (pl. Budapest-en, golyóstoll-al)?",
+        "options":  [
+                        "Az első összetételi tag hangrendje",
+                        "A legutolsó összetételi tag hangrendje",
+                        "A szóban lévő mássalhangzók száma",
+                        "A kezdőbetű kis- vagy nagybetűs alakja"
+                    ],
+        "correct":  1,
+        "explanation":  "Összetett szavak toldalékolásakor mindig a legutolsó összetételi tag hangrendje dönt (pest → Budapesten, toll → golyóstollal)."
+    },
+    {
+        "id":  79,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mi határozza meg a toldalékot az olyan vegyes hangrendű idegen szavaknál, mint a „sofőr”?",
+        "options":  [
+                        "Az első szótagban álló magánhangzó",
+                        "A szótagok száma a szóban",
+                        "Az utolsó kiejtett magánhangzó (sofőrhöz)",
+                        "Mindig mély toldalékot kapnak"
+                    ],
+        "correct":  2,
+        "explanation":  "Idegen szavaknál az utolsó kiejtett magánhangzó határozza meg a toldalékot: sofőr → sofőrhöz, sofőrrel."
+    },
+    {
+        "id":  80,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Milyen toldalék jár a „virág”, „kávé”, „papír” vegyes hangrendű szavakhoz?",
+        "options":  [
+                        "virágben, kávében, papírben",
+                        "Nem kaphatnak toldalékot",
+                        "Csak magas hangrendű toldalék",
+                        "Mély toldalék: virágban, kávéban, papírban"
+                    ],
+        "correct":  3,
+        "explanation":  "A vegyes hangrendű szavakhoz (még ha az utolsó szótagban é vagy í áll is) általában mély toldalék jár: virágban, kávéban, papírban."
+    },
+    {
+        "id":  81,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hány betűből áll a magyar ábécé?",
+        "options":  [
+                        "44 betűből",
+                        "30 betűből",
+                        "38 betűből",
+                        "50 betűből"
+                    ],
+        "correct":  0,
+        "explanation":  "A magyar ábécé 44 betűből áll (40 magyar betű + 4 idegen betű: q, w, x, y)."
+    },
+    {
+        "id":  82,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Miért előzi meg a „cukor” szó a „csibe” szót a betűrendben?",
+        "options":  [
+                        "Mert az u előbb van az ábécében, mint az i",
+                        "Mert a kétjegyű „cs” önálló betű a „c” után",
+                        "Mert a cukor mély hangrendű szó",
+                        "Mert a rövidebb szó mindig elöl áll"
+                    ],
+        "correct":  1,
+        "explanation":  "Az összetett betűk (cs, gy, sz stb.) a betűrendben önálló betűnek számítanak, nem bonthatók szét elemeikre."
+    },
+    {
+        "id":  83,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyik a helyes betűrendi sorrend az sz-szel kezdődő szavaknál?",
+        "options":  [
+                        "szappan, szalon, szag, szabad",
+                        "szag, szabad, szappan, szalon",
+                        "szabad, szag, szalon, szappan",
+                        "szalon, szabad, szag, szappan"
+                    ],
+        "correct":  2,
+        "explanation":  "Az első két betű (sz + a) megegyezik, ezért a harmadik betű dönt: b → g → l → p (szabad, szag, szalon, szappan)."
+    },
+    {
+        "id":  84,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mi a szabály, ha két szó betűalakja teljesen azonos, és csak a kezdőbetű tér el (szeder / Szeder)?",
+        "options":  [
+                        "A nagybetűs szó áll elöl",
+                        "Tilos őket egymás mellé írni",
+                        "A hosszabb mondatban lévő áll elöl",
+                        "A kisbetűs szó áll elöl: szeder → Szeder"
+                    ],
+        "correct":  3,
+        "explanation":  "A kis- és nagybetűk egyenértékűek, de ha két szó teljesen megegyezik, a kisbetűs szó megelőzi a nagybetűst."
+    },
+    {
+        "id":  85,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyik a helyes betűrendi sorrend a „korom, kóró, korona” szavaknál?",
+        "options":  [
+                        "korom → kóró → korona",
+                        "kóró → korom → korona",
+                        "korom → korona → kóró",
+                        "korona → korom → kóró"
+                    ],
+        "correct":  0,
+        "explanation":  "Az o és ó egyenértékű, így az első 4 betű (k-o-r-o/ó) azonos értékű, és az 5. betű dönt: korom → kóró → korona."
+    },
+    {
+        "id":  86,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyik szó áll elöl betűrendben, ha csak a magánhangzó hosszúsága tér el (kor / kór, vadas / vadász)?",
+        "options":  [
+                        "A hosszú magánhangzós: kór, vadász",
+                        "A rövid magánhangzós: kor → kór, vadas → vadász",
+                        "Csak az egy szótagú szavaknál a hosszú",
+                        "A tulajdonneveknél mindig a hosszú"
+                    ],
+        "correct":  1,
+        "explanation":  "Ha két szó betűalakja teljesen azonos és csak az ékezet tér el, a rövid magánhangzós megelőzi a hosszút: kor → kór, vadas → vadász."
+    },
+    {
+        "id":  87,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hány kétjegyű és hány háromjegyű mássalhangzót jelölő betű van a magyar ábécében?",
+        "options":  [
+                        "6 kétjegyű és 2 háromjegyű",
+                        "10 kétjegyű és 3 háromjegyű",
+                        "8 kétjegyű és 1 háromjegyű (dzs)",
+                        "4 kétjegyű és 1 háromjegyű"
+                    ],
+        "correct":  2,
+        "explanation":  "A magyar ábécében 8 kétjegyű mássalhangzó (cs, dz, gy, ly, ny, sz, ty, zs) és 1 háromjegyű (dzs) található."
+    },
+    {
+        "id":  88,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan írjuk a hosszú kétjegyű mássalhangzót összetett szavak határán (pl. jegy + gyűrű)?",
+        "options":  [
+                        "jeggyűrű (egyszerűsítve)",
+                        "jegy-gyűrű (kötőjellel)",
+                        "jegyűrű (egy betűvel)",
+                        "jegygyűrű (teljesen kiírva)"
+                    ],
+        "correct":  3,
+        "explanation":  "Összetett szavak határán nem egyszerűsítjük a kétjegyű betűket, hanem teljesen kiírjuk: jegygyűrű, kulcscsomó."
+    },
+    {
+        "id":  89,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyik emlékeztető mondat tartalmazza pontosan a 10 zöngétlen mássalhangzót?",
+        "options":  [
+                        "„Tyűha, pici, úszó kacsa, futás!”",
+                        "„Gólya, gólya, gilice, mitől véres?”",
+                        "„Bátor vitéz győz a csatában!”",
+                        "„Sárga rózsa nyílik a kertben!”"
+                    ],
+        "correct":  0,
+        "explanation":  "A „Tyűha, pici, úszó kacsa, futás!” mondat mássalhangzói pontosan lefedik a zöngétleneket: ty, h, p, c, sz, k, cs, f, t, s."
+    },
+    {
+        "id":  90,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyik sor tartalmaz KIZÁRÓLAG zöngés mássalhangzókat?",
+        "options":  [
+                        "p, t, k, f, sz, s",
+                        "b, d, g, v, z, zs, gy, j, l, m, n, ny, r",
+                        "c, cs, ty, h, p, t",
+                        "k, s, sz, f, c, p"
+                    ],
+        "correct":  1,
+        "explanation":  "A zöngés mássalhangzók: b, d, g, z, zs, dz, dzs, v, j, l, m, n, ny, r, gy."
+    },
+    {
+        "id":  91,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyik két magánhangzópár tér el egymástól nemcsak időtartamban, hanem hangszínben is?",
+        "options":  [
+                        "Az i–í és az u–ú magánhangzópár",
+                        "Az o–ó és az ö–ő magánhangzópár",
+                        "Az a–á és az e–é magánhangzópár",
+                        "Az u–ú és az ü–ű magánhangzópár"
+                    ],
+        "correct":  2,
+        "explanation":  "A magyarban az a–á és az e–é pár nemcsak hosszúságban (időtartamban), hanem képzésben és hangszínben is különbözik."
+    },
+    {
+        "id":  92,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hány magánhangzó van a magyar nyelvben, és hogyan oszlanak meg időtartam szerint?",
+        "options":  [
+                        "10 magánhangzó (5 rövid és 5 hosszú)",
+                        "12 magánhangzó (6 rövid és 6 hosszú)",
+                        "16 magánhangzó (8 rövid és 8 hosszú)",
+                        "14 magánhangzó (7 rövid és 7 hosszú)"
+                    ],
+        "correct":  3,
+        "explanation":  "A magyar nyelvben 14 magánhangzó van: 7 rövid (a, e, i, o, ö, u, ü) és 7 hosszú (á, é, í, ó, ő, ú, ű)."
+    },
+    {
+        "id":  93,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan írjuk a hosszú két- és háromjegyű mássalhangzókat nem összetett szavakban (pl. asszony, eddzük)?",
+        "options":  [
+                        "Egyszerűsítve: csak az első jegyet kettőzzük (ssz, ddzs)",
+                        "Mindegyik betűjegyet kétszer írjuk le (szsz, dzsdzs)",
+                        "Csak az utolsó betűjegyet kettőzzük meg (szz, dzzs)",
+                        "Kötőjellel választjuk el a betűjegyeket (sz-sz)"
+                    ],
+        "correct":  0,
+        "explanation":  "Tőszavakban és toldalékoláskor egyszerűsítünk: csak az első jegyet kettőzzük meg (pl. asszony, könnyű, meggy, eddzük)."
+    },
+    {
+        "id":  94,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyek a ZÖNGÉS – ZÖNGÉTLEN mássalhangzópárok az alábbiak közül?",
+        "options":  [
+                        "m – n, l – r, j – v, ny – gy",
+                        "b – p, d – t, g – k, v – f, z – sz, zs – s",
+                        "p – t, k – f, sz – s, c – cs",
+                        "b – d, g – v, z – zs, gy – dz"
+                    ],
+        "correct":  1,
+        "explanation":  "Sok mássalhangzónak van zöngés–zöngétlen párja: b–p, d–t, g–k, gy–ty, dz–c, dzs–cs, v–f, z–sz, zs–s."
+    },
+    {
+        "id":  95,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyik zöngés mássalhangzóknak NINCS zöngétlen párjuk a magyarban?",
+        "options":  [
+                        "A b, d, g, v, z hangoknak",
+                        "A p, t, k, f, sz hangoknak",
+                        "Az m, n, ny, l, r, j hangoknak",
+                        "A zs, dz, dzs, gy hangoknak"
+                    ],
+        "correct":  2,
+        "explanation":  "Az m, n, ny, l, r, j zöngés mássalhangzóknak nincs zöngétlen párjuk (és a zöngétlen h-nak sincs zöngés párja)."
+    },
+    {
+        "id":  96,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hány szótagból áll egy szó, és melyik hang alkotja a szótag magját?",
+        "options":  [
+                        "Ahány mássalhangzó van benne; a mássalhangzó",
+                        "Mindig két szótagból; az első betű",
+                        "Ahány betűből áll a szó; az utolsó betű",
+                        "Ahány magánhangzó van benne; a magánhangzó"
+                    ],
+        "correct":  3,
+        "explanation":  "Minden magyar szóban pontosan annyi szótag van, ahány magánhangzó található benne, mert a magánhangzó a szótagalkotó."
+    },
+    {
+        "id":  97,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan választjuk el helyesen a hosszú egyjegyű mássalhangzót tartalmazó „kanna, cseppent, hallgat” szavakat?",
+        "options":  [
+                        "kan-na, csep-pent, hall-gat",
+                        "ka-nna, cse-ppent, ha-llgat",
+                        "kann-a, cseppe-nt, hallg-at",
+                        "Nem szabad elválasztani őket"
+                    ],
+        "correct":  0,
+        "explanation":  "A kettőzött mássalhangzók elválasztásakor az első marad a sor végén, az utolsó pedig átkerül az új sorba (kan-na, hall-gat)."
+    },
+    {
+        "id":  98,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mi az elválasztás alapegysége, és milyen szavakat választhatunk el?",
+        "options":  [
+                        "A betű; az egy szótagú szavakat is",
+                        "A szótag; csak több szótagú szavakat",
+                        "A mondat; csak az összetett szavakat",
+                        "Az írásjel; csak a főneveket"
+                    ],
+        "correct":  1,
+        "explanation":  "Az elválasztás alapegysége a szótag, és csak több szótagú (legalább két magánhangzós) szavakat választunk el."
+    },
+    {
+        "id":  99,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyik elválasztás helyes és esztétikus az „ideális” és az „emóció” szavaknál?",
+        "options":  [
+                        "i-deális és e-móció",
+                        "ideál-is és emóc-ió",
+                        "ide-ális / ideá-lis (az e-móció kerülendő)",
+                        "Egyiket sem szabad elválasztani"
+                    ],
+        "correct":  2,
+        "explanation":  "Esztétikai okból önálló magánhangzó-szótagot (a-, e-) nem hagyunk magában sor végén vagy elején; az ide-ális / ideá-lis viszont helyes."
+    },
+    {
+        "id":  100,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan választjuk el helyesen a „batyu, rózsa, Gyula, Mecsek” szavakat?",
+        "options":  [
+                        "bat-yu, róz-sa, Gyul-a, Mec-sek",
+                        "ba-ty-u, ró-zs-a, Gy-u-la, Me-cs-ek",
+                        "baty-u, rózs-a, Gyu-la, Mecs-ek",
+                        "ba-tyu, ró-zsa, Gyu-la, Me-csek"
+                    ],
+        "correct":  3,
+        "explanation":  "Két magánhangzó között álló egyetlen rövid mássalhangzót (akár kétjegyű betű jelöli) átviszünk a következő sorba."
+    },
+    {
+        "id":  101,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan választjuk el helyesen a „tarisznya, ásvány, Bonyhád” szavakat?",
+        "options":  [
+                        "tarisz-nya, ás-vány, Bony-hád",
+                        "tari-sznya, á-svány, Bo-nyhád",
+                        "taris-znya, ásv-ány, Bon-yhád",
+                        "tariszny-a, ásván-y, Bonyh-ád"
+                    ],
+        "correct":  0,
+        "explanation":  "Két magánhangzó közötti két különböző mássalhangzó közül az első marad a sor végén, a második átkerül az új sorba."
+    },
+    {
+        "id":  102,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan választjuk el az egyszerűsített hosszú kétjegyű mássalhangzókat: „mennyi, össze, poggyász, szittya”?",
+        "options":  [
+                        "men-nyi, ös-sze, pog-gyász, szit-tya",
+                        "meny-nyi, ösz-sze, pogy-gyász, szity-tya",
+                        "me-nnyi, ö-ssze, po-ggyász, szi-ttya",
+                        "menny-i, össz-e, poggy-ász, szitty-a"
+                    ],
+        "correct":  1,
+        "explanation":  "Elválasztáskor mindkét sorban ki kell írni a teljes kétjegyű betűt: meny-nyi, ösz-sze, pogy-gyász, szity-tya."
+    },
+    {
+        "id":  103,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan választjuk el a „Hosszú, Illyés, Bottyán” családneveket?",
+        "options":  [
+                        "Hos-szú, Il-lyés, Bot-tyán",
+                        "Ho-sszú, I-llyés, Bo-ttyán",
+                        "Hosz-szú, Ily-lyés, Boty-tyán",
+                        "Tulajdonneveket nem szabad elválasztani"
+                    ],
+        "correct":  2,
+        "explanation":  "A tulajdonnevekben is kiírjuk mindkét sorban a teljes kétjegyű betűt elválasztáskor: Hosz-szú, Ily-lyés, Boty-tyán."
+    },
+    {
+        "id":  104,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan választjuk el a három mássalhangzót tartalmazó „centrum, ostrom, templom, Veszprém” szavakat?",
+        "options":  [
+                        "ce-ntrum, o-strom, te-mplom, Ve-szprém",
+                        "cen-trum, os-trom, tem-plom, Vesz-prém",
+                        "Tilos elválasztani őket",
+                        "cent-rum, ost-rom, temp-lom, Veszp-rém"
+                    ],
+        "correct":  3,
+        "explanation":  "Kettőnél több mássalhangzó esetén csak az utolsó kerül a következő sor elejére: cent-rum, ost-rom, temp-lom, Veszp-rém."
+    },
+    {
+        "id":  105,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan választjuk el az idegen „ch” és „x” betűt tartalmazó szavakat: „archívum, orchidea, Richárd, Mexikó”?",
+        "options":  [
+                        "ar-chívum, or-chidea, Ri-chárd, Me-xikó",
+                        "arc-hívum, orc-hidea, Ric-hárd, Mex-ikó",
+                        "arch-ívum, orch-idea, Rich-árd, Mexi-kó",
+                        "a-rchívum, o-rchidea, R-ichárd, M-exikó"
+                    ],
+        "correct":  0,
+        "explanation":  "A ch és az x elválasztáskor egyetlen rövid mássalhangzónak számít, és átkerül a következő sorba."
+    },
+    {
+        "id":  106,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan választjuk el a toldalékos „peches, pechhel, Beatrixszal” és a „Pinocchio” szavakat?",
+        "options":  [
+                        "pec-hes, pec-hhel, Beatri-xszal, Pino-cchio",
+                        "pe-ches, pech-hel, Beatrix-szal, Pinoc-chio",
+                        "pech-es, pe-chhel, Beat-rixszal, Pinocc-hio",
+                        "Nem választhatók el a sor végén"
+                    ],
+        "correct":  1,
+        "explanation":  "Magánhangzós toldalék előtt a ch/x átmegy (pe-ches), -val/-vel ragos alaknál megoszlik (pech-hel, Beatrix-szal), a cch pedig Pinoc-chio."
+    },
+    {
+        "id":  107,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mely mozaikszók (betűszók) NEM választhatók el a sor végén?",
+        "options":  [
+                        "NA-TO, OR-FI",
+                        "ELTE-re, ENSZ-ért",
+                        "BVSC, MLSZ, NOB, SZTK, ORFK",
+                        "Ma-lév, Ma-hart"
+                    ],
+        "correct":  2,
+        "explanation":  "A mássalhangzós vagy egyetlen magánhangzót tartalmazó betűszók (BVSC, MLSZ, NOB, SZTK, ORFK) nem választhatók el."
+    },
+    {
+        "id":  108,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan választjuk el a toldalékos betűszókat (ELTE-re, USA-beli) és a szóösszevonásokat (Malév, Mahart)?",
+        "options":  [
+                        "Tilos őket elválasztani",
+                        "EL-TEre, U-SAbeli, Mal-év, Mah-art",
+                        "Csak az első betű után választhatók el",
+                        "ELTE-re, USA-beli és Ma-lév, Ma-hart"
+                    ],
+        "correct":  3,
+        "explanation":  "Toldalékos betűszóknál a kötőjellel kapcsolt magánhangzós toldalékot visszük át (ELTE-re), a szóösszevonásokat pedig szótagoljuk (Ma-lév)."
+    },
+    {
+        "id":  109,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan választjuk el az összetett szavakat: „délután, tölgyerdő, viszonteladó”?",
+        "options":  [
+                        "dél-után, tölgy-erdő, viszont-eladó",
+                        "dé-lután, töl-gyerdő, viszon-teladó",
+                        "délu-tán, tölgyer-dő, vi-szonteladó",
+                        "Összetett szavakat nem szabad elválasztani"
+                    ],
+        "correct":  0,
+        "explanation":  "Az összetett szavakat az összetételi tagok határán választjuk el, még ha az nem is esik egybe a szótaghatárral."
+    },
+    {
+        "id":  110,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan viselkedik a „leg-” felsőfokjel elválasztáskor (pl. legalább, legerősebb)?",
+        "options":  [
+                        "Sima szótagként: le-galább, le-gerősebb",
+                        "Összetételi tagként: leg-alább, leg-erősebb",
+                        "Nem választható el a szótól",
+                        "Mindig a következő sorba kerül"
+                    ],
+        "correct":  1,
+        "explanation":  "A „leg-” felsőfokjel elválasztáskor úgy viselkedik, mintha önálló összetételi tag lenne: leg-alább, leg-alul, leg-erősebb."
+    },
+    {
+        "id":  111,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mit jelent a „me-gint” és mit a „meg-int” elválasztású szó?",
+        "options":  [
+                        "Mindkettő hibás elválasztás",
+                        "Nincs köztük jelentéskülönbség",
+                        "me-gint = újra; meg-int = figyelmeztet",
+                        "me-gint = figyelmeztet; meg-int = újra"
+                    ],
+        "correct":  2,
+        "explanation":  "Az azonos alakú szavak (homonimák) elválasztása a jelentésüktől függ: me-gint (= újra), meg-int (= figyelmeztet); gé-pelem (ige), gép-elem (főnév)."
+    },
+    {
+        "id":  112,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyik két elválasztás helyes egyaránt a „Nyíregyháza” és az „alezredes” szavaknál?",
+        "options":  [
+                        "Ny-íregyháza és a-lezredes",
+                        "Nyíre-gyháza és alezr-edes",
+                        "Csak egyetlen helyes elválasztásuk van",
+                        "Nyír-egyháza / Nyíregy-háza; alez-redes / ale-zredes"
+                    ],
+        "correct":  3,
+        "explanation":  "A megengedő szabály szerint többszörös és homályos összetételeknél a szóhatáron és a sima szótagolás szerint is elválaszthatunk."
+    },
+    {
+        "id":  113,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyek a mondatfajták a beszélő szándéka szerint?",
+        "options":  [
+                        "Kijelentő, kérdő, felkiáltó, óhajtó, felszólító",
+                        "Mély, magas és vegyes mondat",
+                        "Igei, főnévi és melléknévi mondat",
+                        "Rövid és hosszú mondat"
+                    ],
+        "correct":  0,
+        "explanation":  "A beszélő szándéka szerint öt mondatfajtát különböztetünk meg: kijelentő (.), kérdő (?), felkiáltó (!), óhajtó (!) és felszólító (!)."
+    },
+    {
+        "id":  114,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Milyen mondatvégi írásjelet teszünk a felkiáltó, az óhajtó és a felszólító mondat végére?",
+        "options":  [
+                        "Kérdőjelet (?)",
+                        "Felkiáltójelet (!)",
+                        "Pontot (.)",
+                        "Kettőspontot (:)"
+                    ],
+        "correct":  1,
+        "explanation":  "A felkiáltó, az óhajtó és a felszólító mondat végére egyaránt felkiáltójelet (!) teszünk."
+    },
+    {
+        "id":  115,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyik szócsoportban írunk „ly”-t a j hang jelölésére?",
+        "options":  [
+                        "hajó, játék, tej, vaj",
+                        "felejt, sajt, ujj, héja",
+                        "gólya, bagoly, király, folyosó",
+                        "javít, jegenye, jég, jó"
+                    ],
+        "correct":  2,
+        "explanation":  "A hagyomány elve alapján ly-nal írjuk a gólya, bagoly, király, folyosó, osztály, hely szavakat."
+    },
+    {
+        "id":  116,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mit fejez ki az IGE a mondatban, és melyek a három igeidő?",
+        "options":  [
+                        "Tulajdonságot; alapfok, középfok, felsőfok",
+                        "Mennyiséget; tőszámnév és sorszámnév",
+                        "Élőlények nevét; köznév és tulajdonnév",
+                        "Cselekvést, történést, létezést; jelen, múlt, jövő"
+                    ],
+        "correct":  3,
+        "explanation":  "Az ige cselekvést, történést vagy létezést fejez ki; három igeideje a jelen, a múlt és a jövő idő."
+    },
+    {
+        "id":  117,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mi a különbség a köznév és a tulajdonnév helyesírása között?",
+        "options":  [
+                        "Köznév: kis kezdőbetű; Tulajdonnév: nagy kezdőbetű",
+                        "Mindkettőt nagy kezdőbetűvel írjuk",
+                        "A tulajdonnevet mindig kis kezdőbetűvel írjuk",
+                        "Csak a mondat végén írjuk nagybetűvel"
+                    ],
+        "correct":  0,
+        "explanation":  "A főnevek két fő csoportja a kisbetűs köznév (pl. folyó, város) és a nagy kezdőbetűs tulajdonnév (pl. Duna, Budapest)."
+    },
+    {
+        "id":  118,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Hogyan fokozzuk helyesen a „jó” és a „szép” mellékneveket (alapfok, középfok, felsőfok)?",
+        "options":  [
+                        "jó – jóbb – legjóbb; szép – szépebb – legszépebb",
+                        "jó – jobb – legjobb; szép – szebb – legszebb",
+                        "jó – jobban – legjobban; szép – szebben – legszebben",
+                        "A mellékneveket nem lehet fokozni"
+                    ],
+        "correct":  1,
+        "explanation":  "A melléknevek három foka: alapfok (jó, szép), középfok (jobb, szebb) és felsőfok (legjobb, legszebb)."
+    },
+    {
+        "id":  119,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Mely szavak tartoznak a határozott és a határozatlan NÉVELŐK közé?",
+        "options":  [
+                        "én, te, ő, mi, ti, ők",
+                        "egy, kettő, három, sok",
+                        "Határozott: a, az; Határozatlan: egy",
+                        "itt, ott, ekkor, így"
+                    ],
+        "correct":  2,
+        "explanation":  "A határozott névelők az „a, az”, a határozatlan névelő pedig az „egy”."
+    },
+    {
+        "id":  120,
+        "subject":  "Magyar nyelv",
+        "icon":  "✍️",
+        "grade":  "5. osztály",
+        "q":  "Melyik szópár áll ROKON ÉRTELMŰ, illetve ELLENTÉTES JELENTÉSŰ szavakból?",
+        "options":  [
+                        "Rokon: kicsi – nagy; Ellentétes: szalad – fut",
+                        "Mindkettő azonos alakú szópár",
+                        "Rokon: vár – vár; Ellentétes: nevet – kacag",
+                        "Rokon: nevet – kacag; Ellentétes: bátor – gyáva"
+                    ],
+        "correct":  3,
+        "explanation":  "A nevet – kacag rokon értelmű (szinonima), a bátor – gyáva pedig ellentétes jelentésű szópár."
+    },
+    {
+        "id":  121,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyek a virágos növények fő részei alulról felfelé haladva?",
+        "options":  [
+                        "Gyökérzet, szár, levél, virág, termés",
+                        "Korona, bimbó, ág, fűszál, moha",
+                        "Gyökérzet, törzs, toboz, gomba",
+                        "Levél, virág, gyökér, kéreg, ág"
+                    ],
+        "correct":  0,
+        "explanation":  "A virágos növény részei: a gyökérzet (rögzít és felszív), a szár (tart és szállít), a levél (táplálékot készít, párologtat), a virág és a termés."
+    },
+    {
+        "id":  122,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Mi a különbség a lágy szárú és a fás szárú növények között?",
+        "options":  [
+                        "A lágy szárúak mindig örökzöld fák",
+                        "A lágy szárúak szára hajlékony, a fás szárúaké fás",
+                        "A fás szárúaknak egyáltalán nincs gyökere",
+                        "A lágy szárúak kizárólag vízben élnek"
+                    ],
+        "correct":  1,
+        "explanation":  "A lágy szárúak szára zöld és hajlékony (pl. búza, tulipán), a fás szárúaké kemény, elfásodott (fák és cserjék)."
+    },
+    {
+        "id":  123,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Mi a különbség a lombhullató és az örökzöld fák között?",
+        "options":  [
+                        "Az örökzöldeknek egyáltalán nincsenek levelei",
+                        "A lombhullatók csak télen virágoznak",
+                        "A lombhullatók ősszel lehullatják lombjukat",
+                        "A lombhullatóknak mindig tobozuk van"
+                    ],
+        "correct":  2,
+        "explanation":  "A lombhullató fák ősszel egyszerre hullatják le leveleiket, míg az örökzöldek (pl. fenyők) folyamatosan cserélik tűleveleiket."
+    },
+    {
+        "id":  124,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyik állatcsoportra jellemző, hogy kicsinyeiket emlőmirigyeik tejével táplálják és testüket szőr fedi?",
+        "options":  [
+                        "Madarak",
+                        "Kétéltűek",
+                        "Hüllők",
+                        "Emlősök"
+                    ],
+        "correct":  3,
+        "explanation":  "Az emlősök elevenszülők, utódaikat anyatejjel szoptatják, testüket szőr vagy bunda borítja."
+    },
+    {
+        "id":  125,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Hány lábuk van a rovaroknak, és melyek a fő testtájaik?",
+        "options":  [
+                        "6 lábuk (3 pár); fej, tor, potroh",
+                        "8 lábuk (4 pár); fej és utótest",
+                        "4 lábuk (2 pár); nyak, törzs, végtagok",
+                        "10 lábuk (5 pár); fej, nyak, farok"
+                    ],
+        "correct":  0,
+        "explanation":  "Minden kifejlett rovarnak 6 ízelt lába (3 pár) van, testük pedig fejre, torra és potrohra tagolódik."
+    },
+    {
+        "id":  126,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyik csoportosítás helyes az állatok táplálkozása szerint?",
+        "options":  [
+                        "Ragadozó: őz; Növényevő: róka; Mindenevő: kecske",
+                        "Ragadozó: róka; Növényevő: őz; Mindenevő: vaddisznó",
+                        "Mindhárom csoport kizárólag füvet eszik",
+                        "Ragadozó: tehén; Növényevő: farkas; Mindenevő: nyúl"
+                    ],
+        "correct":  1,
+        "explanation":  "Táplálkozásuk szerint az állatok lehetnek növényevők (őz, nyúl), ragadozók (róka, sas) vagy mindenevők (vaddisznó, medve)."
+    },
+    {
+        "id":  127,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Milyen mérőeszközzel és mértékegységgel mérjük a tömeget, az űrtartalmat és a hőmérsékletet?",
+        "options":  [
+                        "Vonalzóval (m), órával (perc), iránytűvel (fok)",
+                        "Mérleggel (l), mérőhengerrel (kg), hőmérővel (m)",
+                        "Mérleggel (kg), mérőedénnyel (l), hőmérővel (°C)",
+                        "Stopperrel (mp), mérőszalaggal (cm), szélkakassal"
+                    ],
+        "correct":  2,
+        "explanation":  "A tömeget mérleggel (kg, dkg, g), az űrtartalmat mérőhengerrel/edénnyel (l, dl, cl, ml), a hőmérsékletet hőmérővel (°C) mérjük."
+    },
+    {
+        "id":  128,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyik a három alapvető halmazállapot, és milyen alakban fordul elő a víz ezekben?",
+        "options":  [
+                        "Hideg, langyos és forró halmazállapot",
+                        "Kemény, puha és rugalmas halmazállapot",
+                        "Átlátszó, színes és sötét halmazállapot",
+                        "Szilárd (jég), folyékony (víz), légnemű (vízgőz)"
+                    ],
+        "correct":  3,
+        "explanation":  "Az anyagok három halmazállapota a szilárd (pl. jég), a folyékony (pl. folyékony víz) és a légnemű (pl. láthatatlan vízgőz)."
+    },
+    {
+        "id":  129,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Hogyan nevezzük a halmazállapot-változást, amikor a jég vízzé, illetve a víz jéggé alakul?",
+        "options":  [
+                        "Jégből víz: olvadás; vízből jég: fagyás (0 °C-on)",
+                        "Jégből víz: párolgás; vízből jég: forrás",
+                        "Jégből víz: lecsapódás; vízből jég: olvadás",
+                        "Mindkettőt forrásnak nevezzük"
+                    ],
+        "correct":  0,
+        "explanation":  "Szilárdból folyékonyba: olvadás; folyékonyból szilárdba: fagyás. A tiszta víz olvadás- és fagyáspontja 0 °C."
+    },
+    {
+        "id":  130,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Hány fokon forr a víz, és hogyan nevezzük a gőz folyékonnyá válását?",
+        "options":  [
+                        "50 °C-on forr; olvadásnak nevezzük",
+                        "100 °C-on forr; lecsapódásnak nevezzük",
+                        "0 °C-on forr; fagyásnak nevezzük",
+                        "37 °C-on forr; párolgásnak nevezzük"
+                    ],
+        "correct":  1,
+        "explanation":  "A párolgás minden hőmérsékleten zajlik, a forrás 100 °C-on; lecsapódáskor a lehűlő vízgőz folyékony vízcseppekké (párává) alakul."
+    },
+    {
+        "id":  131,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Milyen fő lépésekből áll a víz körforgása a természetben?",
+        "options":  [
+                        "A folyók vize örökre eltűnik a tengerben",
+                        "A felhők a földből nőnek ki",
+                        "Párolgás → lecsapódás (felhő) → csapadék → összegyűlés",
+                        "Csak télen van körforgás, amikor havazik"
+                    ],
+        "correct":  2,
+        "explanation":  "A Nap hatására a vizek elpárolognak, a magasban lehűlve felhővé csapódnak le, majd csapadékként visszahullanak."
+    },
+    {
+        "id":  132,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyik a három elengedhetetlen feltétele az égésnek?",
+        "options":  [
+                        "Víz, szél és homok",
+                        "Éghetetlen anyag, jég és sötétség",
+                        "Csak gyufa és papír",
+                        "Éghető anyag, oxigén és gyulladási hőmérséklet"
+                    ],
+        "correct":  3,
+        "explanation":  "Az égéshez három feltétel kell egyszerre: éghető anyag (pl. fa, papír), oxigén (levegő) és gyulladási hőmérséklet."
+    },
+    {
+        "id":  133,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyik példa mutat HELYVÁLTOZTATÓ, illetve HELYZETVÁLTOZTATÓ mozgást?",
+        "options":  [
+                        "Helyváltoztató: futó kutya; Helyzetváltoztató: hajladozó fa",
+                        "Helyváltoztató: hajladozó fa; Helyzetváltoztató: repülő fecske",
+                        "A növények mindig helyváltoztató mozgást végeznek",
+                        "Nincs különbség a kétféle mozgás között"
+                    ],
+        "correct":  0,
+        "explanation":  "A szaladgáló állat helyet változtat, míg a gyökerével rögzített növény a szélben vagy a fény felé fordulva helyzetváltoztató mozgást végez."
+    },
+    {
+        "id":  134,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Milyen következménye van a Föld tengely körüli forgásának és Nap körüli keringésének?",
+        "options":  [
+                        "A forgás az évszakokat, a keringés a napszakokat okozza",
+                        "Forgás (24 óra): napszakok; Keringés (1 év): évszakok",
+                        "A Föld nem mozog, a Nap kering körülötte",
+                        "Mindkettő csak a szélirányt változtatja meg"
+                    ],
+        "correct":  1,
+        "explanation":  "A Föld 24 óra alatt megfordul a tengelye körül (nappal és éjszaka), és 1 év alatt megkerüli a Napot (évszakok)."
+    },
+    {
+        "id":  135,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Mely külső feltételek szükségesek a magok csírázásához?",
+        "options":  [
+                        "Erős napsütés, jég és műtrágya",
+                        "Csak sötétség és száraz homok",
+                        "Víz (nedvesség), levegő és megfelelő hőmérséklet",
+                        "Csak virágcserép és erős szél"
+                    ],
+        "correct":  2,
+        "explanation":  "A csírázáshoz (ép mag esetén) vízre, levegőre és megfelelő hőmérsékletre van szükség; a fény csak a kibújt növénynek kell."
+    },
+    {
+        "id":  136,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyek a fővilágtájak, és melyik irányba mutat az iránytű mágnestűje?",
+        "options":  [
+                        "Csak kelet és nyugat; délre mutat",
+                        "Balra, jobbra, előre, hátra; keletre mutat",
+                        "ÉK, DK, DNY, ÉNY; nyugatra mutat",
+                        "Észak, dél, kelet, nyugat; a jelölt vég ÉSZAKRA mutat"
+                    ],
+        "correct":  3,
+        "explanation":  "A négy fővilágtáj: észak, dél, kelet, nyugat; a négy mellékvilágtáj: ÉK, DK, DNY, ÉNY. Az iránytű mágnestűje észak–déli irányba áll be."
+    },
+    {
+        "id":  137,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Milyen színekkel jelöli a domborzati térkép a síkságot, a dombságot, a hegységet és a vizeket?",
+        "options":  [
+                        "Síkság: zöld, dombság: világosbarna, hegység: sötétbarna, víz: kék",
+                        "Síkság: kék, dombság: zöld, hegység: sárga, víz: barna",
+                        "Síkság: barna, dombság: kék, hegység: zöld, víz: piros",
+                        "Minden felszínformát szürkével jelölnek a térképen"
+                    ],
+        "correct":  0,
+        "explanation":  "A domborzati térképen a kék a vizeket, a zöld a síkságot (200 m alatt), a világosbarna a dombságot, a sötétbarna a hegységet jelöli."
+    },
+    {
+        "id":  138,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Mi a felszíni vízfolyások helyes sorrendje a legkisebbtől a legnagyobbig?",
+        "options":  [
+                        "Folyó → patak → ér → csermely",
+                        "Ér → csermely → patak → folyó → folyam",
+                        "Tó → tenger → ér → patak → folyó",
+                        "Patak → ér → tó → csermely → folyam"
+                    ],
+        "correct":  1,
+        "explanation":  "A forrásból eredő kis ér csermellyé, majd patakká duzzad, a patakok pedig folyóvá (és folyammá, mint a Duna) egyesülnek."
+    },
+    {
+        "id":  139,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Hány országgal határos Magyarország, és melyek ezek?",
+        "options":  [
+                        "5: Ausztria, Németország, Lengyelország, Románia, Szerbia",
+                        "6: Szlovákia, Csehország, Ukrajna, Románia, Horvátország, Olaszország",
+                        "7: Ausztria, Szlovákia, Ukrajna, Románia, Szerbia, Horvátország, Szlovénia",
+                        "8: Bulgária és Görögország is határos velünk"
+                    ],
+        "correct":  2,
+        "explanation":  "Magyarországnak 7 szomszédos országa van: Ausztria, Szlovákia, Ukrajna, Románia, Szerbia, Horvátország és Szlovénia."
+    },
+    {
+        "id":  140,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Hány nagy tájegysége (nagytája) van Magyarországnak?",
+        "options":  [
+                        "2 nagytáj (Alföld és Dunántúl)",
+                        "3 nagytáj (Alpok, Kárpátok, Pireneusok)",
+                        "10 nagytáj",
+                        "6 nagytáj (pl. Alföld, Kisalföld, Északi-középhegység)"
+                    ],
+        "correct":  3,
+        "explanation":  "Hazánk 6 nagytája: az Alföld, a Kisalföld, a Nyugat-magyarországi peremvidék, a Dunántúli-dombság, a Dunántúli-középhegység és az Északi-középhegység."
+    },
+    {
+        "id":  141,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyik hazánk két legnagyobb folyója, legnagyobb tava és legmagasabb hegycsúcsa?",
+        "options":  [
+                        "Duna és Tisza; Balaton; Kékes (1014 m)",
+                        "Rába és Dráva; Velencei-tó; Írott-kő",
+                        "Duna és Maros; Fertő-tó; Csóványos",
+                        "Tisza és Körös; Tisza-tó; Badacsony"
+                    ],
+        "correct":  0,
+        "explanation":  "Legnagyobb folyóink a Duna és a Tisza, Közép-Európa legnagyobb tava a Balaton, legmagasabb pontunk pedig a Mátrában található Kékes (1014 m)."
+    },
+    {
+        "id":  142,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyik három város egyesítésével jött létre Budapest 1873-ban, és melyik volt az első állandó hídja?",
+        "options":  [
+                        "Buda, Visegrád és Esztergom; Erzsébet híd",
+                        "Pest, Buda és Óbuda; a Széchenyi lánchíd",
+                        "Pest, Gödöllő és Vác; Margit híd",
+                        "Buda, Székesfehérvár és Óbuda; Szabadság híd"
+                    ],
+        "correct":  1,
+        "explanation":  "Fővárosunk, Budapest 1873-ban jött létre Pest, Buda és Óbuda egyesítésével; első állandó kőhídja a Széchenyi lánchíd."
+    },
+    {
+        "id":  143,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyik példa TERMÉSZETES, illetve MESTERSÉGES életközösség?",
+        "options":  [
+                        "Természetes: gyümölcsöskert; Mesterséges: tölgyerdő",
+                        "Természetes: szántóföld; Mesterséges: természetes tó",
+                        "Természetes: erdő, rét, tó; Mesterséges: kert, park, szántó",
+                        "Mindkettőt kizárólag gépekkel tartják fenn"
+                    ],
+        "correct":  2,
+        "explanation":  "A természetes életközösségek önfenntartóak, míg a mesterséges életközösségek (zöldségeskert, gyümölcsös, park) emberi gondozást igényelnek."
+    },
+    {
+        "id":  144,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Milyen szereplővel kezdődik mindig egy szárazföldi vagy vízi tápláléklánc?",
+        "options":  [
+                        "Csúcsragadozóval (pl. héja, csuka)",
+                        "Mindenevő állattal (pl. vaddisznó)",
+                        "Rovarokkal (pl. sáska)",
+                        "Zöld növénnyel (termelővel, pl. fű, tölgyfa)"
+                    ],
+        "correct":  3,
+        "explanation":  "A tápláléklánc első tagja mindig egy zöld növény (termelő), amelyet a növényevő, majd a ragadozó fogyaszt el."
+    },
+    {
+        "id":  145,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyik tápláléklánc helyes egy hazai rét életközösségében?",
+        "options":  [
+                        "mezei fű → sáska → fürj → róka",
+                        "róka → fürj → sáska → mezei fű",
+                        "héja → tölgylevél → széncinege → hernyó",
+                        "mezei nyúl → mezei fű → róka"
+                    ],
+        "correct":  0,
+        "explanation":  "A tápláléklánc nyila mindig a tápláléktól a fogyasztó felé mutat: növény → növényevő → ragadozó."
+    },
+    {
+        "id":  146,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyik az ember öt legfontosabb érzékszerve?",
+        "options":  [
+                        "Szív, tüdő, gyomor, máj, vese",
+                        "Szem, fül, orr, nyelv, bőr",
+                        "Csontok, izmok, ízületek, fogak, haj",
+                        "Kéz, láb, fej, nyak, törzs"
+                    ],
+        "correct":  1,
+        "explanation":  "Az öt érzékszervünk: a szem (látás), a fül (hallás), az orr (szaglás), a nyelv (ízlelés) és a bőr (tapintás, hő- és fájdalomérzékelés)."
+    },
+    {
+        "id":  147,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Mely szervek alkotják a keringési, illetve a légző szervrendszert?",
+        "options":  [
+                        "Keringési: gyomor és bél; Légző: csontok és izmok",
+                        "Keringési: bőr és szem; Légző: szív és erek",
+                        "Keringési: szív és vérerek; Légző: orrüreg, légcső, tüdő",
+                        "Keringési: tüdő; Légző: vese és máj"
+                    ],
+        "correct":  2,
+        "explanation":  "A mozgást a csontváz és az izmok, a vér áramoltatását a szív és az erek, a gázcserét pedig a tüdő és a légutak végzik."
+    },
+    {
+        "id":  148,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Hogyan változik a pulzusszám és a légzésszám intenzív testmozgás hatására?",
+        "options":  [
+                        "Mindkettő teljesen leáll",
+                        "A pulzusszám csökken, a légzésszám nem változik",
+                        "Csak télen változik meg",
+                        "Mind a pulzusszám, mind a légzésszám megemelkedik"
+                    ],
+        "correct":  3,
+        "explanation":  "Mozgás közben a dolgozó izmoknak több oxigénre és tápanyagra van szükségük, ezért szaporábban lélegzünk és gyorsabban ver a szívünk."
+    },
+    {
+        "id":  149,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Hány Celsius-fok az egészséges ember normál testhőmérséklete, és mikor beszélünk lázról?",
+        "options":  [
+                        "Normál: 36–37 °C; 38 °C felett láz",
+                        "Normál: 20 °C; 25 °C felett láz",
+                        "Normál: 50 °C; 60 °C felett láz",
+                        "Normál: 42 °C; 50 °C felett láz"
+                    ],
+        "correct":  0,
+        "explanation":  "Az egészséges ember testhőmérséklete 36,5 °C körüli; 37–38 °C között hőemelkedésről, 38 °C felett lázról beszélünk."
+    },
+    {
+        "id":  150,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyik példa AKTÍV, illetve PASSZÍV pihenés?",
+        "options":  [
+                        "Aktív: alvás; Passzív: kerékpározás",
+                        "Aktív: kirándulás, sport; Passzív: alvás, olvasás",
+                        "Az alvás felesleges a szervezet számára",
+                        "Passzív pihenéskor nehéz fizikai munkát végzünk"
+                    ],
+        "correct":  1,
+        "explanation":  "A szellemi tanulás után a legjobb felüdülés az aktív pihenés (mozgás a szabadban), éjszaka pedig a legfontosabb passzív pihenés az alvás."
+    },
+    {
+        "id":  151,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Mely szokások védik a környezetünket a mindennapi életben?",
+        "options":  [
+                        "A szemét elégetése az erdőben",
+                        "A csapvíz felesleges folyatása",
+                        "Szelektív hulladékgyűjtés, víz- és energiatakarékosság",
+                        "Az egyszer használatos műanyagok halmozása"
+                    ],
+        "correct":  2,
+        "explanation":  "A környezettudatos magatartás része a hulladékcsökkentés, az újrahasznosítás, az energiatakarékosság és a természet védelme."
+    },
+    {
+        "id":  152,
+        "subject":  "Környezetismeret",
+        "icon":  "🌿",
+        "grade":  "4. osztály",
+        "q":  "Melyik az egységes európai segélyhívó szám (és a mentők, tűzoltók, rendőrség száma)?",
+        "options":  [
+                        "999 (mentők: 111, tűzoltók: 222, rendőrség: 333)",
+                        "888 (mentők: 404, tűzoltók: 505, rendőrség: 707)",
+                        "000 (mentők: 100, tűzoltók: 200, rendőrség: 300)",
+                        "112 (mentők: 104, tűzoltók: 105, rendőrség: 107)"
+                    ],
+        "correct":  3,
+        "explanation":  "Baleset vagy vészhelyzet esetén az ingyenesen hívható 112-es segélyhívó számon kérhetünk azonnal segítséget."
+    },
+    {
+        "id":  153,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Mennyi a 7482 számban a 4-es számjegy alaki, helyi és valódi értéke?",
+        "options":  [
+                        "Alaki: 4, helyi: 100 (százas), valódi: 400",
+                        "Alaki: 400, helyi: 4, valódi: 100",
+                        "Alaki: 4, helyi: 1000 (ezres), valódi: 4000",
+                        "Alaki: 40, helyi: 10 (tízes), valódi: 4"
+                    ],
+        "correct":  0,
+        "explanation":  "A 7482-ben a 4-es a százasok helyén áll: alaki értéke 4, helyi értéke 100, valódi értéke 4 × 100 = 400."
+    },
+    {
+        "id":  154,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Melyik a 3650 kisebb és nagyobb százas, illetve ezres számszomszédja?",
+        "options":  [
+                        "Százas: 3640 és 3660; Ezres: 2000 és 4000",
+                        "Százas: 3600 és 3700; Ezres: 3000 és 4000",
+                        "Százas: 3500 és 3700; Ezres: 3600 és 3700",
+                        "Százas: 3649 és 3651; Ezres: 3000 és 5000"
+                    ],
+        "correct":  1,
+        "explanation":  "A 3650 százas számszomszédai a 3600 és a 3700; ezres számszomszédai pedig a 3000 és a 4000."
+    },
+    {
+        "id":  155,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Mennyi a 6458 tízesekre, százasokra, illetve ezresekre kerekített értéke?",
+        "options":  [
+                        "Tízes: 6450, százas: 6400, ezres: 7000",
+                        "Tízes: 6460, százas: 6500, ezres: 7000",
+                        "Tízes: 6460, százas: 6500, ezres: 6000",
+                        "Tízes: 6400, százas: 6000, ezres: 6000"
+                    ],
+        "correct":  2,
+        "explanation":  "8-nál felfelé kerekítünk tízesre (6460), 5-nél felfelé kerekítünk százasra (6500), 4-nél lefelé kerekítünk ezresre (6000)."
+    },
+    {
+        "id":  156,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Mely számokat jelölik a következő római számok: XIV, XL, XC, MMXXVI?",
+        "options":  [
+                        "16, 60, 110, 2016",
+                        "14, 50, 900, 1026",
+                        "15, 45, 95, 2260",
+                        "14, 40, 90, 2026"
+                    ],
+        "correct":  3,
+        "explanation":  "XIV = 14, XL = 40 (50−10), XC = 90 (100−10), MMXXVI = 2000 + 20 + 6 = 2026."
+    },
+    {
+        "id":  157,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Hogyan nevezzük az összeadás és a kivonás műveletének eredményét?",
+        "options":  [
+                        "Összeadás: összeg; Kivonás: különbség",
+                        "Összeadás: szorzat; Kivonás: hányados",
+                        "Mindkettő eredményét szorzatnak hívjuk",
+                        "Összeadás: különbség; Kivonás: összeg"
+                    ],
+        "correct":  0,
+        "explanation":  "Az összeadás tagjai az összeadandók, eredménye az összeg; a kivonásban a kisebbítendőből vonjuk ki a kivonandót, az eredmény a különbség."
+    },
+    {
+        "id":  158,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Hogyan nevezzük a szorzás és az osztás műveletének eredményét?",
+        "options":  [
+                        "Szorzás: összeg; Osztás: különbség",
+                        "Szorzás: szorzat; Osztás: hányados",
+                        "Szorzás: hányados; Osztás: szorzat",
+                        "Szorzás: különbség; Osztás: összeg"
+                    ],
+        "correct":  1,
+        "explanation":  "A szorzótényezők eredménye a szorzat; az osztásban az osztandót osztjuk az osztóval, az eredmény pedig a hányados."
+    },
+    {
+        "id":  159,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Mennyi a műveletsor eredménye a műveleti sorrend alapján: 40 − (12 + 8) : 4 + 3 × 5?",
+        "options":  [
+                        "30",
+                        "180",
+                        "50",
+                        "45"
+                    ],
+        "correct":  2,
+        "explanation":  "Először a zárójel: 12+8=20; majd az osztás és szorzás: 20:4=5 és 3×5=15; végül balról jobbra: 40 − 5 + 15 = 50."
+    },
+    {
+        "id":  160,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Mennyi a hányados és a maradék a 47 : 6 osztásban?",
+        "options":  [
+                        "Hányados: 8, maradék: 1",
+                        "Hányados: 6, maradék: 11",
+                        "Hányados: 7, maradék: 6",
+                        "Hányados: 7, maradék: 5"
+                    ],
+        "correct":  3,
+        "explanation":  "47-ben a 6 megvan 7-szer (7×6=42), a maradék 5 (mert 7 × 6 + 5 = 47, és a maradék mindig kisebb az osztónál)."
+    },
+    {
+        "id":  161,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Mennyi 2450 + 1550, illetve 5000 − 1350?",
+        "options":  [
+                        "4000 és 3650",
+                        "3900 és 3750",
+                        "4100 és 3600",
+                        "4000 és 3750"
+                    ],
+        "correct":  0,
+        "explanation":  "2450 + 1550 = 4000, valamint 5000 − 1350 = 3650."
+    },
+    {
+        "id":  162,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Mennyi 36 × 100, illetve 8400 : 100?",
+        "options":  [
+                        "360 és 840",
+                        "3600 és 84",
+                        "36 000 és 8",
+                        "360 és 84"
+                    ],
+        "correct":  1,
+        "explanation":  "100-zal való szorzáskor két nullát írunk a szám végére (3600), 100-zal való osztáskor pedig két nullát elhagyunk (84)."
+    },
+    {
+        "id":  163,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Melyik egész szám teszi igazzá a nyitott mondatot: ☐ × 8 − 14 = 50?",
+        "options":  [
+                        "6",
+                        "7",
+                        "8",
+                        "9"
+                    ],
+        "correct":  2,
+        "explanation":  "Ha a szorzatból 14-et kivonva 50-et kapunk, akkor a szorzat 50 + 14 = 64; 64 : 8 = 8."
+    },
+    {
+        "id":  164,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Ha a hőmérő reggel −4 °C-ot mutatott, délig pedig 10 °C-ot emelkedett a hőmérséklet, hány fok lett délben?",
+        "options":  [
+                        "−14 °C",
+                        "+14 °C",
+                        "+4 °C",
+                        "+6 °C"
+                    ],
+        "correct":  3,
+        "explanation":  "−4 °C-ról 4 fok emelkedéssel érjük el a 0 °C-ot, és még 6 fokot emelkedve +6 °C lesz (−4 + 10 = 6)."
+    },
+    {
+        "id":  165,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Mennyi egy 24 fős osztály tanulóinak a háromnegyed (3/4) része?",
+        "options":  [
+                        "18 fő",
+                        "6 fő",
+                        "12 fő",
+                        "20 fő"
+                    ],
+        "correct":  0,
+        "explanation":  "A 24 fő egynegyede: 24 : 4 = 6 fő; a háromnegyede pedig: 6 × 3 = 18 fő."
+    },
+    {
+        "id":  166,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Melyik két számmal folytatódik a számtani sorozat: 15, 27, 39, 51, ... , ... ?",
+        "options":  [
+                        "61, 71",
+                        "63, 75",
+                        "62, 74",
+                        "60, 72"
+                    ],
+        "correct":  1,
+        "explanation":  "A számtani sorozat szabálya +12: 51 + 12 = 63, 63 + 12 = 75."
+    },
+    {
+        "id":  167,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Melyik két számmal folytatódik a mértani sorozat: 3, 6, 12, 24, ... , ... ?",
+        "options":  [
+                        "30, 36",
+                        "36, 48",
+                        "48, 96",
+                        "40, 80"
+                    ],
+        "correct":  2,
+        "explanation":  "A mértani sorozatban minden tag az előző kétszerese (×2): 24 × 2 = 48, 48 × 2 = 96."
+    },
+    {
+        "id":  168,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Egy könyv 120 oldalas. Bence az első nap 35 oldalt olvasott el, a második nap kétszer annyit. Hány oldal maradt hátra?",
+        "options":  [
+                        "50 oldal",
+                        "25 oldal",
+                        "35 oldal",
+                        "15 oldal"
+                    ],
+        "correct":  3,
+        "explanation":  "Második nap: 2 × 35 = 70 oldal. Összesen elolvasott: 35 + 70 = 105 oldal. Hátravan: 120 − 105 = 15 oldal."
+    },
+    {
+        "id":  169,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Hány szimmetriatengelye (tükörtengelye) van egy általános téglalapnak, illetve egy négyzetnek?",
+        "options":  [
+                        "A téglalapnak 2, a négyzetnek 4",
+                        "Mindkettőnek 4 tükörtengelye van",
+                        "A téglalapnak 4, a négyzetnek 2",
+                        "Egyiknek sincs tükörtengelye"
+                    ],
+        "correct":  0,
+        "explanation":  "Az általános téglalapnak 2 tükörtengelye van (az oldalfelező merőlegesek), a négyzetnek pedig 4 (a két átló is)."
+    },
+    {
+        "id":  170,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Mennyi a kerülete és a területe egy 9 cm oldalú négyzetnek?",
+        "options":  [
+                        "Kerülete: 18 cm, területe: 36 cm²",
+                        "Kerülete: 36 cm, területe: 81 cm²",
+                        "Kerülete: 81 cm, területe: 36 cm²",
+                        "Kerülete: 36 cm, területe: 18 cm²"
+                    ],
+        "correct":  1,
+        "explanation":  "A négyzet kerülete: K = 4 × a = 4 × 9 = 36 cm; területe: T = a × a = 9 × 9 = 81 cm²."
+    },
+    {
+        "id":  171,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Mennyi a kerülete és a területe egy 8 m hosszú és 5 m széles téglalap alakú szobának?",
+        "options":  [
+                        "Kerülete: 13 m, területe: 40 m²",
+                        "Kerülete: 40 m, területe: 26 m²",
+                        "Kerülete: 26 m, területe: 40 m²",
+                        "Kerülete: 26 m, területe: 26 m²"
+                    ],
+        "correct":  2,
+        "explanation":  "A téglalap kerülete: K = 2 × (8 + 5) = 26 m; területe: T = 8 × 5 = 40 m²."
+    },
+    {
+        "id":  172,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Hány lapja, hány éle és hány csúcsa van egy kockának és egy téglatestnek?",
+        "options":  [
+                        "4 lapja, 8 éle és 4 csúcsa",
+                        "8 lapja, 12 éle és 6 csúcsa",
+                        "6 lapja, 8 éle és 12 csúcsa",
+                        "6 lapja, 12 éle és 8 csúcsa"
+                    ],
+        "correct":  3,
+        "explanation":  "Mind a kockának, mind a téglatestnek 6 lapja, 12 éle és 8 csúcsa van."
+    },
+    {
+        "id":  173,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Milyen síkidomok határolják a kockát, és hány 1 cm élű kis kockából áll egy 3 cm élű kocka?",
+        "options":  [
+                        "6 négyzet határolja; 27 db kis kockából áll",
+                        "6 téglalap határolja; 9 db kis kockából áll",
+                        "4 négyzet határolja; 18 db kis kockából áll",
+                        "8 négyzet határolja; 12 db kis kockából áll"
+                    ],
+        "correct":  0,
+        "explanation":  "A kockát 6 egyforma négyzetlap határolja, térfogata 3 cm-es él esetén 3 × 3 × 3 = 27 cm³ (27 db kis kocka)."
+    },
+    {
+        "id":  174,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Melyik átváltás helyes a hosszúság mértékegységei között?",
+        "options":  [
+                        "1 km = 100 m, és 1 m = 10 cm",
+                        "1 km = 1000 m, és 1 m = 10 dm = 100 cm",
+                        "1 m = 100 dm, és 1 dm = 100 cm",
+                        "1 km = 10 000 m, és 1 cm = 100 mm"
+                    ],
+        "correct":  1,
+        "explanation":  "1 km = 1000 m; 1 m = 10 dm = 100 cm = 1000 mm; 1 dm = 10 cm; 1 cm = 10 mm."
+    },
+    {
+        "id":  175,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Hány méter összesen: 3 km 400 m + 600 m, és hány centiméter 4 m 5 dm?",
+        "options":  [
+                        "3460 m és 45 cm",
+                        "400 m és 405 cm",
+                        "4000 m (4 km) és 450 cm",
+                        "40 000 m és 4500 cm"
+                    ],
+        "correct":  2,
+        "explanation":  "3400 m + 600 m = 4000 m; 4 m (400 cm) + 5 dm (50 cm) = 450 cm."
+    },
+    {
+        "id":  176,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Melyik átváltás helyes a tömeg mértékegységei között?",
+        "options":  [
+                        "1 t = 100 kg, és 1 kg = 10 dkg",
+                        "1 t = 1000 kg, és 1 kg = 1000 dkg",
+                        "1 kg = 10 dkg, és 1 dkg = 100 g",
+                        "1 t = 1000 kg, 1 kg = 100 dkg, 1 dkg = 10 g"
+                    ],
+        "correct":  3,
+        "explanation":  "1 tonna = 1000 kg; 1 kg = 100 dkg = 1000 g; 1 dkg = 10 g."
+    },
+    {
+        "id":  177,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Hány dekagramm 2 kg és 35 dkg, illetve hány gramm fél kilogramm?",
+        "options":  [
+                        "235 dkg és 500 g",
+                        "2035 dkg és 50 g",
+                        "55 dkg és 500 g",
+                        "235 dkg és 5000 g"
+                    ],
+        "correct":  0,
+        "explanation":  "2 kg = 200 dkg, tehát 200 + 35 = 235 dkg; 1 kg = 1000 g, így a fél kg = 500 g."
+    },
+    {
+        "id":  178,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Melyik átváltás helyes az űrtartalom mértékegységei között?",
+        "options":  [
+                        "1 hl = 10 l, és 1 l = 100 dl",
+                        "1 hl = 100 l, és 1 l = 10 dl = 100 cl",
+                        "1 hl = 1000 l, és 1 dl = 10 l",
+                        "1 l = 100 ml, és 1 dl = 10 ml"
+                    ],
+        "correct":  1,
+        "explanation":  "1 hl (hektoliter) = 100 l; 1 l (liter) = 10 dl = 100 cl = 1000 ml; 1 dl = 10 cl = 100 ml."
+    },
+    {
+        "id":  179,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Hány pohár (2 dl-es) telik meg 3 liter gyümölcsléből?",
+        "options":  [
+                        "6 pohár",
+                        "10 pohár",
+                        "15 pohár",
+                        "30 pohár"
+                    ],
+        "correct":  2,
+        "explanation":  "3 liter = 30 deciliter. 30 dl : 2 dl = 15 darab 2 dl-es pohár telik meg."
+    },
+    {
+        "id":  180,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Hány perc 2 és fél óra, és mikor ér véget a 14:45-kor kezdődő 45 perces tanóra?",
+        "options":  [
+                        "125 perc; 15:15-kor",
+                        "150 perc; 15:20-kor",
+                        "230 perc; 15:45-kor",
+                        "150 perc; 15:30-kor"
+                    ],
+        "correct":  3,
+        "explanation":  "2 óra = 120 perc, fél óra = 30 perc, összesen 150 perc. 14:45 + 15 perc = 15:00, + 30 perc = 15:30."
+    },
+    {
+        "id":  181,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Mennyi a következő három szám számtani átlaga: 12, 18, 30?",
+        "options":  [
+                        "20",
+                        "18",
+                        "30",
+                        "60"
+                    ],
+        "correct":  0,
+        "explanation":  "A számtani átlaghoz összeadjuk a számokat, majd elosztjuk a darabszámukkal: (12 + 18 + 30) : 3 = 60 : 3 = 20."
+    },
+    {
+        "id":  182,
+        "subject":  "Matematika",
+        "icon":  "📐",
+        "grade":  "1–4. osztály",
+        "q":  "Hagyományos (1–6-os) dobókockával dobva melyik esemény BIZTOS, illetve LEHETETLEN?",
+        "options":  [
+                        "Biztos: 6-ost dobunk; Lehetetlen: párosat",
+                        "Biztos: 7-nél kisebbet; Lehetetlen: 8-ast",
+                        "Biztos: 8-ast dobunk; Lehetetlen: 1-est",
+                        "Biztos: páratlant dobunk; Lehetetlen: 6-ost"
+                    ],
+        "correct":  1,
+        "explanation":  "Az 1–6-os dobókockán minden szám kisebb 7-nél (biztos esemény), a 6-os dobás lehetséges, a 8-as pedig lehetetlen."
+    },
+    {
+        "id":  183,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Melyek a zenei hang alapvető tulajdonságai?",
+        "options":  [
+                        "Hosszúság, szélesség, tömeg és térfogat",
+                        "Szín, szag, íz és hőmérséklet",
+                        "Hangmagasság, hangerő, hangszín és időtartam",
+                        "Sebesség, irány, súly és rugalmasság"
+                    ],
+        "correct":  2,
+        "explanation":  "A zenei hangokat megkülönböztetjük hangmagasságuk (magas/mély), hangerejük (halk/hangos), hangszínük és időtartamuk alapján."
+    },
+    {
+        "id":  184,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Mely hangok alkotják a magyar népdalokra jellemző ötfokú (pentaton) hangkészletet?",
+        "options":  [
+                        "dó - ré - fá - ti - dó",
+                        "fá - szó - lá - ti - dó",
+                        "mi - fá - ti - dó - ré",
+                        "lá - szó - mi - ré - dó (- alsó lá)"
+                    ],
+        "correct":  3,
+        "explanation":  "A félhang nélküli ötfokú (pentaton) hangsor hangjai felülről lefelé: lá - szó - mi - ré - dó (- alsó lá)."
+    },
+    {
+        "id":  185,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Hány vonalból és hány vonalközből áll a kottaírásban használt vonalrendszer?",
+        "options":  [
+                        "5 vonalból és 4 vonalközből",
+                        "4 vonalból és 5 vonalközből",
+                        "6 vonalból és 6 vonalközből",
+                        "3 vonalból és 2 vonalközből"
+                    ],
+        "correct":  0,
+        "explanation":  "A hangjegyeket az 5 vonalból és 4 vonalközből álló vonalrendszerben, illetve pótvonalakon helyezzük el."
+    },
+    {
+        "id":  186,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Hány negyed (tá) ér egy fél (tá-á) hangjegyet, és hány nyolcad (ti) ér egy negyedet?",
+        "options":  [
+                        "3 negyed ér egy felet; 4 nyolcad egy negyedet",
+                        "2 negyed ér egy felet; 2 nyolcad egy negyedet",
+                        "1 negyed ér egy felet; 3 nyolcad egy negyedet",
+                        "4 negyed ér egy felet; 1 nyolcad egy negyedet"
+                    ],
+        "correct":  1,
+        "explanation":  "A fél hangjegy (tá-á) 2 mérőütésig tart (= 2 negyed), egy negyedre (tá) pedig egy nyolcadpár (ti-ti) jut."
+    },
+    {
+        "id":  187,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Mi az ütemvonal és a kettős záróvonal szerepe a kottában?",
+        "options":  [
+                        "A hangerőt és a tempót mutatják meg",
+                        "A megszólaló hangszer nevét jelölik",
+                        "Az ütemek határát és a dallam végét jelzik",
+                        "A negyed és fél szüneteket helyettesítik"
+                    ],
+        "correct":  2,
+        "explanation":  "A függőleges ütemvonalak ütemekre osztják a dallamot, a végén pedig a vékony-vastag záróvonal jelzi a mű lezárását."
+    },
+    {
+        "id":  188,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Mely eszközök tartoznak az úgynevezett „testhangszerek” közé?",
+        "options":  [
+                        "Hegedű, cselló, nagybőgő",
+                        "Fuvola, oboa, klarinét",
+                        "Trombita, kürt, harsona",
+                        "Taps, csettintés, combütögetés, dobbantás"
+                    ],
+        "correct":  3,
+        "explanation":  "A saját testünkkel megszólaltatott ritmushangszereket (taps, csettintés, combütögetés, dobbantás) testhangszereknek nevezzük."
+    },
+    {
+        "id":  189,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Hogyan énekelnek a szólamok egy KÁNONBAN?",
+        "options":  [
+                        "Egymás után, késleltetve lépnek be ugyanazzal a dallammal",
+                        "Egyetlen énekes énekel kíséret nélkül",
+                        "Mindenki egyszerre kezdi és fejezi be a dalt",
+                        "Csak hangszerek játszanak énekhang nélkül"
+                    ],
+        "correct":  0,
+        "explanation":  "Szólóban egyvalaki, duóban ketten énekelnek; a kánonban a csoportok egymás után lépnek be ugyanazzal a dallammal."
+    },
+    {
+        "id":  190,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Kik énekelnek a gyermekkarban, illetve a vegyeskarban?",
+        "options":  [
+                        "Gyermekkar: férfiak; Vegyeskar: gyermekek",
+                        "Gyermekkar: gyermekek; Vegyeskar: női és férfihangok",
+                        "Mindkettőben csak hangszerek játszanak",
+                        "Gyermekkar: szólóénekes; Vegyeskar: két énekes"
+                    ],
+        "correct":  1,
+        "explanation":  "Az emberi hangfajták lehetnek gyermek-, női és férfihangok; a vegyeskarban női és férfihangok közösen énekelnek."
+    },
+    {
+        "id":  191,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Mely hangszerek tartoznak a vonós, a fafúvós, illetve a rézfúvós hangszerek közé?",
+        "options":  [
+                        "Vonós: trombita; Fafúvós: cselló; Rézfúvós: fuvola",
+                        "Vonós: dob; Fafúvós: cintányér; Rézfúvós: zongora",
+                        "Vonós: hegedű, cselló; Fafúvós: fuvola, oboa; Rézfúvós: trombita, kürt",
+                        "Vonós: oboa; Fafúvós: kürt; Rézfúvós: hegedű"
+                    ],
+        "correct":  2,
+        "explanation":  "A szimfonikus zenekar főbb hangszerei: hegedű, cselló (vonósok), fuvola, oboa, klarinét (fafúvósok), kürt, trombita (rézfúvósok)."
+    },
+    {
+        "id":  192,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Ki szerezte nemzeti imádságunk, a Himnusz zenéjét (és ki írta a szövegét)?",
+        "options":  [
+                        "Bartók Béla (szöveg: Petőfi Sándor)",
+                        "Kodály Zoltán (szöveg: Arany János)",
+                        "Bárdos Lajos (szöveg: Vörösmarty Mihály)",
+                        "Erkel Ferenc (szöveg: Kölcsey Ferenc)"
+                    ],
+        "correct":  3,
+        "explanation":  "Kölcsey Ferenc 1823-ban írt Himnusz című költeményét Erkel Ferenc zenésítette meg 1844-ben."
+    },
+    {
+        "id":  193,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Melyik két világhírű magyar zeneszerző és népdalkutató alkotta a Gyermekeknek, illetve a Háry János című műveket?",
+        "options":  [
+                        "Bartók Béla és Kodály Zoltán",
+                        "W. A. Mozart és Antonio Vivaldi",
+                        "Csajkovszkij és Szergej Prokofjev",
+                        "Johann Strauss és Gioachino Rossini"
+                    ],
+        "correct":  0,
+        "explanation":  "Bartók Béla (Gyermekeknek, Mikrokozmosz, 44 hegedűduó) és Kodály Zoltán (Háry János, Bicinia Hungarica) a magyar zenekultúra óriásai."
+    },
+    {
+        "id":  194,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Melyik híres Kodály Zoltán-daljátékban szerepel a „Sej, Nagyabonyban”, a „Napóleon csatája” és „A császári udvar bevonulása”?",
+        "options":  [
+                        "A Diótörőben",
+                        "A Háry János című daljátékban",
+                        "Az állatok farsangjában",
+                        "A Gyermekszimfóniában"
+                    ],
+        "correct":  1,
+        "explanation":  "Kodály Zoltán Háry János című daljátékának híres részletei A császári udvar bevonulása, a Napóleon csatája és a Sej, Nagyabonyban."
+    },
+    {
+        "id":  195,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Melyik Kodály Zoltán-gyermekkar idézi fel a tavaszi iskolába hívogató népszokást?",
+        "options":  [
+                        "Karácsonyi bölcsődal",
+                        "Játék katonák indulója",
+                        "Gergely-járás",
+                        "Utazás szánon"
+                    ],
+        "correct":  2,
+        "explanation":  "Kodály Zoltán Gergely-járás (valamint Katalinka, Pünkösdölő és Villő) című gyermekkarai magyar népszokásokat dolgoznak fel."
+    },
+    {
+        "id":  196,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Ki komponálta a Diótörő című mesebalettet (benne a Játék katonák indulójával, a Kínai és Orosz tánccal)?",
+        "options":  [
+                        "Antonio Vivaldi",
+                        "Camille Saint-Saëns",
+                        "Leopold Mozart",
+                        "Pjotr Iljics Csajkovszkij"
+                    ],
+        "correct":  3,
+        "explanation":  "A karácsonyi témájú Diótörő balett zenéjét az orosz zeneszerző, Csajkovszkij komponálta."
+    },
+    {
+        "id":  197,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Ki szerezte Az állatok farsangja című humoros, hangutánzó zenekari sorozatot?",
+        "options":  [
+                        "Camille Saint-Saëns",
+                        "Bárdos Lajos",
+                        "Erkel Ferenc",
+                        "Ránki György"
+                    ],
+        "correct":  0,
+        "explanation":  "A francia Camille Saint-Saëns Az állatok farsangja című művében hangszerekkel jeleníti meg az egyes állatokat."
+    },
+    {
+        "id":  198,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Ki szerezte a Péter és a farkas című szimfonikus mesét, amelyben minden szereplőt más hangszer személyesít meg?",
+        "options":  [
+                        "Wolfgang Amadeus Mozart",
+                        "Szergej Prokofjev",
+                        "Johann Strauss",
+                        "Antonio Vivaldi"
+                    ],
+        "correct":  1,
+        "explanation":  "Prokofjev Péter és a farkas című művében a hangszerek (fuvola – kismadár, oboa – kacsa, kürtök – farkas, vonósok – Péter) ábrázolják a szereplőket."
+    },
+    {
+        "id":  199,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Ki komponálta A négy évszak című hegedűverseny-sorozatot, és ki az Egy kiállítás képei című művet?",
+        "options":  [
+                        "Gioachino Rossini és Georges Bizet",
+                        "Leonard Bernstein és Claude Debussy",
+                        "Antonio Vivaldi és Modeszt Muszorgszkij",
+                        "Szőnyi Erzsébet és Szokolay Sándor"
+                    ],
+        "correct":  2,
+        "explanation":  "A négy évszakot Antonio Vivaldi, az Egy kiállítás képei (Kiscsibék tánca, Baba Yaga kunyhója) című sorozatot pedig Muszorgszkij komponálta."
+    },
+    {
+        "id":  200,
+        "subject":  "Ének-zene",
+        "icon":  "🎵",
+        "grade":  "1–4. osztály",
+        "q":  "Melyik magyar zeneszerző írta a Pomádé király új ruhája című zenekari szvitet Andersen meséje nyomán?",
+        "options":  [
+                        "Erkel Ferenc",
+                        "Liszt Ferenc",
+                        "Kodály Zoltán",
+                        "Ránki György"
+                    ],
+        "correct":  3,
+        "explanation":  "Ránki György Pomádé király új ruhája című szvitjének híres tétele a „Munkában a szemfényvesztők, készül a csodaruha”."
+    }
+]

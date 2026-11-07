@@ -1,0 +1,452 @@
+[
+  {
+    "id": 153,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Mennyi a 7482 számban a 4-es számjegy alaki, helyi és valódi értéke?",
+    "options": [
+      "Alaki: 4, helyi: 100 (százas), valódi: 400",
+      "Alaki: 400, helyi: 4, valódi: 100",
+      "Alaki: 4, helyi: 1000 (ezres), valódi: 4000",
+      "Alaki: 40, helyi: 10 (tízes), valódi: 4"
+    ],
+    "correct": 0,
+    "explanation": "A 7482-ben a 4-es a százasok helyén áll: alaki értéke 4, helyi értéke 100, valódi értéke 4 × 100 = 400."
+  },
+  {
+    "id": 154,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Melyik a 3650 kisebb és nagyobb százas, illetve ezres számszomszédja?",
+    "options": [
+      "Százas: 3640 és 3660; Ezres: 2000 és 4000",
+      "Százas: 3600 és 3700; Ezres: 3000 és 4000",
+      "Százas: 3500 és 3700; Ezres: 3600 és 3700",
+      "Százas: 3649 és 3651; Ezres: 3000 és 5000"
+    ],
+    "correct": 1,
+    "explanation": "A 3650 százas számszomszédai a 3600 és a 3700; ezres számszomszédai pedig a 3000 és a 4000."
+  },
+  {
+    "id": 155,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Mennyi a 6458 tízesekre, százasokra, illetve ezresekre kerekített értéke?",
+    "options": [
+      "Tízes: 6450, százas: 6400, ezres: 7000",
+      "Tízes: 6460, százas: 6500, ezres: 7000",
+      "Tízes: 6460, százas: 6500, ezres: 6000",
+      "Tízes: 6400, százas: 6000, ezres: 6000"
+    ],
+    "correct": 2,
+    "explanation": "8-nál felfelé kerekítünk tízesre (6460), 5-nél felfelé kerekítünk százasra (6500), 4-nél lefelé kerekítünk ezresre (6000)."
+  },
+  {
+    "id": 156,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Mely számokat jelölik a következő római számok: XIV, XL, XC, MMXXVI?",
+    "options": [
+      "16, 60, 110, 2016",
+      "14, 50, 900, 1026",
+      "15, 45, 95, 2260",
+      "14, 40, 90, 2026"
+    ],
+    "correct": 3,
+    "explanation": "XIV = 14, XL = 40 (50−10), XC = 90 (100−10), MMXXVI = 2000 + 20 + 6 = 2026."
+  },
+  {
+    "id": 157,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Hogyan nevezzük az összeadás és a kivonás műveletének eredményét?",
+    "options": [
+      "Összeadás: összeg; Kivonás: különbség",
+      "Összeadás: szorzat; Kivonás: hányados",
+      "Mindkettő eredményét szorzatnak hívjuk",
+      "Összeadás: különbség; Kivonás: összeg"
+    ],
+    "correct": 0,
+    "explanation": "Az összeadás tagjai az összeadandók, eredménye az összeg; a kivonásban a kisebbítendőből vonjuk ki a kivonandót, az eredmény a különbség."
+  },
+  {
+    "id": 158,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Hogyan nevezzük a szorzás és az osztás műveletének eredményét?",
+    "options": [
+      "Szorzás: összeg; Osztás: különbség",
+      "Szorzás: szorzat; Osztás: hányados",
+      "Szorzás: hányados; Osztás: szorzat",
+      "Szorzás: különbség; Osztás: összeg"
+    ],
+    "correct": 1,
+    "explanation": "A szorzótényezők eredménye a szorzat; az osztásban az osztandót osztjuk az osztóval, az eredmény pedig a hányados."
+  },
+  {
+    "id": 159,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Mennyi a műveletsor eredménye a műveleti sorrend alapján: 40 − (12 + 8) : 4 + 3 × 5?",
+    "options": [
+      "30",
+      "180",
+      "50",
+      "45"
+    ],
+    "correct": 2,
+    "explanation": "Először a zárójel: 12+8=20; majd az osztás és szorzás: 20:4=5 és 3×5=15; végül balról jobbra: 40 − 5 + 15 = 50."
+  },
+  {
+    "id": 160,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Mennyi a hányados és a maradék a 47 : 6 osztásban?",
+    "options": [
+      "Hányados: 8, maradék: 1",
+      "Hányados: 6, maradék: 11",
+      "Hányados: 7, maradék: 6",
+      "Hányados: 7, maradék: 5"
+    ],
+    "correct": 3,
+    "explanation": "47-ben a 6 megvan 7-szer (7×6=42), a maradék 5 (mert 7 × 6 + 5 = 47, és a maradék mindig kisebb az osztónál)."
+  },
+  {
+    "id": 161,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Mennyi 2450 + 1550, illetve 5000 − 1350?",
+    "options": [
+      "4000 és 3650",
+      "3900 és 3750",
+      "4100 és 3600",
+      "4000 és 3750"
+    ],
+    "correct": 0,
+    "explanation": "2450 + 1550 = 4000, valamint 5000 − 1350 = 3650."
+  },
+  {
+    "id": 162,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Mennyi 36 × 100, illetve 8400 : 100?",
+    "options": [
+      "360 és 840",
+      "3600 és 84",
+      "36 000 és 8",
+      "360 és 84"
+    ],
+    "correct": 1,
+    "explanation": "100-zal való szorzáskor két nullát írunk a szám végére (3600), 100-zal való osztáskor pedig két nullát elhagyunk (84)."
+  },
+  {
+    "id": 163,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Melyik egész szám teszi igazzá a nyitott mondatot: ☐ × 8 − 14 = 50?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct": 2,
+    "explanation": "Ha a szorzatból 14-et kivonva 50-et kapunk, akkor a szorzat 50 + 14 = 64; 64 : 8 = 8."
+  },
+  {
+    "id": 164,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Ha a hőmérő reggel −4 °C-ot mutatott, délig pedig 10 °C-ot emelkedett a hőmérséklet, hány fok lett délben?",
+    "options": [
+      "−14 °C",
+      "+14 °C",
+      "+4 °C",
+      "+6 °C"
+    ],
+    "correct": 3,
+    "explanation": "−4 °C-ról 4 fok emelkedéssel érjük el a 0 °C-ot, és még 6 fokot emelkedve +6 °C lesz (−4 + 10 = 6)."
+  },
+  {
+    "id": 165,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Mennyi egy 24 fős osztály tanulóinak a háromnegyed (3/4) része?",
+    "options": [
+      "18 fő",
+      "6 fő",
+      "12 fő",
+      "20 fő"
+    ],
+    "correct": 0,
+    "explanation": "A 24 fő egynegyede: 24 : 4 = 6 fő; a háromnegyede pedig: 6 × 3 = 18 fő."
+  },
+  {
+    "id": 166,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Melyik két számmal folytatódik a számtani sorozat: 15, 27, 39, 51, ... , ... ?",
+    "options": [
+      "61, 71",
+      "63, 75",
+      "62, 74",
+      "60, 72"
+    ],
+    "correct": 1,
+    "explanation": "A számtani sorozat szabálya +12: 51 + 12 = 63, 63 + 12 = 75."
+  },
+  {
+    "id": 167,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Melyik két számmal folytatódik a mértani sorozat: 3, 6, 12, 24, ... , ... ?",
+    "options": [
+      "30, 36",
+      "36, 48",
+      "48, 96",
+      "40, 80"
+    ],
+    "correct": 2,
+    "explanation": "A mértani sorozatban minden tag az előző kétszerese (×2): 24 × 2 = 48, 48 × 2 = 96."
+  },
+  {
+    "id": 168,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Egy könyv 120 oldalas. Bence az első nap 35 oldalt olvasott el, a második nap kétszer annyit. Hány oldal maradt hátra?",
+    "options": [
+      "50 oldal",
+      "25 oldal",
+      "35 oldal",
+      "15 oldal"
+    ],
+    "correct": 3,
+    "explanation": "Második nap: 2 × 35 = 70 oldal. Összesen elolvasott: 35 + 70 = 105 oldal. Hátravan: 120 − 105 = 15 oldal."
+  },
+  {
+    "id": 169,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Hány szimmetriatengelye (tükörtengelye) van egy általános téglalapnak, illetve egy négyzetnek?",
+    "options": [
+      "A téglalapnak 2, a négyzetnek 4",
+      "Mindkettőnek 4 tükörtengelye van",
+      "A téglalapnak 4, a négyzetnek 2",
+      "Egyiknek sincs tükörtengelye"
+    ],
+    "correct": 0,
+    "explanation": "Az általános téglalapnak 2 tükörtengelye van (az oldalfelező merőlegesek), a négyzetnek pedig 4 (a két átló is)."
+  },
+  {
+    "id": 170,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Mennyi a kerülete és a területe egy 9 cm oldalú négyzetnek?",
+    "options": [
+      "Kerülete: 18 cm, területe: 36 cm²",
+      "Kerülete: 36 cm, területe: 81 cm²",
+      "Kerülete: 81 cm, területe: 36 cm²",
+      "Kerülete: 36 cm, területe: 18 cm²"
+    ],
+    "correct": 1,
+    "explanation": "A négyzet kerülete: K = 4 × a = 4 × 9 = 36 cm; területe: T = a × a = 9 × 9 = 81 cm²."
+  },
+  {
+    "id": 171,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Mennyi a kerülete és a területe egy 8 m hosszú és 5 m széles téglalap alakú szobának?",
+    "options": [
+      "Kerülete: 13 m, területe: 40 m²",
+      "Kerülete: 40 m, területe: 26 m²",
+      "Kerülete: 26 m, területe: 40 m²",
+      "Kerülete: 26 m, területe: 26 m²"
+    ],
+    "correct": 2,
+    "explanation": "A téglalap kerülete: K = 2 × (8 + 5) = 26 m; területe: T = 8 × 5 = 40 m²."
+  },
+  {
+    "id": 172,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Hány lapja, hány éle és hány csúcsa van egy kockának és egy téglatestnek?",
+    "options": [
+      "4 lapja, 8 éle és 4 csúcsa",
+      "8 lapja, 12 éle és 6 csúcsa",
+      "6 lapja, 8 éle és 12 csúcsa",
+      "6 lapja, 12 éle és 8 csúcsa"
+    ],
+    "correct": 3,
+    "explanation": "Mind a kockának, mind a téglatestnek 6 lapja, 12 éle és 8 csúcsa van."
+  },
+  {
+    "id": 173,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Milyen síkidomok határolják a kockát, és hány 1 cm élű kis kockából áll egy 3 cm élű kocka?",
+    "options": [
+      "6 négyzet határolja; 27 db kis kockából áll",
+      "6 téglalap határolja; 9 db kis kockából áll",
+      "4 négyzet határolja; 18 db kis kockából áll",
+      "8 négyzet határolja; 12 db kis kockából áll"
+    ],
+    "correct": 0,
+    "explanation": "A kockát 6 egyforma négyzetlap határolja, térfogata 3 cm-es él esetén 3 × 3 × 3 = 27 cm³ (27 db kis kocka)."
+  },
+  {
+    "id": 174,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Melyik átváltás helyes a hosszúság mértékegységei között?",
+    "options": [
+      "1 km = 100 m, és 1 m = 10 cm",
+      "1 km = 1000 m, és 1 m = 10 dm = 100 cm",
+      "1 m = 100 dm, és 1 dm = 100 cm",
+      "1 km = 10 000 m, és 1 cm = 100 mm"
+    ],
+    "correct": 1,
+    "explanation": "1 km = 1000 m; 1 m = 10 dm = 100 cm = 1000 mm; 1 dm = 10 cm; 1 cm = 10 mm."
+  },
+  {
+    "id": 175,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Hány méter összesen: 3 km 400 m + 600 m, és hány centiméter 4 m 5 dm?",
+    "options": [
+      "3460 m és 45 cm",
+      "400 m és 405 cm",
+      "4000 m (4 km) és 450 cm",
+      "40 000 m és 4500 cm"
+    ],
+    "correct": 2,
+    "explanation": "3400 m + 600 m = 4000 m; 4 m (400 cm) + 5 dm (50 cm) = 450 cm."
+  },
+  {
+    "id": 176,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Melyik átváltás helyes a tömeg mértékegységei között?",
+    "options": [
+      "1 t = 100 kg, és 1 kg = 10 dkg",
+      "1 t = 1000 kg, és 1 kg = 1000 dkg",
+      "1 kg = 10 dkg, és 1 dkg = 100 g",
+      "1 t = 1000 kg, 1 kg = 100 dkg, 1 dkg = 10 g"
+    ],
+    "correct": 3,
+    "explanation": "1 tonna = 1000 kg; 1 kg = 100 dkg = 1000 g; 1 dkg = 10 g."
+  },
+  {
+    "id": 177,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Hány dekagramm 2 kg és 35 dkg, illetve hány gramm fél kilogramm?",
+    "options": [
+      "235 dkg és 500 g",
+      "2035 dkg és 50 g",
+      "55 dkg és 500 g",
+      "235 dkg és 5000 g"
+    ],
+    "correct": 0,
+    "explanation": "2 kg = 200 dkg, tehát 200 + 35 = 235 dkg; 1 kg = 1000 g, így a fél kg = 500 g."
+  },
+  {
+    "id": 178,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Melyik átváltás helyes az űrtartalom mértékegységei között?",
+    "options": [
+      "1 hl = 10 l, és 1 l = 100 dl",
+      "1 hl = 100 l, és 1 l = 10 dl = 100 cl",
+      "1 hl = 1000 l, és 1 dl = 10 l",
+      "1 l = 100 ml, és 1 dl = 10 ml"
+    ],
+    "correct": 1,
+    "explanation": "1 hl (hektoliter) = 100 l; 1 l (liter) = 10 dl = 100 cl = 1000 ml; 1 dl = 10 cl = 100 ml."
+  },
+  {
+    "id": 179,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Hány pohár (2 dl-es) telik meg 3 liter gyümölcsléből?",
+    "options": [
+      "6 pohár",
+      "10 pohár",
+      "15 pohár",
+      "30 pohár"
+    ],
+    "correct": 2,
+    "explanation": "3 liter = 30 deciliter. 30 dl : 2 dl = 15 darab 2 dl-es pohár telik meg."
+  },
+  {
+    "id": 180,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Hány perc 2 és fél óra, és mikor ér véget a 14:45-kor kezdődő 45 perces tanóra?",
+    "options": [
+      "125 perc; 15:15-kor",
+      "150 perc; 15:20-kor",
+      "230 perc; 15:45-kor",
+      "150 perc; 15:30-kor"
+    ],
+    "correct": 3,
+    "explanation": "2 óra = 120 perc, fél óra = 30 perc, összesen 150 perc. 14:45 + 15 perc = 15:00, + 30 perc = 15:30."
+  },
+  {
+    "id": 181,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Mennyi a következő három szám számtani átlaga: 12, 18, 30?",
+    "options": [
+      "20",
+      "18",
+      "30",
+      "60"
+    ],
+    "correct": 0,
+    "explanation": "A számtani átlaghoz összeadjuk a számokat, majd elosztjuk a darabszámukkal: (12 + 18 + 30) : 3 = 60 : 3 = 20."
+  },
+  {
+    "id": 182,
+    "subject": "Matematika",
+    "icon": "📐",
+    "grade": "1–4. osztály",
+    "q": "Hagyományos (1–6-os) dobókockával dobva melyik esemény BIZTOS, illetve LEHETETLEN?",
+    "options": [
+      "Biztos: 6-ost dobunk; Lehetetlen: párosat",
+      "Biztos: 7-nél kisebbet; Lehetetlen: 8-ast",
+      "Biztos: 8-ast dobunk; Lehetetlen: 1-est",
+      "Biztos: páratlant dobunk; Lehetetlen: 6-ost"
+    ],
+    "correct": 1,
+    "explanation": "Az 1–6-os dobókockán minden szám kisebb 7-nél (biztos esemény), a 6-os dobás lehetséges, a 8-as pedig lehetetlen."
+  }
+]

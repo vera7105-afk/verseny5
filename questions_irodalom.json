@@ -1,0 +1,895 @@
+[
+  {
+    "id": 1,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik a három alapvető irodalmi műnem?",
+    "options": [
+      "Líra, epika, dráma",
+      "Vers, próza, mese",
+      "Népmese, műmese, dal",
+      "Rím, ritmus, strófa"
+    ],
+    "correct": 0,
+    "explanation": "Az irodalom három alapvető műneme az epika, a líra és a dráma."
+  },
+  {
+    "id": 2,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Mi áll a lírai alkotások középpontjában?",
+    "options": [
+      "Hosszú kalandos cselekménysor",
+      "Érzelmek, gondolatok, hangulatok",
+      "Színpadi párbeszéd és konfliktus",
+      "Tudományos kísérletek leírása"
+    ],
+    "correct": 1,
+    "explanation": "A lírában az érzelmek, gondolatok, hangulatok és személyes élmények közvetlen kifejezése áll a középpontban."
+  },
+  {
+    "id": 3,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Milyen lehet egy irodalmi alkotás a FORMÁJA szerint?",
+    "options": [
+      "Népi vagy műköltészeti",
+      "Igaz vagy kitalált",
+      "Vers vagy próza",
+      "Líra vagy dráma"
+    ],
+    "correct": 2,
+    "explanation": "Formája szerint az irodalmi alkotás lehet vers (kötött ritmusú) vagy próza (kötetlen ritmusú)."
+  },
+  {
+    "id": 4,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Milyen lehet egy irodalmi alkotás az EREDETE szerint?",
+    "options": [
+      "Rövid vagy hosszú terjedelmű",
+      "Versszak vagy fejezet",
+      "Páros vagy keresztrímes",
+      "Népköltészeti vagy műköltészeti"
+    ],
+    "correct": 3,
+    "explanation": "Eredete szerint megkülönböztetünk népköltészeti (közösségi) és műköltészeti (ismert szerzőjű) alkotást."
+  },
+  {
+    "id": 5,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik állítás igaz a prózai szövegre?",
+    "options": [
+      "Kötetlen ritmusú, bekezdésekre tagolódik",
+      "Verssorokba és strófákba rendeződik",
+      "Mindig rímekkel zárulnak a sorai",
+      "Kizárólag énekelve adható elő"
+    ],
+    "correct": 0,
+    "explanation": "A próza kötetlen ritmusú szöveg, folyamatos íráskép jellemzi, bekezdésekre és fejezetekre tagolódik."
+  },
+  {
+    "id": 6,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Hogyan nevezzük a versszakot idegen eredetű szóval?",
+    "options": [
+      "Rímképlet",
+      "Strófa",
+      "Epika",
+      "Variáns"
+    ],
+    "correct": 1,
+    "explanation": "A versszak idegen eredetű szakszóval strófa, amely verssorokból épül fel."
+  },
+  {
+    "id": 7,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik jellemző a népköltészeti alkotásokra?",
+    "options": [
+      "Szerzője ismert, szövege rögzített",
+      "Csak nyomtatott könyvben terjedt",
+      "Szájhagyomány útján, több változatban él",
+      "Kizárólag egyetlen változatban létezik"
+    ],
+    "correct": 2,
+    "explanation": "A népköltészet szájhagyomány útján terjedő közösségi alkotás, szerzője ismeretlen, szövege több változatban (variánsban) él."
+  },
+  {
+    "id": 8,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Ki a „lírai én” (lírai alany) egy költeményben?",
+    "options": [
+      "A könyvet kinyomtató nyomdász",
+      "A verset felolvasó színész",
+      "A mesében szereplő gonosz mostoha",
+      "A versbeli beszélő (belső hang)"
+    ],
+    "correct": 3,
+    "explanation": "A lírai én a versbeli beszélő, aki nem feltétlenül azonos magával az életrajzi költővel."
+  },
+  {
+    "id": 9,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Mit nevezünk rímnek a versekben?",
+    "options": [
+      "A sorvégek hangtani összecsengését",
+      "A fejezetek címét a regényben",
+      "A mese kezdő- és záróformuláját",
+      "A versszakok számát a műben"
+    ],
+    "correct": 0,
+    "explanation": "A rím a verssorok végének szabályos hangtani összecsengése."
+  },
+  {
+    "id": 10,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Mi a páros rím rímképlete?",
+    "options": [
+      "a b a b",
+      "a a b b",
+      "a b b a",
+      "x a x a"
+    ],
+    "correct": 1,
+    "explanation": "A páros rímben az egymást követő sorok párosával rímelnek: a a b b."
+  },
+  {
+    "id": 11,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik rímfajta képlete az „a b a b”?",
+    "options": [
+      "Bokorrím",
+      "Páros rím",
+      "Keresztrím",
+      "Ölelkező rím"
+    ],
+    "correct": 2,
+    "explanation": "A keresztrímben az 1. sor a 3.-kal, a 2. sor a 4.-kel rímel (a b a b)."
+  },
+  {
+    "id": 12,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Hogyan nevezzük az „a a a a” és az „a b b a” rímképletet?",
+    "options": [
+      "Páros rím és félrím",
+      "Keresztrím és páros rím",
+      "Félrím és bokorrím",
+      "Bokorrím és ölelkező rím"
+    ],
+    "correct": 3,
+    "explanation": "Az a a a a bokorrím (minden sor azonosan rímel), az a b b a pedig ölelkező rím."
+  },
+  {
+    "id": 13,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik rímfajta képlete az „x a x a”, ahol csak a páros sorok rímelnek?",
+    "options": [
+      "Félrím",
+      "Bokorrím",
+      "Páros rím",
+      "Ölelkező rím"
+    ],
+    "correct": 0,
+    "explanation": "A félrímnél (x a x a) a sorvégeknek csak egy része, leggyakrabban a 2. és 4. sor rímel."
+  },
+  {
+    "id": 14,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Mit jelent a keretes szerkezet egy irodalmi műben?",
+    "options": [
+      "A verset díszes képkeretbe rajzolják",
+      "A kezdő- és zárókép tudatos ismétlődését",
+      "Minden versszak pontosan két soros",
+      "A költeményben nincsenek rímek"
+    ],
+    "correct": 1,
+    "explanation": "Keretes szerkezet esetén a mű kezdőképe és záróképe (vagy kezdő és záró sorai) összecsengenek, ismétlődnek."
+  },
+  {
+    "id": 15,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik lírai műfaj fejez ki egyszerű érzelmeket könnyen énekelhető, dallamos formában?",
+    "options": [
+      "A láncmese",
+      "Az elbeszélés",
+      "A dal",
+      "A regény"
+    ],
+    "correct": 2,
+    "explanation": "A dal egyszerű érzelmeket, alapvető hangulatokat közvetlenül kifejező, dallamos, kötött ritmusú lírai műfaj."
+  },
+  {
+    "id": 16,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik műfaj ábrázolja a mindennapi élet egy-egy tipikus helyzetét lírai és epikai elemekkel?",
+    "options": [
+      "Láncmese",
+      "Tündérmese",
+      "Állatmese",
+      "Életkép"
+    ],
+    "correct": 3,
+    "explanation": "Az életkép a mindennapi élet jellemző alakját vagy tipikus helyzetét (pl. falusi este, családi együttlét) mutatja be."
+  },
+  {
+    "id": 17,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Ki írta A századik könyv című elbeszélést az olvasás szeretetéről?",
+    "options": [
+      "Móra Ferenc",
+      "Weöres Sándor",
+      "Kányádi Sándor",
+      "Arany János"
+    ],
+    "correct": 0,
+    "explanation": "A könyvek bűvöletében című bevezető fejezet elbeszélését, A századik könyvet Móra Ferenc írta."
+  },
+  {
+    "id": 18,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Ki a szerzője az Előszó helyett: szigorúan véve című, könyvekről szóló részletnek?",
+    "options": [
+      "Petőfi Sándor",
+      "Michael Ende",
+      "Arany János",
+      "Benedek Elek"
+    ],
+    "correct": 1,
+    "explanation": "Az Előszó helyett: szigorúan véve című bevezető szöveg szerzője a német író, Michael Ende."
+  },
+  {
+    "id": 19,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Ki írta az „Ó ha cinke volnék” kezdetű dalt, és melyik ciklus része?",
+    "options": [
+      "Arany János; Családi kör",
+      "Petőfi Sándor; Felhők",
+      "Weöres Sándor; Rongyszőnyeg",
+      "Kányádi Sándor; Nagyanyó-kenyér"
+    ],
+    "correct": 2,
+    "explanation": "Az Ó ha cinke volnék Weöres Sándor verse, amely a Rongyszőnyeg című ciklusból származik."
+  },
+  {
+    "id": 20,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Milyen műfajú Weöres Sándor Ó ha cinke volnék című költeménye?",
+    "options": [
+      "Tündérmese",
+      "Hazafias óda",
+      "Prózai elbeszélés",
+      "Dal"
+    ],
+    "correct": 3,
+    "explanation": "Weöres Sándor Ó ha cinke volnék című verse dallamos, kötött ritmusú lírai dal."
+  },
+  {
+    "id": 21,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Ki írta a Nagyanyó-kenyér című lírai emlékezést / életképet?",
+    "options": [
+      "Kányádi Sándor",
+      "Móra Ferenc",
+      "Weöres Sándor",
+      "Petőfi Sándor"
+    ],
+    "correct": 0,
+    "explanation": "A Nagyanyó-kenyér című meghitt hangulatú verset Kányádi Sándor írta."
+  },
+  {
+    "id": 22,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik napszakban játszódik Arany János Családi kör című életképe?",
+    "options": [
+      "Kora hajnalban, napkeltekor",
+      "Este, a hazatérés és elcsendesedés idején",
+      "Délben, a tűző nyári napon",
+      "Szilveszter éjszakáján"
+    ],
+    "correct": 1,
+    "explanation": "A Családi kör („Este van, este van: kiki nyugalomba...”) a falusi este békés családi együttlétét mutatja be."
+  },
+  {
+    "id": 23,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Milyen szerkezeti sajátosság jellemzi Arany János Családi kör című versét?",
+    "options": [
+      "Láncszerű mesei felépítés",
+      "Színpadi drámai párbeszéd",
+      "Keretes szerkezet",
+      "Próza és vers váltakozása"
+    ],
+    "correct": 2,
+    "explanation": "A Családi kör keretes szerkezetű életkép: a természet és a ház elcsendesedése keretezi a családi idillt."
+  },
+  {
+    "id": 24,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Ki érkezik vendégségbe a családhoz Arany János Családi kör című versében?",
+    "options": [
+      "A falusi bíró",
+      "Egy vándorló diák",
+      "A szomszéd molnár",
+      "Egy béna harcos (vándor katona)"
+    ],
+    "correct": 3,
+    "explanation": "A család szeretettel látja vendégül a betérő „béna harcost”, akinek háborús történeteit feszülten hallgatják."
+  },
+  {
+    "id": 25,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Milyen rímfajta jellemző Arany János Családi kör című versére?",
+    "options": [
+      "Páros rím (a a b b)",
+      "Bokorrím (a a a a)",
+      "Félrím (x a x a)",
+      "Rímtelen szabadvers"
+    ],
+    "correct": 0,
+    "explanation": "A Családi kör versszakaiban a sorok párosával rímelnek (páros rím: a a b b)."
+  },
+  {
+    "id": 26,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Mi történik a hazatérő fiúval Petőfi Füstbement terv című versének végén?",
+    "options": [
+      "Eltéved a sűrű erdőben",
+      "Szótlanul borul édesanyja karjába",
+      "Hosszú köszöntő beszédet mond",
+      "Nem találja otthon a szüleit"
+    ],
+    "correct": 1,
+    "explanation": "A Füstbement tervben a beszélő egész úton a köszöntő szavakat tervezi, de a viszontlátás örömében szólni sem tud, csak átöleli édesanyját."
+  },
+  {
+    "id": 27,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik Petőfi-vers mutatja be az édesapával és édesanyával töltött meghitt otthoni estét?",
+    "options": [
+      "Magyar vagyok",
+      "Családi kör",
+      "Egy estém otthon",
+      "Ó ha cinke volnék"
+    ],
+    "correct": 2,
+    "explanation": "Petőfi Sándor Egy estém otthon című életképe a szülői házban töltött este érzelmeit örökíti meg."
+  },
+  {
+    "id": 28,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Miért aggódik az édesapa fia jövőjéért Petőfi Egy estém otthon című versében?",
+    "options": [
+      "Mert a fiú tengerész akar lenni",
+      "Mert a fiú nem szeret olvasni",
+      "Mert a fiú külföldre akar költözni",
+      "Bizonytalannak tartja a költői pályát"
+    ],
+    "correct": 3,
+    "explanation": "Az apa gyakorlatias szemmel félti fiát a költészet és a színészet bizonytalanságától, míg az édesanya szeretettel kérdezgeti őt."
+  },
+  {
+    "id": 29,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Milyen műfajú Petőfi Sándor Magyar vagyok című költeménye?",
+    "options": [
+      "Lírai vallomás / hazafias dal",
+      "Láncmese",
+      "Prózai életkép",
+      "Állatmese"
+    ],
+    "correct": 0,
+    "explanation": "A Magyar vagyok Petőfi Sándor személyes hangú lírai vallomása és hazafias költeménye a nemzeti hovatartozásról."
+  },
+  {
+    "id": 30,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Milyen érzelmet fejez ki a beszélő Petőfi Magyar vagyok című versében?",
+    "options": [
+      "Vágyakozást egy távoli szigetre",
+      "Büszke hazaszeretetet és hűséget",
+      "Bánatot az ősz elmúlása miatt",
+      "Vidám tavaszi falusi mulatságot"
+    ],
+    "correct": 1,
+    "explanation": "A versben a lírai én büszkén vállalja magyarságát a dicsőségben és a nehéz sorsban egyaránt."
+  },
+  {
+    "id": 31,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Mi a mese pontos irodalmi fogalma?",
+    "options": [
+      "Történelmi dokumentumokon alapuló leírás",
+      "Versszakokba szedett hazafias ének",
+      "Csodás elemekkel átszőtt, kitalált történet",
+      "Színpadon előadott tragikus színmű"
+    ],
+    "correct": 2,
+    "explanation": "A mese csodás, hihetetlen, valószerűtlen elemekkel átszőtt, kitalált történet, amely az epika műneméhez tartozik."
+  },
+  {
+    "id": 32,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik műnemhez tartoznak a mesék?",
+    "options": [
+      "A lírához",
+      "A drámához",
+      "A publicisztikához",
+      "Az epikához"
+    ],
+    "correct": 3,
+    "explanation": "A mesék eseménysort, történetet mondanak el szereplőkkel, ezért az epika műnemébe tartoznak."
+  },
+  {
+    "id": 33,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Miben különbözik a műmese a népmesétől?",
+    "options": [
+      "Szerzője ismert, szövege rögzített",
+      "Soha nincs ismert szerzője",
+      "Kizárólag szájhagyomány útján terjed",
+      "Nem szerepelhetnek benne próbatételek"
+    ],
+    "correct": 0,
+    "explanation": "A műmese szerzője ismert író, írott formában keletkezik, és szövege egyetlen rögzített változatban létezik."
+  },
+  {
+    "id": 34,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyek a magyar népmesék legjellemzőbb mesei (bűvös) számai?",
+    "options": [
+      "2, 4, 8, 16",
+      "3, 7, 12, 77",
+      "5, 10, 25, 100",
+      "1, 6, 9, 14"
+    ],
+    "correct": 1,
+    "explanation": "A mesékben leggyakrabban előforduló mesei számok: 3, 7, 12 és 77."
+  },
+  {
+    "id": 35,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik kifejezés jellegzetes mesei kezdőformula?",
+    "options": [
+      "„Itt a vége, fuss el véle!”",
+      "„Ma még véle, holnap néked!”",
+      "„Egyszer volt, hol nem volt...”",
+      "„Aki nem hiszi, járjon utána!”"
+    ],
+    "correct": 2,
+    "explanation": "Az „Egyszer volt, hol nem volt...” a népmesék hagyományos kezdőformulája, amely bevezet a mese világába."
+  },
+  {
+    "id": 36,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik kifejezés jellegzetes mesei záróformula?",
+    "options": [
+      "„Egyszer volt, hol nem volt...”",
+      "„Szerencséd, hogy öreganyádnak szólítottál!”",
+      "„Ment, mendegélt a királyfi...”",
+      "„Itt a vége, fuss el véle!”"
+    ],
+    "correct": 3,
+    "explanation": "A mesei záróformulák (pl. „Itt a vége, fuss el véle!”) lezárják a mesét és visszavezetik a hallgatót a valóságba."
+  },
+  {
+    "id": 37,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Hogyan érvényesül az igazságszolgáltatás a népmesék végén?",
+    "options": [
+      "A jó elnyeri jutalmát, a gonosz megbűnhődik",
+      "A gonosz szereplők mindig győznek",
+      "A főhős mindig üres kézzel tér haza",
+      "Soha nem derül ki az igazság"
+    ],
+    "correct": 0,
+    "explanation": "A népmesék végén mindig helyreáll a világ rendje: a jó elnyeri jutalmát, a gonosz pedig méltó büntetését."
+  },
+  {
+    "id": 38,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik mesefajta jellemzője, hogy csodás lények és varázstárgyak szerepelnek benne?",
+    "options": [
+      "Valósmese (reális mese)",
+      "Tündérmese (varázsmese)",
+      "Állatmese",
+      "Láncmese"
+    ],
+    "correct": 1,
+    "explanation": "A tündérmesében (varázsmesében) csodás lények és varázstárgyak segítik a hőst a győzelemhez."
+  },
+  {
+    "id": 39,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik mesefajtában győz a hős csodás elemek nélkül, a saját eszével és talpraesettségével?",
+    "options": [
+      "Láncmese",
+      "Tündérmese",
+      "Valósmese (reális mese)",
+      "Állatmese"
+    ],
+    "correct": 2,
+    "explanation": "A valósmesében (reális mesében) valós szereplők és helyszínek vannak, a hős pedig a saját eszével győz."
+  },
+  {
+    "id": 40,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik mesetípusban szerepelnek emberi tulajdonságokkal felruházott állatok tanulsággal?",
+    "options": [
+      "Tündérmese",
+      "Láncmese",
+      "Valósmese",
+      "Állatmese"
+    ],
+    "correct": 3,
+    "explanation": "Az állatmesében emberi tulajdonságokkal felruházott állatok szerepelnek, és a történet tanulsággal zárul."
+  },
+  {
+    "id": 41,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik mesetípus épül egymásból következő, láncszerűen ismétlődő eseményekre?",
+    "options": [
+      "A láncmese",
+      "Az állatmese",
+      "A tündérmese",
+      "A valósmese"
+    ],
+    "correct": 0,
+    "explanation": "A láncmese egymásból következő, láncszerűen ismétlődő eseményekből áll."
+  },
+  {
+    "id": 42,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Milyen mesetípusba tartozik a Tündérszép Ilona és Árgyélus című magyar népmese?",
+    "options": [
+      "Valósmese",
+      "Tündérmese (varázsmese)",
+      "Állatmese",
+      "Láncmese"
+    ],
+    "correct": 1,
+    "explanation": "A Tündérszép Ilona és Árgyélus csodás lényeket, varázstárgyakat és próbatételeket felvonultató tündérmese."
+  },
+  {
+    "id": 43,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Milyen különleges fa állt a király kertjében a Tündérszép Ilona és Árgyélus mesében?",
+    "options": [
+      "Egy ezüstlevelű fűzfa",
+      "Egy gyémántvirágú rózsabokor",
+      "Egy aranyalmafa",
+      "Egy beszélő tölgyfa"
+    ],
+    "correct": 2,
+    "explanation": "A király kertjében álló aranyalmafa termését minden éjjel ellopták, mire megérett."
+  },
+  {
+    "id": 44,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Kinek sikerült ébren maradnia és meglesnie az aranyalmák tolvajait?",
+    "options": [
+      "A legidősebb királyfinak",
+      "A középső királyfinak",
+      "A király udvari vadászának",
+      "A legkisebb királyfinak, Árgyélusnak"
+    ],
+    "correct": 3,
+    "explanation": "A két báty elaludt az őrködés közben, egyedül a legkisebb királyfi, Árgyélus maradt ébren."
+  },
+  {
+    "id": 45,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Milyen alakban repült a fára Tündérszép Ilona és társai az aranyalmákért?",
+    "options": [
+      "Holló (vagy hattyú) madáralakban",
+      "Aranyhal alakjában",
+      "Szárnyas paripa hátán",
+      "Kisegér alakjában"
+    ],
+    "correct": 0,
+    "explanation": "A tündérlányok madáralakban szálltak az aranyalmafára, majd tündérlánnyá változtak."
+  },
+  {
+    "id": 46,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Miért veszítette el Árgyélus királyfi Tündérszép Ilonát az első találkozásuk után?",
+    "options": [
+      "Mert Tündérszép Ilona nem szerette őt",
+      "A vén banya levágta Ilona aranyhaját",
+      "Mert Árgyélus elutazott vadászni",
+      "Mert a bátyjai elrabolták a lányt"
+    ],
+    "correct": 1,
+    "explanation": "Árgyélus a karjára csavarta Ilona aranyhaját, de a gonosz vénasszony éjjel elvágta a hajfürtöt, így Ilonának el kellett repülnie."
+  },
+  {
+    "id": 47,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Kiktől kért útbaigazítást Árgyélus vándorlása során, hogy megtalálja Tündérszép Ilonát?",
+    "options": [
+      "Három öreg molnártól",
+      "A tengeri halaktól",
+      "A Naptól, a Holdtól és a Széltől",
+      "A király tanácsadóitól"
+    ],
+    "correct": 2,
+    "explanation": "Árgyélus a Napnál, a Holdnál és a mindenütt megforduló Szélnél érdeklődött Tündérszép Ilona lakóhelye felől."
+  },
+  {
+    "id": 48,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Milyen varázstárgyakat szerzett meg Árgyélus a három veszekedő ördögfiókától?",
+    "options": [
+      "Varázspálcát, gyűrűt és koronát",
+      "Aranykardot, pajzsot és sisakot",
+      "Furulyát, tarisznyát és kulacsot",
+      "Köpönyeget, bocskort és ostort"
+    ],
+    "correct": 3,
+    "explanation": "Árgyélus csellel megszerezte az ördögfiókák örökségét: a láthatatlanná tevő köpönyeget, a repítő bocskort és a csodás ostort."
+  },
+  {
+    "id": 49,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Milyen mesetípusba tartozik Az okos lány című magyar népmese?",
+    "options": [
+      "Valósmese (reális mese)",
+      "Tündérmese",
+      "Állatmese",
+      "Láncmese"
+    ],
+    "correct": 0,
+    "explanation": "Az okos lány valósmese (reális mese), mert a főhős varázslat nélkül, saját eszével és leleményességével győz."
+  },
+  {
+    "id": 50,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik uralkodó teszi próbára a molnár lányát Az okos lány című mesében?",
+    "options": [
+      "Szent István király",
+      "Mátyás király",
+      "Szent László király",
+      "Árgyélus királyfi"
+    ],
+    "correct": 1,
+  },
+  {
+    "id": 51,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Hogyan teljesítette az okos lány azt a parancsot, hogy „hozzon is ajándékot, meg ne is”?",
+    "options": [
+      "Üres kosarat vitt a királynak",
+      "Jégcsapot vitt, ami elolvadt",
+      "Két szita közé zárt élő galambot vitt",
+      "Virágot vitt, majd visszakérte"
+    ],
+    "correct": 2,
+    "explanation": "A lány két szita közé egy élő galambot tett: amikor Mátyás király átvette, a madár elrepült – így hozott is, meg nem is."
+  },
+  {
+    "id": 52,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Hogyan teljesítette a lány azt a kérést, hogy „jöjjön is, meg ne is”?",
+    "options": [
+      "Hátrafelé sétált a palotába",
+      "Becsukott szemmel ment be",
+      "Csak az ablakon nézett be",
+      "Kecskeszánon (kecskeháton) érkezett"
+    ],
+    "correct": 3,
+    "explanation": "A lány kecskeháton/kecskeszánon ment: így a lába érte is a földet, meg nem is."
+  },
+  {
+    "id": 53,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Mit küldött vissza az okos lány, amikor a király lenmagból akart aranyfonalat fonatni vele?",
+    "options": [
+      "Kenderkócot, hogy csináltasson belőle aranykorsót",
+      "Egy zsák aranypénzt és ezüstöt",
+      "Egy hímzett selyemkendőt",
+      "Egy kosár frissen sült pogácsát"
+    ],
+    "correct": 0,
+    "explanation": "A lány szellemesen visszavágott: kenderkócot küldött, hogy a király készíttessen belőle aranykorsót."
+  },
+  {
+    "id": 54,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Mit üzent az okos lány, amikor a király a lyukas korsót akarta vele befoltoztatni?",
+    "options": [
+      "Hogy nincs otthon varrótűje",
+      "Előbb a király fordítsa ki a korsót",
+      "Hogy csak selymet tud fonni",
+      "Hogy eltört a korsó füle"
+    ],
+    "correct": 1,
+    "explanation": "A lány azt üzente: szívesen befoltozza, ha előbb a király kifordítja a korsót a visszájára, ahogy a csizmát szokták."
+  },
+  {
+    "id": 55,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Mi lett a jutalma a molnár lányának Az okos lány című mesében?",
+    "options": [
+      "Kapott egy zsák ezüstpénzt és hazament",
+      "A király főszakácsa lett",
+      "Mátyás király feleségül vette",
+      "Kapott egy szép lovat és szekeret"
+    ],
+    "correct": 2,
+    "explanation": "Mátyás királynak annyira megtetszett a lány okossága és talpraesettsége, hogy feleségül vette."
+  },
+  {
+    "id": 56,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Ki volt az apja az okos lánynak Az okos lány című mesében?",
+    "options": [
+      "Kovács",
+      "Favágó",
+      "Molnár"
+    ],
+    "correct": 3,
+  },
+  {
+    "id": 57,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik mondat jellegzetes állandó mesei kifejezés (fordulat)?",
+    "options": [
+      "„A víz száz Celsius-fokon forr fel.”",
+      "„Tisztelt Szerkesztőség!”",
+      "„Először végezzük el a szorzást!”"
+    ],
+    "correct": 0,
+  },
+  {
+    "id": 58,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Hány próbatételt kell általában kiállnia a népmesék főhősének?",
+    "options": [
+      "Általában három próbatételt",
+      "Mindig pontosan tíz próbát",
+      "A népmesékben nincsenek próbák"
+    ],
+    "correct": 1,
+  },
+  {
+    "id": 59,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Hogyan keletkezik a versritmus a költeményekben?",
+    "options": [
+      "A fejezetek sorszámozásából",
+      "A szereplők nevének felsorolásából",
+      "A hangsúlyos és hangsúlytalan szótagok szabályos váltakozásából",
+      "A mondatvégi felkiáltójelekből"
+    ],
+    "correct": 2,
+    "explanation": "A versritmus a beszédhangok, szótagok, hangsúlyok vagy gondolatok szabályos ismétlődéséből fakadó lüktetés."
+  },
+  {
+    "id": 60,
+    "subject": "Irodalom",
+    "icon": "📖",
+    "grade": "5. osztály",
+    "q": "Melyik két mű tartozik az „Életkép” műfajába az 1. fejezetben tanult versek közül?",
+    "options": [
+      "Az okos lány és Tündérszép Ilona",
+      "A századik könyv és Magyar vagyok",
+      "Ó ha cinke volnék és Magyar vagyok",
+      "Családi kör és Egy estém otthon"
+    ],
+    "correct": 3,
+    "explanation": "Arany János Családi kör és Petőfi Sándor Egy estém otthon című verse egyaránt a családi együttlétet ábrázoló életkép."
+  }
+]
