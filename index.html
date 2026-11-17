@@ -4700,6 +4700,23 @@
     }
 ];
 
+    // --- GAME STATE ---
+    let TARGET_SCORE = 7;
+    let score = 0;
+    let isGameOver = false;
+    let isSoundMuted = false;
+
+    let teamNames = {
+      blue: 'Kék versenyző',
+      red: 'Piros versenyző'
+    };
+
+    let teamStats = {
+      blue: { correct: 0, wrong: 0, pulls: 0, streak: 0, history: [] },
+      red: { correct: 0, wrong: 0, pulls: 0, streak: 0, history: [] }
+    };
+
+    let activeDeck = [];
     let currentQuestions = {
       blue: null,
       red: null
